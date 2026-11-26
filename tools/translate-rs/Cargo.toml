@@ -1,0 +1,31 @@
+[package]
+name = "zvs3-translate"
+version = "0.1.0"
+edition = "2021"
+publish = false
+autobins = false
+
+[lib]
+name = "zvs_translate"
+
+[[bin]]
+name = "zvs3-translate"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+encoding_rs = "0.8"
+freetype-rs = { version = "0.38", default-features = false }
+png = "0.17"
+rustybuzz = "0.20"
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+
+[lints.rust]
+unsafe_code = "forbid"
+
+[lints.clippy]
+all = "deny"
+
+[profile.release]
+debug = false

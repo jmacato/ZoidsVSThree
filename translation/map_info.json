@@ -1,0 +1,6929 @@
+[
+ {
+  "id": "title:チーム・ブリッツ",
+  "kind": "title",
+  "ja": "チーム・ブリッツ",
+  "en": "Blitz Team",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x28",
+   "menu/map_info_dat/B008.mg:0x28",
+   "menu/map_info_dat/B020.mg:0x28",
+   "menu/map_info_dat/B024.mg:0x28",
+   "menu/map_info_dat/D000.mg:0x28",
+   "menu/map_info_dat/D002.mg:0x28",
+   "menu/map_info_dat/D004.mg:0x28",
+   "menu/map_info_dat/D010.mg:0x28",
+   "menu/map_info_dat/D012.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:敵チームの全滅",
+  "kind": "victory",
+  "ja": "敵チームの全滅",
+  "en": "All foes down",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x8c",
+   "menu/map_info_dat/B001.mg:0x8c",
+   "menu/map_info_dat/B002.mg:0x8c",
+   "menu/map_info_dat/B003.mg:0x8c",
+   "menu/map_info_dat/B004.mg:0x8c",
+   "menu/map_info_dat/B005.mg:0x8c",
+   "menu/map_info_dat/B006.mg:0x8c",
+   "menu/map_info_dat/B007.mg:0x8c",
+   "menu/map_info_dat/B008.mg:0x8c",
+   "menu/map_info_dat/B009.mg:0x8c",
+   "menu/map_info_dat/B010.mg:0x8c",
+   "menu/map_info_dat/B011.mg:0x8c",
+   "menu/map_info_dat/B012.mg:0x8c",
+   "menu/map_info_dat/B013.mg:0x8c",
+   "menu/map_info_dat/B014.mg:0x8c",
+   "menu/map_info_dat/B015.mg:0x8c",
+   "menu/map_info_dat/B016.mg:0x8c",
+   "menu/map_info_dat/B017.mg:0x8c",
+   "menu/map_info_dat/B018.mg:0x8c",
+   "menu/map_info_dat/B019.mg:0x8c",
+   "menu/map_info_dat/B020.mg:0x8c",
+   "menu/map_info_dat/B021.mg:0x8c",
+   "menu/map_info_dat/B022.mg:0x8c",
+   "menu/map_info_dat/B023.mg:0x8c",
+   "menu/map_info_dat/B024.mg:0x8c",
+   "menu/map_info_dat/B025.mg:0x8c",
+   "menu/map_info_dat/B026.mg:0x8c",
+   "menu/map_info_dat/B027.mg:0x8c",
+   "menu/map_info_dat/B028.mg:0x8c",
+   "menu/map_info_dat/B029.mg:0x8c",
+   "menu/map_info_dat/B030.mg:0x8c",
+   "menu/map_info_dat/B031.mg:0x8c",
+   "menu/map_info_dat/B032.mg:0x8c",
+   "menu/map_info_dat/B033.mg:0x8c",
+   "menu/map_info_dat/B034.mg:0x8c",
+   "menu/map_info_dat/B035.mg:0x8c",
+   "menu/map_info_dat/B036.mg:0x8c",
+   "menu/map_info_dat/B037.mg:0x8c",
+   "menu/map_info_dat/B038.mg:0x8c",
+   "menu/map_info_dat/B039.mg:0x8c",
+   "menu/map_info_dat/D000.mg:0x8c",
+   "menu/map_info_dat/D001.mg:0x8c",
+   "menu/map_info_dat/D002.mg:0x8c",
+   "menu/map_info_dat/D003.mg:0x8c",
+   "menu/map_info_dat/D004.mg:0x8c",
+   "menu/map_info_dat/D009.mg:0x8c",
+   "menu/map_info_dat/D010.mg:0x8c",
+   "menu/map_info_dat/D011.mg:0x8c",
+   "menu/map_info_dat/D012.mg:0x8c",
+   "menu/map_info_dat/D013.mg:0x8c"
+  ]
+ },
+ {
+  "id": "defeat:自機の大破    ",
+  "kind": "defeat",
+  "ja": "自機の大破    ",
+  "en": "Your Zoid down",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/B000.mg:0xdc",
+   "menu/map_info_dat/B001.mg:0xdc",
+   "menu/map_info_dat/B002.mg:0xdc",
+   "menu/map_info_dat/B003.mg:0xdc",
+   "menu/map_info_dat/B004.mg:0xdc",
+   "menu/map_info_dat/B005.mg:0xdc",
+   "menu/map_info_dat/B006.mg:0xdc",
+   "menu/map_info_dat/B007.mg:0xdc",
+   "menu/map_info_dat/B008.mg:0xdc",
+   "menu/map_info_dat/B009.mg:0xdc",
+   "menu/map_info_dat/B010.mg:0xdc",
+   "menu/map_info_dat/B011.mg:0xdc",
+   "menu/map_info_dat/B012.mg:0xdc",
+   "menu/map_info_dat/B013.mg:0xdc",
+   "menu/map_info_dat/B014.mg:0xdc",
+   "menu/map_info_dat/B015.mg:0xdc",
+   "menu/map_info_dat/B016.mg:0xdc",
+   "menu/map_info_dat/B017.mg:0xdc",
+   "menu/map_info_dat/B018.mg:0xdc",
+   "menu/map_info_dat/B019.mg:0xdc",
+   "menu/map_info_dat/B020.mg:0xdc",
+   "menu/map_info_dat/B021.mg:0xdc",
+   "menu/map_info_dat/B022.mg:0xdc",
+   "menu/map_info_dat/B023.mg:0xdc",
+   "menu/map_info_dat/B024.mg:0xdc",
+   "menu/map_info_dat/B025.mg:0xdc",
+   "menu/map_info_dat/B026.mg:0xdc",
+   "menu/map_info_dat/B027.mg:0xdc",
+   "menu/map_info_dat/B028.mg:0xdc",
+   "menu/map_info_dat/B029.mg:0xdc",
+   "menu/map_info_dat/B030.mg:0xdc",
+   "menu/map_info_dat/B031.mg:0xdc",
+   "menu/map_info_dat/B032.mg:0xdc",
+   "menu/map_info_dat/B033.mg:0xdc",
+   "menu/map_info_dat/B034.mg:0xdc",
+   "menu/map_info_dat/B035.mg:0xdc",
+   "menu/map_info_dat/B036.mg:0xdc",
+   "menu/map_info_dat/B037.mg:0xdc",
+   "menu/map_info_dat/B038.mg:0xdc",
+   "menu/map_info_dat/B039.mg:0xdc",
+   "menu/map_info_dat/D000.mg:0xdc",
+   "menu/map_info_dat/D001.mg:0xdc",
+   "menu/map_info_dat/D002.mg:0xdc",
+   "menu/map_info_dat/D003.mg:0xdc",
+   "menu/map_info_dat/D004.mg:0xdc",
+   "menu/map_info_dat/D009.mg:0xdc",
+   "menu/map_info_dat/D010.mg:0xdc",
+   "menu/map_info_dat/D011.mg:0xdc",
+   "menu/map_info_dat/D012.mg:0xdc",
+   "menu/map_info_dat/D013.mg:0xdc"
+  ]
+ },
+ {
+  "id": "unit:荒野/昼",
+  "kind": "unit",
+  "ja": "荒野/昼",
+  "en": "Wasteland/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x12c",
+   "menu/map_info_dat/B001.mg:0x12c",
+   "menu/map_info_dat/B002.mg:0x12c",
+   "menu/map_info_dat/B003.mg:0x12c",
+   "menu/map_info_dat/B004.mg:0x12c",
+   "menu/map_info_dat/B005.mg:0x12c",
+   "menu/map_info_dat/B006.mg:0x12c",
+   "menu/map_info_dat/B007.mg:0x12c",
+   "menu/map_info_dat/B008.mg:0x12c",
+   "menu/map_info_dat/B009.mg:0x12c",
+   "menu/map_info_dat/B010.mg:0x12c",
+   "menu/map_info_dat/B011.mg:0x12c",
+   "menu/map_info_dat/B012.mg:0x12c",
+   "menu/map_info_dat/B013.mg:0x12c",
+   "menu/map_info_dat/B014.mg:0x12c",
+   "menu/map_info_dat/B015.mg:0x12c",
+   "menu/map_info_dat/B016.mg:0x12c",
+   "menu/map_info_dat/B017.mg:0x12c",
+   "menu/map_info_dat/B018.mg:0x12c",
+   "menu/map_info_dat/B019.mg:0x12c",
+   "menu/map_info_dat/B020.mg:0x12c",
+   "menu/map_info_dat/B021.mg:0x12c",
+   "menu/map_info_dat/B022.mg:0x12c",
+   "menu/map_info_dat/B023.mg:0x12c",
+   "menu/map_info_dat/B024.mg:0x12c",
+   "menu/map_info_dat/B025.mg:0x12c",
+   "menu/map_info_dat/B026.mg:0x12c",
+   "menu/map_info_dat/B027.mg:0x12c",
+   "menu/map_info_dat/B028.mg:0x12c",
+   "menu/map_info_dat/B029.mg:0x12c",
+   "menu/map_info_dat/B030.mg:0x12c",
+   "menu/map_info_dat/B031.mg:0x12c",
+   "menu/map_info_dat/B032.mg:0x12c",
+   "menu/map_info_dat/B033.mg:0x12c",
+   "menu/map_info_dat/B034.mg:0x12c",
+   "menu/map_info_dat/B035.mg:0x12c",
+   "menu/map_info_dat/B036.mg:0x12c",
+   "menu/map_info_dat/B037.mg:0x12c",
+   "menu/map_info_dat/B038.mg:0x12c",
+   "menu/map_info_dat/B039.mg:0x12c",
+   "menu/map_info_dat/D009.mg:0x12c",
+   "menu/map_info_dat/M000.mg:0x12c",
+   "menu/map_info_dat/M001.mg:0x12c",
+   "menu/map_info_dat/M002.mg:0x12c",
+   "menu/map_info_dat/M003.mg:0x12c",
+   "menu/map_info_dat/M004.mg:0x12c",
+   "menu/map_info_dat/M005.mg:0x12c",
+   "menu/map_info_dat/M007.mg:0x12c",
+   "menu/map_info_dat/M008.mg:0x12c",
+   "menu/map_info_dat/M009.mg:0x12c",
+   "menu/map_info_dat/M010.mg:0x12c",
+   "menu/map_info_dat/M011.mg:0x12c",
+   "menu/map_info_dat/M012.mg:0x12c",
+   "menu/map_info_dat/M016.mg:0x12c",
+   "menu/map_info_dat/M017.mg:0x12c",
+   "menu/map_info_dat/M020.mg:0x12c",
+   "menu/map_info_dat/M031.mg:0x12c",
+   "menu/map_info_dat/M033.mg:0x12c",
+   "menu/map_info_dat/M034.mg:0x12c",
+   "menu/map_info_dat/M035.mg:0x12c",
+   "menu/map_info_dat/M037.mg:0x12c",
+   "menu/map_info_dat/M038.mg:0x12c",
+   "menu/map_info_dat/M041.mg:0x12c",
+   "menu/map_info_dat/M043.mg:0x12c",
+   "menu/map_info_dat/M044.mg:0x12c",
+   "menu/map_info_dat/M045.mg:0x12c",
+   "menu/map_info_dat/M047.mg:0x12c",
+   "menu/map_info_dat/M048.mg:0x12c",
+   "menu/map_info_dat/M049.mg:0x12c",
+   "menu/map_info_dat/M060.mg:0x12c",
+   "menu/map_info_dat/M071.mg:0x12c",
+   "menu/map_info_dat/M072.mg:0x12c",
+   "menu/map_info_dat/M073.mg:0x12c",
+   "menu/map_info_dat/V000.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:大陸中央部の荒野。　　　\r\n高低差はあるが、障害物が\r\n全く存在しない。　　　　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "大陸中央部の荒野。　　　\r\n高低差はあるが、障害物が\r\n全く存在しない。　　　　\r\n　　　　　　　　　　",
+  "en": "Wasteland in the middle of\r\nthe continent. It has\r\nhills and dips, but not a\r\nsingle obstacle.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x178",
+   "menu/map_info_dat/B001.mg:0x178",
+   "menu/map_info_dat/B002.mg:0x178",
+   "menu/map_info_dat/B003.mg:0x178",
+   "menu/map_info_dat/B004.mg:0x178",
+   "menu/map_info_dat/B005.mg:0x178",
+   "menu/map_info_dat/B006.mg:0x178",
+   "menu/map_info_dat/B007.mg:0x178",
+   "menu/map_info_dat/B008.mg:0x178",
+   "menu/map_info_dat/B009.mg:0x178",
+   "menu/map_info_dat/B010.mg:0x178",
+   "menu/map_info_dat/B011.mg:0x178",
+   "menu/map_info_dat/B012.mg:0x178",
+   "menu/map_info_dat/B013.mg:0x178",
+   "menu/map_info_dat/B014.mg:0x178",
+   "menu/map_info_dat/B015.mg:0x178",
+   "menu/map_info_dat/B016.mg:0x178",
+   "menu/map_info_dat/B017.mg:0x178",
+   "menu/map_info_dat/B018.mg:0x178",
+   "menu/map_info_dat/B019.mg:0x178",
+   "menu/map_info_dat/B020.mg:0x178",
+   "menu/map_info_dat/B021.mg:0x178",
+   "menu/map_info_dat/B022.mg:0x178",
+   "menu/map_info_dat/B023.mg:0x178",
+   "menu/map_info_dat/B024.mg:0x178",
+   "menu/map_info_dat/B025.mg:0x178",
+   "menu/map_info_dat/B026.mg:0x178",
+   "menu/map_info_dat/B027.mg:0x178",
+   "menu/map_info_dat/B028.mg:0x178",
+   "menu/map_info_dat/B029.mg:0x178",
+   "menu/map_info_dat/B030.mg:0x178",
+   "menu/map_info_dat/B031.mg:0x178",
+   "menu/map_info_dat/B032.mg:0x178",
+   "menu/map_info_dat/B033.mg:0x178",
+   "menu/map_info_dat/B034.mg:0x178",
+   "menu/map_info_dat/B035.mg:0x178",
+   "menu/map_info_dat/B036.mg:0x178",
+   "menu/map_info_dat/B037.mg:0x178",
+   "menu/map_info_dat/B038.mg:0x178",
+   "menu/map_info_dat/B039.mg:0x178",
+   "menu/map_info_dat/D009.mg:0x178",
+   "menu/map_info_dat/M000.mg:0x178",
+   "menu/map_info_dat/M001.mg:0x178",
+   "menu/map_info_dat/M002.mg:0x178",
+   "menu/map_info_dat/M003.mg:0x178",
+   "menu/map_info_dat/M004.mg:0x178",
+   "menu/map_info_dat/M005.mg:0x178",
+   "menu/map_info_dat/M007.mg:0x178",
+   "menu/map_info_dat/M008.mg:0x178",
+   "menu/map_info_dat/M009.mg:0x178",
+   "menu/map_info_dat/M010.mg:0x178",
+   "menu/map_info_dat/M011.mg:0x178",
+   "menu/map_info_dat/M012.mg:0x178",
+   "menu/map_info_dat/M016.mg:0x178",
+   "menu/map_info_dat/M017.mg:0x178",
+   "menu/map_info_dat/M020.mg:0x178",
+   "menu/map_info_dat/M031.mg:0x178",
+   "menu/map_info_dat/M033.mg:0x178",
+   "menu/map_info_dat/M034.mg:0x178",
+   "menu/map_info_dat/M035.mg:0x178",
+   "menu/map_info_dat/M037.mg:0x178",
+   "menu/map_info_dat/M038.mg:0x178",
+   "menu/map_info_dat/M041.mg:0x178",
+   "menu/map_info_dat/M043.mg:0x178",
+   "menu/map_info_dat/M044.mg:0x178",
+   "menu/map_info_dat/M045.mg:0x178",
+   "menu/map_info_dat/M047.mg:0x178",
+   "menu/map_info_dat/M048.mg:0x178",
+   "menu/map_info_dat/M049.mg:0x178",
+   "menu/map_info_dat/M060.mg:0x178",
+   "menu/map_info_dat/M071.mg:0x178",
+   "menu/map_info_dat/M072.mg:0x178",
+   "menu/map_info_dat/M073.mg:0x178"
+  ]
+ },
+ {
+  "id": "head:ゾイドコロシアム　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ゾイドコロシアム　　　　\r\n　　　　　　　　　　　",
+  "en": "Zoid Coliseum",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x240",
+   "menu/map_info_dat/B005.mg:0x240",
+   "menu/map_info_dat/B019.mg:0x240",
+   "menu/map_info_dat/B022.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティ近郊に　　　\r\n建設されたゾイドバトルが\r\n行われる、専用競技場。　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ブルーシティ近郊に　　　\r\n建設されたゾイドバトルが\r\n行われる、専用競技場。　\r\n　　　　　　　　　　　　",
+  "en": "An arena built near Blue\r\nCity just for Zoid\r\nBattles.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x272",
+   "menu/map_info_dat/B005.mg:0x272",
+   "menu/map_info_dat/B019.mg:0x272",
+   "menu/map_info_dat/B022.mg:0x272"
+  ]
+ },
+ {
+  "id": "unit:セイバータイガーTS",
+  "kind": "unit",
+  "ja": "セイバータイガーTS",
+  "en": "Zaber Fang TS",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x378",
+   "menu/map_info_dat/B000.mg:0x5c4",
+   "menu/map_info_dat/B001.mg:0x378",
+   "menu/map_info_dat/B001.mg:0x5c4",
+   "menu/map_info_dat/B002.mg:0x378",
+   "menu/map_info_dat/B002.mg:0x5c4",
+   "menu/map_info_dat/B003.mg:0x378",
+   "menu/map_info_dat/B003.mg:0x5c4",
+   "menu/map_info_dat/B004.mg:0x378",
+   "menu/map_info_dat/B004.mg:0x5c4",
+   "menu/map_info_dat/B005.mg:0x378",
+   "menu/map_info_dat/B005.mg:0x5c4",
+   "menu/map_info_dat/B006.mg:0x378",
+   "menu/map_info_dat/B006.mg:0x5c4",
+   "menu/map_info_dat/B007.mg:0x378",
+   "menu/map_info_dat/B007.mg:0x5c4",
+   "menu/map_info_dat/B008.mg:0x378",
+   "menu/map_info_dat/B008.mg:0x5c4",
+   "menu/map_info_dat/B009.mg:0x378",
+   "menu/map_info_dat/B009.mg:0x5c4",
+   "menu/map_info_dat/B010.mg:0x378",
+   "menu/map_info_dat/B010.mg:0x5c4",
+   "menu/map_info_dat/B011.mg:0x378",
+   "menu/map_info_dat/B011.mg:0x5c4",
+   "menu/map_info_dat/B012.mg:0x378",
+   "menu/map_info_dat/B012.mg:0x5c4",
+   "menu/map_info_dat/B013.mg:0x378",
+   "menu/map_info_dat/B013.mg:0x5c4",
+   "menu/map_info_dat/B014.mg:0x378",
+   "menu/map_info_dat/B014.mg:0x5c4",
+   "menu/map_info_dat/B015.mg:0x378",
+   "menu/map_info_dat/B015.mg:0x5c4",
+   "menu/map_info_dat/B016.mg:0x378",
+   "menu/map_info_dat/B016.mg:0x5c4",
+   "menu/map_info_dat/B017.mg:0x378",
+   "menu/map_info_dat/B017.mg:0x5c4",
+   "menu/map_info_dat/B018.mg:0x378",
+   "menu/map_info_dat/B018.mg:0x5c4",
+   "menu/map_info_dat/B019.mg:0x378",
+   "menu/map_info_dat/B019.mg:0x5c4",
+   "menu/map_info_dat/B020.mg:0x378",
+   "menu/map_info_dat/B020.mg:0x5c4",
+   "menu/map_info_dat/B021.mg:0x378",
+   "menu/map_info_dat/B021.mg:0x5c4",
+   "menu/map_info_dat/B022.mg:0x378",
+   "menu/map_info_dat/B022.mg:0x5c4",
+   "menu/map_info_dat/B023.mg:0x378",
+   "menu/map_info_dat/B023.mg:0x5c4",
+   "menu/map_info_dat/B024.mg:0x378",
+   "menu/map_info_dat/B024.mg:0x5c4",
+   "menu/map_info_dat/B025.mg:0x378",
+   "menu/map_info_dat/B025.mg:0x5c4",
+   "menu/map_info_dat/B026.mg:0x378",
+   "menu/map_info_dat/B026.mg:0x5c4",
+   "menu/map_info_dat/B027.mg:0x378",
+   "menu/map_info_dat/B027.mg:0x5c4",
+   "menu/map_info_dat/B028.mg:0x378",
+   "menu/map_info_dat/B028.mg:0x5c4",
+   "menu/map_info_dat/B029.mg:0x378",
+   "menu/map_info_dat/B029.mg:0x5c4",
+   "menu/map_info_dat/B030.mg:0x378",
+   "menu/map_info_dat/B030.mg:0x5c4",
+   "menu/map_info_dat/B031.mg:0x378",
+   "menu/map_info_dat/B031.mg:0x5c4",
+   "menu/map_info_dat/B032.mg:0x378",
+   "menu/map_info_dat/B032.mg:0x5c4",
+   "menu/map_info_dat/B033.mg:0x378",
+   "menu/map_info_dat/B033.mg:0x5c4",
+   "menu/map_info_dat/B034.mg:0x378",
+   "menu/map_info_dat/B034.mg:0x5c4",
+   "menu/map_info_dat/B035.mg:0x378",
+   "menu/map_info_dat/B035.mg:0x5c4",
+   "menu/map_info_dat/B036.mg:0x378",
+   "menu/map_info_dat/B036.mg:0x5c4",
+   "menu/map_info_dat/B037.mg:0x378",
+   "menu/map_info_dat/B037.mg:0x5c4",
+   "menu/map_info_dat/B038.mg:0x378",
+   "menu/map_info_dat/B038.mg:0x5c4",
+   "menu/map_info_dat/B039.mg:0x378",
+   "menu/map_info_dat/B039.mg:0x5c4",
+   "menu/map_info_dat/D009.mg:0x378",
+   "menu/map_info_dat/D009.mg:0x5c4",
+   "menu/map_info_dat/M000.mg:0x378",
+   "menu/map_info_dat/M000.mg:0x5c4",
+   "menu/map_info_dat/M000.mg:0xef4",
+   "menu/map_info_dat/M001.mg:0x378",
+   "menu/map_info_dat/M001.mg:0x5c4",
+   "menu/map_info_dat/M001.mg:0xef4",
+   "menu/map_info_dat/M002.mg:0x378",
+   "menu/map_info_dat/M002.mg:0x5c4",
+   "menu/map_info_dat/M003.mg:0x378",
+   "menu/map_info_dat/M003.mg:0x5c4",
+   "menu/map_info_dat/M004.mg:0x378",
+   "menu/map_info_dat/M004.mg:0x5c4",
+   "menu/map_info_dat/M004.mg:0x810",
+   "menu/map_info_dat/M004.mg:0xa5c",
+   "menu/map_info_dat/M004.mg:0xca8",
+   "menu/map_info_dat/M005.mg:0x378",
+   "menu/map_info_dat/M006.mg:0x378",
+   "menu/map_info_dat/M007.mg:0x378",
+   "menu/map_info_dat/M007.mg:0x5c4",
+   "menu/map_info_dat/M007.mg:0x810",
+   "menu/map_info_dat/M008.mg:0x378",
+   "menu/map_info_dat/M008.mg:0x5c4",
+   "menu/map_info_dat/M008.mg:0x810",
+   "menu/map_info_dat/M008.mg:0xa5c",
+   "menu/map_info_dat/M008.mg:0xca8",
+   "menu/map_info_dat/M008.mg:0xef4",
+   "menu/map_info_dat/M008.mg:0x1140",
+   "menu/map_info_dat/M008.mg:0x138c",
+   "menu/map_info_dat/M008.mg:0x15d8",
+   "menu/map_info_dat/M008.mg:0x1824",
+   "menu/map_info_dat/M008.mg:0x1a70",
+   "menu/map_info_dat/M008.mg:0x1cbc",
+   "menu/map_info_dat/M008.mg:0x1f08",
+   "menu/map_info_dat/M008.mg:0x2154",
+   "menu/map_info_dat/M008.mg:0x23a0",
+   "menu/map_info_dat/M009.mg:0x378",
+   "menu/map_info_dat/M009.mg:0x5c4",
+   "menu/map_info_dat/M010.mg:0x378",
+   "menu/map_info_dat/M010.mg:0x5c4",
+   "menu/map_info_dat/M011.mg:0x378",
+   "menu/map_info_dat/M011.mg:0x5c4",
+   "menu/map_info_dat/M012.mg:0x378",
+   "menu/map_info_dat/M012.mg:0x5c4",
+   "menu/map_info_dat/M016.mg:0x378",
+   "menu/map_info_dat/M016.mg:0x5c4",
+   "menu/map_info_dat/M017.mg:0x378",
+   "menu/map_info_dat/M017.mg:0x5c4",
+   "menu/map_info_dat/M020.mg:0x378",
+   "menu/map_info_dat/M031.mg:0x378",
+   "menu/map_info_dat/M031.mg:0x5c4",
+   "menu/map_info_dat/M033.mg:0x378",
+   "menu/map_info_dat/M033.mg:0x5c4",
+   "menu/map_info_dat/M033.mg:0x810",
+   "menu/map_info_dat/M033.mg:0xa5c",
+   "menu/map_info_dat/M033.mg:0xca8",
+   "menu/map_info_dat/M033.mg:0xef4",
+   "menu/map_info_dat/M034.mg:0x378",
+   "menu/map_info_dat/M034.mg:0x5c4",
+   "menu/map_info_dat/M034.mg:0xca8",
+   "menu/map_info_dat/M035.mg:0x378",
+   "menu/map_info_dat/M035.mg:0x5c4",
+   "menu/map_info_dat/M035.mg:0xca8",
+   "menu/map_info_dat/M037.mg:0x378",
+   "menu/map_info_dat/M037.mg:0x5c4",
+   "menu/map_info_dat/M038.mg:0x378",
+   "menu/map_info_dat/M038.mg:0x5c4",
+   "menu/map_info_dat/M041.mg:0x378",
+   "menu/map_info_dat/M041.mg:0x5c4",
+   "menu/map_info_dat/M043.mg:0x378",
+   "menu/map_info_dat/M043.mg:0x5c4",
+   "menu/map_info_dat/M044.mg:0x378",
+   "menu/map_info_dat/M044.mg:0x5c4",
+   "menu/map_info_dat/M044.mg:0xca8",
+   "menu/map_info_dat/M045.mg:0x378",
+   "menu/map_info_dat/M045.mg:0x5c4",
+   "menu/map_info_dat/M045.mg:0x810",
+   "menu/map_info_dat/M045.mg:0xa5c",
+   "menu/map_info_dat/M045.mg:0xca8",
+   "menu/map_info_dat/M045.mg:0xef4",
+   "menu/map_info_dat/M047.mg:0x378",
+   "menu/map_info_dat/M048.mg:0x378",
+   "menu/map_info_dat/M049.mg:0x378",
+   "menu/map_info_dat/M049.mg:0x810",
+   "menu/map_info_dat/M060.mg:0x378",
+   "menu/map_info_dat/M060.mg:0x810",
+   "menu/map_info_dat/M071.mg:0x378",
+   "menu/map_info_dat/M071.mg:0x5c4",
+   "menu/map_info_dat/M072.mg:0x378",
+   "menu/map_info_dat/M072.mg:0x5c4",
+   "menu/map_info_dat/M072.mg:0x810",
+   "menu/map_info_dat/M072.mg:0xa5c",
+   "menu/map_info_dat/M072.mg:0xca8",
+   "menu/map_info_dat/M072.mg:0xef4",
+   "menu/map_info_dat/M072.mg:0x1140",
+   "menu/map_info_dat/M072.mg:0x138c",
+   "menu/map_info_dat/M072.mg:0x15d8",
+   "menu/map_info_dat/M072.mg:0x1824",
+   "menu/map_info_dat/M072.mg:0x1a70",
+   "menu/map_info_dat/M072.mg:0x1cbc",
+   "menu/map_info_dat/M072.mg:0x1f08",
+   "menu/map_info_dat/M073.mg:0x378",
+   "menu/map_info_dat/M073.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nカークランド　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nカークランド　　　　",
+  "en": "\r\n\r\nOpponent\r\nKirkland",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x3c4",
+   "menu/map_info_dat/B001.mg:0x3c4",
+   "menu/map_info_dat/B002.mg:0x3c4",
+   "menu/map_info_dat/B003.mg:0x3c4",
+   "menu/map_info_dat/B004.mg:0x3c4",
+   "menu/map_info_dat/B005.mg:0x3c4",
+   "menu/map_info_dat/B006.mg:0x3c4",
+   "menu/map_info_dat/B007.mg:0x3c4",
+   "menu/map_info_dat/B008.mg:0x3c4",
+   "menu/map_info_dat/B009.mg:0x3c4",
+   "menu/map_info_dat/B010.mg:0x3c4",
+   "menu/map_info_dat/B011.mg:0x3c4",
+   "menu/map_info_dat/B012.mg:0x3c4",
+   "menu/map_info_dat/B013.mg:0x3c4",
+   "menu/map_info_dat/B014.mg:0x3c4",
+   "menu/map_info_dat/B015.mg:0x3c4",
+   "menu/map_info_dat/B016.mg:0x3c4",
+   "menu/map_info_dat/B017.mg:0x3c4",
+   "menu/map_info_dat/B018.mg:0x3c4",
+   "menu/map_info_dat/B019.mg:0x3c4",
+   "menu/map_info_dat/B020.mg:0x3c4",
+   "menu/map_info_dat/B021.mg:0x3c4",
+   "menu/map_info_dat/B022.mg:0x3c4",
+   "menu/map_info_dat/B023.mg:0x3c4",
+   "menu/map_info_dat/B024.mg:0x3c4",
+   "menu/map_info_dat/B025.mg:0x3c4",
+   "menu/map_info_dat/B026.mg:0x3c4",
+   "menu/map_info_dat/B027.mg:0x3c4",
+   "menu/map_info_dat/B028.mg:0x3c4",
+   "menu/map_info_dat/B029.mg:0x3c4",
+   "menu/map_info_dat/B030.mg:0x3c4",
+   "menu/map_info_dat/B031.mg:0x3c4",
+   "menu/map_info_dat/B032.mg:0x3c4",
+   "menu/map_info_dat/B033.mg:0x3c4",
+   "menu/map_info_dat/B034.mg:0x3c4",
+   "menu/map_info_dat/B035.mg:0x3c4",
+   "menu/map_info_dat/B036.mg:0x3c4",
+   "menu/map_info_dat/B037.mg:0x3c4",
+   "menu/map_info_dat/B038.mg:0x3c4",
+   "menu/map_info_dat/B039.mg:0x3c4",
+   "menu/map_info_dat/D009.mg:0x3c4",
+   "menu/map_info_dat/M000.mg:0x3c4",
+   "menu/map_info_dat/M001.mg:0x3c4",
+   "menu/map_info_dat/M002.mg:0x3c4",
+   "menu/map_info_dat/M003.mg:0x3c4",
+   "menu/map_info_dat/M004.mg:0x3c4",
+   "menu/map_info_dat/M005.mg:0x3c4",
+   "menu/map_info_dat/M006.mg:0x3c4",
+   "menu/map_info_dat/M007.mg:0x3c4",
+   "menu/map_info_dat/M008.mg:0x3c4",
+   "menu/map_info_dat/M009.mg:0x3c4",
+   "menu/map_info_dat/M010.mg:0x3c4",
+   "menu/map_info_dat/M011.mg:0x3c4",
+   "menu/map_info_dat/M012.mg:0x3c4",
+   "menu/map_info_dat/M016.mg:0x3c4",
+   "menu/map_info_dat/M017.mg:0x3c4",
+   "menu/map_info_dat/M020.mg:0x3c4",
+   "menu/map_info_dat/M031.mg:0x3c4",
+   "menu/map_info_dat/M033.mg:0x3c4",
+   "menu/map_info_dat/M034.mg:0x3c4",
+   "menu/map_info_dat/M035.mg:0x3c4",
+   "menu/map_info_dat/M037.mg:0x3c4",
+   "menu/map_info_dat/M038.mg:0x3c4",
+   "menu/map_info_dat/M041.mg:0x3c4",
+   "menu/map_info_dat/M043.mg:0x3c4",
+   "menu/map_info_dat/M044.mg:0x3c4",
+   "menu/map_info_dat/M045.mg:0x3c4",
+   "menu/map_info_dat/M047.mg:0x3c4",
+   "menu/map_info_dat/M048.mg:0x3c4",
+   "menu/map_info_dat/M049.mg:0x3c4",
+   "menu/map_info_dat/M060.mg:0x3c4",
+   "menu/map_info_dat/M071.mg:0x3c4",
+   "menu/map_info_dat/M072.mg:0x3c4",
+   "menu/map_info_dat/M073.mg:0x3c4"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロ　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ライガーゼロ　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Liger Zero",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x48c",
+   "menu/map_info_dat/B003.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nビット　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nビット　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nBit",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x4be",
+   "menu/map_info_dat/B008.mg:0x4be",
+   "menu/map_info_dat/B024.mg:0x4be",
+   "menu/map_info_dat/B036.mg:0x4be"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nラインバック　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nラインバック　　　　",
+  "en": "\r\n\r\nOpponent\r\nLineback",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x610",
+   "menu/map_info_dat/B001.mg:0x610",
+   "menu/map_info_dat/B002.mg:0x610",
+   "menu/map_info_dat/B003.mg:0x610",
+   "menu/map_info_dat/B004.mg:0x610",
+   "menu/map_info_dat/B005.mg:0x610",
+   "menu/map_info_dat/B006.mg:0x610",
+   "menu/map_info_dat/B007.mg:0x610",
+   "menu/map_info_dat/B008.mg:0x610",
+   "menu/map_info_dat/B009.mg:0x610",
+   "menu/map_info_dat/B010.mg:0x610",
+   "menu/map_info_dat/B011.mg:0x610",
+   "menu/map_info_dat/B012.mg:0x610",
+   "menu/map_info_dat/B013.mg:0x610",
+   "menu/map_info_dat/B014.mg:0x610",
+   "menu/map_info_dat/B015.mg:0x610",
+   "menu/map_info_dat/B016.mg:0x610",
+   "menu/map_info_dat/B017.mg:0x610",
+   "menu/map_info_dat/B018.mg:0x610",
+   "menu/map_info_dat/B019.mg:0x610",
+   "menu/map_info_dat/B020.mg:0x610",
+   "menu/map_info_dat/B021.mg:0x610",
+   "menu/map_info_dat/B022.mg:0x610",
+   "menu/map_info_dat/B023.mg:0x610",
+   "menu/map_info_dat/B024.mg:0x610",
+   "menu/map_info_dat/B025.mg:0x610",
+   "menu/map_info_dat/B026.mg:0x610",
+   "menu/map_info_dat/B027.mg:0x610",
+   "menu/map_info_dat/B028.mg:0x610",
+   "menu/map_info_dat/B029.mg:0x610",
+   "menu/map_info_dat/B030.mg:0x610",
+   "menu/map_info_dat/B031.mg:0x610",
+   "menu/map_info_dat/B032.mg:0x610",
+   "menu/map_info_dat/B033.mg:0x610",
+   "menu/map_info_dat/B034.mg:0x610",
+   "menu/map_info_dat/B035.mg:0x610",
+   "menu/map_info_dat/B036.mg:0x610",
+   "menu/map_info_dat/B037.mg:0x610",
+   "menu/map_info_dat/B038.mg:0x610",
+   "menu/map_info_dat/B039.mg:0x610",
+   "menu/map_info_dat/D009.mg:0x610",
+   "menu/map_info_dat/M000.mg:0x610",
+   "menu/map_info_dat/M000.mg:0xf40",
+   "menu/map_info_dat/M001.mg:0x610",
+   "menu/map_info_dat/M001.mg:0xf40",
+   "menu/map_info_dat/M002.mg:0x610",
+   "menu/map_info_dat/M003.mg:0x610",
+   "menu/map_info_dat/M004.mg:0x610",
+   "menu/map_info_dat/M004.mg:0x85c",
+   "menu/map_info_dat/M004.mg:0xaa8",
+   "menu/map_info_dat/M004.mg:0xcf4",
+   "menu/map_info_dat/M007.mg:0x610",
+   "menu/map_info_dat/M007.mg:0x85c",
+   "menu/map_info_dat/M008.mg:0x610",
+   "menu/map_info_dat/M008.mg:0x85c",
+   "menu/map_info_dat/M008.mg:0xaa8",
+   "menu/map_info_dat/M008.mg:0xcf4",
+   "menu/map_info_dat/M008.mg:0xf40",
+   "menu/map_info_dat/M008.mg:0x118c",
+   "menu/map_info_dat/M008.mg:0x13d8",
+   "menu/map_info_dat/M008.mg:0x1624",
+   "menu/map_info_dat/M008.mg:0x1870",
+   "menu/map_info_dat/M008.mg:0x1abc",
+   "menu/map_info_dat/M008.mg:0x1d08",
+   "menu/map_info_dat/M008.mg:0x1f54",
+   "menu/map_info_dat/M008.mg:0x21a0",
+   "menu/map_info_dat/M008.mg:0x23ec",
+   "menu/map_info_dat/M009.mg:0x610",
+   "menu/map_info_dat/M010.mg:0x610",
+   "menu/map_info_dat/M011.mg:0x610",
+   "menu/map_info_dat/M012.mg:0x610",
+   "menu/map_info_dat/M016.mg:0x610",
+   "menu/map_info_dat/M017.mg:0x610",
+   "menu/map_info_dat/M031.mg:0x610",
+   "menu/map_info_dat/M033.mg:0x610",
+   "menu/map_info_dat/M033.mg:0x85c",
+   "menu/map_info_dat/M033.mg:0xaa8",
+   "menu/map_info_dat/M033.mg:0xcf4",
+   "menu/map_info_dat/M033.mg:0xf40",
+   "menu/map_info_dat/M034.mg:0x610",
+   "menu/map_info_dat/M034.mg:0xcf4",
+   "menu/map_info_dat/M035.mg:0x610",
+   "menu/map_info_dat/M035.mg:0xcf4",
+   "menu/map_info_dat/M037.mg:0x610",
+   "menu/map_info_dat/M038.mg:0x610",
+   "menu/map_info_dat/M041.mg:0x610",
+   "menu/map_info_dat/M043.mg:0x610",
+   "menu/map_info_dat/M044.mg:0x610",
+   "menu/map_info_dat/M044.mg:0xcf4",
+   "menu/map_info_dat/M045.mg:0x610",
+   "menu/map_info_dat/M045.mg:0x85c",
+   "menu/map_info_dat/M045.mg:0xaa8",
+   "menu/map_info_dat/M045.mg:0xcf4",
+   "menu/map_info_dat/M045.mg:0xf40",
+   "menu/map_info_dat/M049.mg:0x85c",
+   "menu/map_info_dat/M060.mg:0x85c",
+   "menu/map_info_dat/M071.mg:0x610",
+   "menu/map_info_dat/M072.mg:0x610",
+   "menu/map_info_dat/M072.mg:0x85c",
+   "menu/map_info_dat/M072.mg:0xaa8",
+   "menu/map_info_dat/M072.mg:0xcf4",
+   "menu/map_info_dat/M072.mg:0xf40",
+   "menu/map_info_dat/M072.mg:0x118c",
+   "menu/map_info_dat/M072.mg:0x13d8",
+   "menu/map_info_dat/M072.mg:0x1624",
+   "menu/map_info_dat/M072.mg:0x1870",
+   "menu/map_info_dat/M072.mg:0x1abc",
+   "menu/map_info_dat/M072.mg:0x1d08",
+   "menu/map_info_dat/M072.mg:0x1f54",
+   "menu/map_info_dat/M073.mg:0x610"
+  ]
+ },
+ {
+  "id": "head:コマンドウルフ　　　　　\r\nアタックカスタム仕様　",
+  "kind": "head",
+  "ja": "コマンドウルフ　　　　　\r\nアタックカスタム仕様　",
+  "en": "Command Wolf\r\nAttack Custom Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバラッド　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバラッド　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nBrad",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x70a",
+   "menu/map_info_dat/B008.mg:0x70a"
+  ]
+ },
+ {
+  "id": "unit:プレイヤーゾイド",
+  "kind": "unit",
+  "ja": "プレイヤーゾイド",
+  "en": "Player Zoid",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x810",
+   "menu/map_info_dat/B001.mg:0x810",
+   "menu/map_info_dat/B002.mg:0x810",
+   "menu/map_info_dat/B003.mg:0x810",
+   "menu/map_info_dat/B004.mg:0x810",
+   "menu/map_info_dat/B005.mg:0x810",
+   "menu/map_info_dat/B006.mg:0x810",
+   "menu/map_info_dat/B007.mg:0x810",
+   "menu/map_info_dat/B008.mg:0x810",
+   "menu/map_info_dat/B009.mg:0x810",
+   "menu/map_info_dat/B010.mg:0x810",
+   "menu/map_info_dat/B011.mg:0x810",
+   "menu/map_info_dat/B012.mg:0x810",
+   "menu/map_info_dat/B013.mg:0x810",
+   "menu/map_info_dat/B014.mg:0x810",
+   "menu/map_info_dat/B015.mg:0x810",
+   "menu/map_info_dat/B016.mg:0x810",
+   "menu/map_info_dat/B017.mg:0x810",
+   "menu/map_info_dat/B018.mg:0x810",
+   "menu/map_info_dat/B019.mg:0x810",
+   "menu/map_info_dat/B020.mg:0x810",
+   "menu/map_info_dat/B021.mg:0x810",
+   "menu/map_info_dat/B022.mg:0x810",
+   "menu/map_info_dat/B023.mg:0x810",
+   "menu/map_info_dat/B024.mg:0x810",
+   "menu/map_info_dat/B025.mg:0x810",
+   "menu/map_info_dat/B026.mg:0x810",
+   "menu/map_info_dat/B027.mg:0x810",
+   "menu/map_info_dat/B028.mg:0x810",
+   "menu/map_info_dat/B029.mg:0x810",
+   "menu/map_info_dat/B030.mg:0x810",
+   "menu/map_info_dat/B031.mg:0x810",
+   "menu/map_info_dat/B032.mg:0x810",
+   "menu/map_info_dat/B033.mg:0x810",
+   "menu/map_info_dat/B034.mg:0x810",
+   "menu/map_info_dat/B035.mg:0x810",
+   "menu/map_info_dat/B036.mg:0x810",
+   "menu/map_info_dat/B037.mg:0x810",
+   "menu/map_info_dat/B038.mg:0x810",
+   "menu/map_info_dat/B039.mg:0x810",
+   "menu/map_info_dat/D000.mg:0x810",
+   "menu/map_info_dat/D001.mg:0x810",
+   "menu/map_info_dat/D002.mg:0x810",
+   "menu/map_info_dat/D003.mg:0x810",
+   "menu/map_info_dat/D004.mg:0x810",
+   "menu/map_info_dat/D009.mg:0x810",
+   "menu/map_info_dat/D010.mg:0x810",
+   "menu/map_info_dat/D011.mg:0x810",
+   "menu/map_info_dat/D012.mg:0x810",
+   "menu/map_info_dat/D013.mg:0x810",
+   "menu/map_info_dat/M000.mg:0x810",
+   "menu/map_info_dat/M001.mg:0x810",
+   "menu/map_info_dat/M003.mg:0x810",
+   "menu/map_info_dat/M003.mg:0xa5c",
+   "menu/map_info_dat/M005.mg:0x5c4",
+   "menu/map_info_dat/M005.mg:0x810",
+   "menu/map_info_dat/M005.mg:0xa5c",
+   "menu/map_info_dat/M005.mg:0xca8",
+   "menu/map_info_dat/M005.mg:0xef4",
+   "menu/map_info_dat/M005.mg:0x1140",
+   "menu/map_info_dat/M005.mg:0x138c",
+   "menu/map_info_dat/M005.mg:0x15d8",
+   "menu/map_info_dat/M005.mg:0x1824",
+   "menu/map_info_dat/M005.mg:0x1a70",
+   "menu/map_info_dat/M005.mg:0x1cbc",
+   "menu/map_info_dat/M005.mg:0x1f08",
+   "menu/map_info_dat/M005.mg:0x2154",
+   "menu/map_info_dat/M005.mg:0x23a0",
+   "menu/map_info_dat/M005.mg:0x25ec",
+   "menu/map_info_dat/M007.mg:0xa5c",
+   "menu/map_info_dat/M010.mg:0x810",
+   "menu/map_info_dat/M011.mg:0x810",
+   "menu/map_info_dat/M011.mg:0xa5c",
+   "menu/map_info_dat/M012.mg:0x810",
+   "menu/map_info_dat/M016.mg:0x810",
+   "menu/map_info_dat/M016.mg:0xa5c",
+   "menu/map_info_dat/M017.mg:0x810",
+   "menu/map_info_dat/M017.mg:0xa5c",
+   "menu/map_info_dat/M020.mg:0x5c4",
+   "menu/map_info_dat/M020.mg:0x810",
+   "menu/map_info_dat/M031.mg:0x810",
+   "menu/map_info_dat/M031.mg:0xa5c",
+   "menu/map_info_dat/M031.mg:0xca8",
+   "menu/map_info_dat/M031.mg:0xef4",
+   "menu/map_info_dat/M031.mg:0x1140",
+   "menu/map_info_dat/M031.mg:0x138c",
+   "menu/map_info_dat/M031.mg:0x15d8",
+   "menu/map_info_dat/M031.mg:0x1824",
+   "menu/map_info_dat/M031.mg:0x1a70",
+   "menu/map_info_dat/M034.mg:0x810",
+   "menu/map_info_dat/M034.mg:0xa5c",
+   "menu/map_info_dat/M035.mg:0x810",
+   "menu/map_info_dat/M035.mg:0xa5c",
+   "menu/map_info_dat/M037.mg:0x810",
+   "menu/map_info_dat/M037.mg:0xa5c",
+   "menu/map_info_dat/M038.mg:0x810",
+   "menu/map_info_dat/M041.mg:0x810",
+   "menu/map_info_dat/M041.mg:0xa5c",
+   "menu/map_info_dat/M041.mg:0xca8",
+   "menu/map_info_dat/M041.mg:0xef4",
+   "menu/map_info_dat/M041.mg:0x1140",
+   "menu/map_info_dat/M041.mg:0x138c",
+   "menu/map_info_dat/M041.mg:0x15d8",
+   "menu/map_info_dat/M041.mg:0x1824",
+   "menu/map_info_dat/M043.mg:0x810",
+   "menu/map_info_dat/M043.mg:0xa5c",
+   "menu/map_info_dat/M044.mg:0x810",
+   "menu/map_info_dat/M044.mg:0xa5c",
+   "menu/map_info_dat/M047.mg:0x5c4",
+   "menu/map_info_dat/M047.mg:0x810",
+   "menu/map_info_dat/M047.mg:0xa5c",
+   "menu/map_info_dat/M048.mg:0x5c4",
+   "menu/map_info_dat/M048.mg:0x810",
+   "menu/map_info_dat/M049.mg:0x5c4",
+   "menu/map_info_dat/M049.mg:0xa5c",
+   "menu/map_info_dat/M060.mg:0x5c4",
+   "menu/map_info_dat/M060.mg:0xa5c",
+   "menu/map_info_dat/M071.mg:0x810",
+   "menu/map_info_dat/M073.mg:0x810"
+  ]
+ },
+ {
+  "id": "head:プレイヤーゾイド　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "プレイヤーゾイド　　　　\r\n　　　　　　　　　　　",
+  "en": "Player Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B000.mg:0x924",
+   "menu/map_info_dat/B001.mg:0x924",
+   "menu/map_info_dat/B002.mg:0x924",
+   "menu/map_info_dat/B003.mg:0x924",
+   "menu/map_info_dat/B004.mg:0x924",
+   "menu/map_info_dat/B005.mg:0x924",
+   "menu/map_info_dat/B006.mg:0x924",
+   "menu/map_info_dat/B007.mg:0x924",
+   "menu/map_info_dat/B008.mg:0x924",
+   "menu/map_info_dat/B009.mg:0x924",
+   "menu/map_info_dat/B010.mg:0x924",
+   "menu/map_info_dat/B011.mg:0x924",
+   "menu/map_info_dat/B012.mg:0x924",
+   "menu/map_info_dat/B013.mg:0x6d8",
+   "menu/map_info_dat/B014.mg:0x924",
+   "menu/map_info_dat/B015.mg:0x924",
+   "menu/map_info_dat/B016.mg:0x924",
+   "menu/map_info_dat/B017.mg:0x924",
+   "menu/map_info_dat/B018.mg:0x6d8",
+   "menu/map_info_dat/B019.mg:0x924",
+   "menu/map_info_dat/B020.mg:0x924",
+   "menu/map_info_dat/B021.mg:0x924",
+   "menu/map_info_dat/B022.mg:0x924",
+   "menu/map_info_dat/B023.mg:0x924",
+   "menu/map_info_dat/B024.mg:0x924",
+   "menu/map_info_dat/B025.mg:0x924",
+   "menu/map_info_dat/B026.mg:0x924",
+   "menu/map_info_dat/B027.mg:0x924",
+   "menu/map_info_dat/B028.mg:0x924",
+   "menu/map_info_dat/B029.mg:0x924",
+   "menu/map_info_dat/B030.mg:0x924",
+   "menu/map_info_dat/B031.mg:0x924",
+   "menu/map_info_dat/B032.mg:0x924",
+   "menu/map_info_dat/B033.mg:0x6d8",
+   "menu/map_info_dat/B034.mg:0x6d8",
+   "menu/map_info_dat/B035.mg:0x924",
+   "menu/map_info_dat/B036.mg:0x924",
+   "menu/map_info_dat/B037.mg:0x6d8",
+   "menu/map_info_dat/B038.mg:0x6d8",
+   "menu/map_info_dat/B039.mg:0x924"
+  ]
+ },
+ {
+  "id": "unit:パートナーゾイド",
+  "kind": "unit",
+  "ja": "パートナーゾイド",
+  "en": "Partner Zoid",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/B000.mg:0xa5c",
+   "menu/map_info_dat/B001.mg:0xa5c",
+   "menu/map_info_dat/B002.mg:0xa5c",
+   "menu/map_info_dat/B003.mg:0xa5c",
+   "menu/map_info_dat/B004.mg:0xa5c",
+   "menu/map_info_dat/B005.mg:0xa5c",
+   "menu/map_info_dat/B006.mg:0xa5c",
+   "menu/map_info_dat/B007.mg:0xa5c",
+   "menu/map_info_dat/B008.mg:0xa5c",
+   "menu/map_info_dat/B009.mg:0xa5c",
+   "menu/map_info_dat/B010.mg:0xa5c",
+   "menu/map_info_dat/B011.mg:0xa5c",
+   "menu/map_info_dat/B012.mg:0xa5c",
+   "menu/map_info_dat/B013.mg:0xa5c",
+   "menu/map_info_dat/B014.mg:0xa5c",
+   "menu/map_info_dat/B015.mg:0xa5c",
+   "menu/map_info_dat/B016.mg:0xa5c",
+   "menu/map_info_dat/B017.mg:0xa5c",
+   "menu/map_info_dat/B018.mg:0xa5c",
+   "menu/map_info_dat/B019.mg:0xa5c",
+   "menu/map_info_dat/B020.mg:0xa5c",
+   "menu/map_info_dat/B021.mg:0xa5c",
+   "menu/map_info_dat/B022.mg:0xa5c",
+   "menu/map_info_dat/B023.mg:0xa5c",
+   "menu/map_info_dat/B024.mg:0xa5c",
+   "menu/map_info_dat/B025.mg:0xa5c",
+   "menu/map_info_dat/B026.mg:0xa5c",
+   "menu/map_info_dat/B027.mg:0xa5c",
+   "menu/map_info_dat/B028.mg:0xa5c",
+   "menu/map_info_dat/B029.mg:0xa5c",
+   "menu/map_info_dat/B030.mg:0xa5c",
+   "menu/map_info_dat/B031.mg:0xa5c",
+   "menu/map_info_dat/B032.mg:0xa5c",
+   "menu/map_info_dat/B033.mg:0xa5c",
+   "menu/map_info_dat/B034.mg:0xa5c",
+   "menu/map_info_dat/B035.mg:0xa5c",
+   "menu/map_info_dat/B036.mg:0xa5c",
+   "menu/map_info_dat/B037.mg:0xa5c",
+   "menu/map_info_dat/B038.mg:0xa5c",
+   "menu/map_info_dat/B039.mg:0xa5c",
+   "menu/map_info_dat/D000.mg:0xa5c",
+   "menu/map_info_dat/D001.mg:0xa5c",
+   "menu/map_info_dat/D002.mg:0xa5c",
+   "menu/map_info_dat/D003.mg:0xa5c",
+   "menu/map_info_dat/D004.mg:0xa5c",
+   "menu/map_info_dat/D009.mg:0xa5c",
+   "menu/map_info_dat/D010.mg:0xa5c",
+   "menu/map_info_dat/D011.mg:0xa5c",
+   "menu/map_info_dat/D012.mg:0xa5c",
+   "menu/map_info_dat/D013.mg:0xa5c",
+   "menu/map_info_dat/M000.mg:0xa5c",
+   "menu/map_info_dat/M001.mg:0xa5c",
+   "menu/map_info_dat/M002.mg:0x810",
+   "menu/map_info_dat/M002.mg:0xa5c",
+   "menu/map_info_dat/M009.mg:0x810",
+   "menu/map_info_dat/M009.mg:0xa5c",
+   "menu/map_info_dat/M010.mg:0xa5c",
+   "menu/map_info_dat/M012.mg:0xa5c",
+   "menu/map_info_dat/M012.mg:0xca8",
+   "menu/map_info_dat/M020.mg:0xa5c",
+   "menu/map_info_dat/M038.mg:0xa5c",
+   "menu/map_info_dat/M071.mg:0xa5c",
+   "menu/map_info_dat/M073.mg:0xa5c"
+  ]
+ },
+ {
+  "id": "head:パートナーゾイド　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "パートナーゾイド　　　　\r\n　　　　　　　　　　　",
+  "en": "Partner Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B000.mg:0xb70",
+   "menu/map_info_dat/B001.mg:0xb70",
+   "menu/map_info_dat/B002.mg:0xb70",
+   "menu/map_info_dat/B003.mg:0xb70",
+   "menu/map_info_dat/B004.mg:0xb70",
+   "menu/map_info_dat/B005.mg:0xb70",
+   "menu/map_info_dat/B006.mg:0xb70",
+   "menu/map_info_dat/B007.mg:0xb70",
+   "menu/map_info_dat/B008.mg:0xb70",
+   "menu/map_info_dat/B009.mg:0xb70",
+   "menu/map_info_dat/B010.mg:0xb70",
+   "menu/map_info_dat/B011.mg:0xb70",
+   "menu/map_info_dat/B012.mg:0xb70",
+   "menu/map_info_dat/B013.mg:0x924",
+   "menu/map_info_dat/B014.mg:0xb70",
+   "menu/map_info_dat/B015.mg:0xb70",
+   "menu/map_info_dat/B016.mg:0xb70",
+   "menu/map_info_dat/B017.mg:0xb70",
+   "menu/map_info_dat/B018.mg:0x924",
+   "menu/map_info_dat/B019.mg:0xb70",
+   "menu/map_info_dat/B020.mg:0xb70",
+   "menu/map_info_dat/B021.mg:0xb70",
+   "menu/map_info_dat/B022.mg:0xb70",
+   "menu/map_info_dat/B023.mg:0xb70",
+   "menu/map_info_dat/B024.mg:0xb70",
+   "menu/map_info_dat/B025.mg:0xb70",
+   "menu/map_info_dat/B026.mg:0xb70",
+   "menu/map_info_dat/B027.mg:0xb70",
+   "menu/map_info_dat/B028.mg:0xb70",
+   "menu/map_info_dat/B029.mg:0xb70",
+   "menu/map_info_dat/B030.mg:0xb70",
+   "menu/map_info_dat/B031.mg:0xb70",
+   "menu/map_info_dat/B032.mg:0xb70",
+   "menu/map_info_dat/B033.mg:0x924",
+   "menu/map_info_dat/B034.mg:0x924",
+   "menu/map_info_dat/B035.mg:0xb70",
+   "menu/map_info_dat/B036.mg:0xb70",
+   "menu/map_info_dat/B037.mg:0x924",
+   "menu/map_info_dat/B038.mg:0x924",
+   "menu/map_info_dat/B039.mg:0xb70"
+  ]
+ },
+ {
+  "id": "title:チーム・バン",
+  "kind": "title",
+  "ja": "チーム・バン",
+  "en": "Team Van",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:開拓地　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "開拓地　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Frontier",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x240",
+   "menu/map_info_dat/B002.mg:0x240",
+   "menu/map_info_dat/B008.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:開拓地で野生化した　　　\r\nゾイドが、近くに多く　　\r\n生息している。　　　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "開拓地で野生化した　　　\r\nゾイドが、近くに多く　　\r\n生息している。　　　　　\r\n　　　　　　　　　　　　",
+  "en": "Many Zoids that went wild\r\non the frontier live\r\nnearby.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x272",
+   "menu/map_info_dat/B002.mg:0x272",
+   "menu/map_info_dat/B008.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:シールドライガー　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "シールドライガー　　　　\r\n　　　　　　　　　　　",
+  "en": "Shield Liger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバン＆フィーネ１　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバン＆フィーネ１　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nVan & Fiona 1",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:プテラス　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "プテラス　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Pteras",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nムンベイ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nムンベイ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nMoonbay",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B001.mg:0x70a",
+   "menu/map_info_dat/B033.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:チーム・ロットティガー",
+  "kind": "title",
+  "ja": "チーム・ロットティガー",
+  "en": "Team Rottiger",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B002.mg:0x28",
+   "menu/map_info_dat/B010.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:プロトセイバー　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "プロトセイバー　　　　　\r\n　　　　　　　　　　　",
+  "en": "Proto Saber",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B002.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nコウキ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nコウキ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nKouki",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B002.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ザバット　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ザバット　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Zabat",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B002.mg:0x6d8",
+   "menu/map_info_dat/B012.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nライナー　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nライナー　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nReiner",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B002.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・マッハストーム",
+  "kind": "title",
+  "ja": "チーム・マッハストーム",
+  "en": "Team Mach Storm",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B003.mg:0x28",
+   "menu/map_info_dat/B007.mg:0x28",
+   "menu/map_info_dat/B031.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:航空基地　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "航空基地　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Air Base",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B003.mg:0x240",
+   "menu/map_info_dat/B004.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:軍最大規模の航空基地。　\r\n数多くの飛行ゾイドが　　\r\n収容されている。　　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "軍最大規模の航空基地。　\r\n数多くの飛行ゾイドが　　\r\n収容されている。　　　　\r\n　　　　　　　　　　　　",
+  "en": "The army's largest air\r\nbase. A great many flying\r\nZoids are housed here.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B003.mg:0x272",
+   "menu/map_info_dat/B004.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nＲＤ　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nＲＤ　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRD",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B003.mg:0x4be",
+   "menu/map_info_dat/B031.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:グスタフ　　　　　　　　\r\nスイート専用機　　　　",
+  "kind": "head",
+  "ja": "グスタフ　　　　　　　　\r\nスイート専用機　　　　",
+  "en": "Gustav\r\nSweet's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B003.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nスイート　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nスイート　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nSweet",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B003.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ライトニング＆タイガース",
+  "kind": "title",
+  "ja": "チーム・ライトニング＆タイガース",
+  "en": "Lightning & Tigers Teams",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B004.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ライトニングサイクス　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ライトニングサイクス　　\r\n　　　　　　　　　　　",
+  "en": "Lightning Saix",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B004.mg:0x48c",
+   "menu/map_info_dat/B021.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nジャック　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nジャック　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nJack",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B004.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:セイバータイガー　　　　\r\nタイガース専用機　　　",
+  "kind": "head",
+  "ja": "セイバータイガー　　　　\r\nタイガース専用機　　　",
+  "en": "Zaber Fang\r\nTigers Team Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B004.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nカークランド　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nカークランド　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nKirkland",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B004.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・リパブリック",
+  "kind": "title",
+  "ja": "チーム・リパブリック",
+  "en": "Team Republic",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B005.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:コマンドウルフ　　　　　\r\nアーバイン専用機　　　",
+  "kind": "head",
+  "ja": "コマンドウルフ　　　　　\r\nアーバイン専用機　　　",
+  "en": "Command Wolf\r\nIrvine's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B005.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアーバイン　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアーバイン　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nIrvine",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B005.mg:0x4be",
+   "menu/map_info_dat/B021.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ゴジュラス　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ゴジュラス　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Gojulas",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B005.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nハーマン　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nハーマン　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nHerman",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B005.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ブルーユニコン",
+  "kind": "title",
+  "ja": "チーム・ブルーユニコン",
+  "en": "Team Blue Unicorn",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x28",
+   "menu/map_info_dat/B014.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:荒野ハイウェイ　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "荒野ハイウェイ　　　　　\r\n　　　　　　　　　　　",
+  "en": "Wasteland Highway",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x240",
+   "menu/map_info_dat/B009.mg:0x240",
+   "menu/map_info_dat/B011.mg:0x240",
+   "menu/map_info_dat/B024.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティに繋がる　　\r\n荒野のハイウェイ。　　　\r\n途中にジャンクゾーン　　\r\nがある。　　　　　　　　",
+  "kind": "body",
+  "ja": "ブルーシティに繋がる　　\r\n荒野のハイウェイ。　　　\r\n途中にジャンクゾーン　　\r\nがある。　　　　　　　　",
+  "en": "A wasteland highway that\r\nleads to Blue City. The\r\nJunk Zone lies along the\r\nway.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x272",
+   "menu/map_info_dat/B009.mg:0x272",
+   "menu/map_info_dat/B011.mg:0x272",
+   "menu/map_info_dat/B024.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:ガイリュウキ　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ガイリュウキ　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Gairyuki",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nザン　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nザン　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nZan",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:プテラス　　　　　　　　\r\nレドームスペシャル　　",
+  "kind": "head",
+  "ja": "プテラス　　　　　　　　\r\nレドームスペシャル　　",
+  "en": "Pteras\r\nRadome Special",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nティータ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nティータ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nTita",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B006.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:龍の谷　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "龍の谷　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Dragon Valley",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B007.mg:0x240",
+   "menu/map_info_dat/B010.mg:0x240",
+   "menu/map_info_dat/B017.mg:0x240",
+   "menu/map_info_dat/B032.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:長い時間をかけ大地に　　\r\n水の流れが作った深い谷。\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "長い時間をかけ大地に　　\r\n水の流れが作った深い谷。\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　",
+  "en": "A deep valley carved into\r\nthe land by flowing water\r\nover long ages.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B007.mg:0x272",
+   "menu/map_info_dat/B010.mg:0x272",
+   "menu/map_info_dat/B017.mg:0x272",
+   "menu/map_info_dat/B032.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:コマンドウルフ　　　　　\r\nアタックカスタム仕様",
+  "kind": "head",
+  "ja": "コマンドウルフ　　　　　\r\nアタックカスタム仕様",
+  "en": "Command Wolf\r\nAttack Custom Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B007.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマスクマン　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマスクマン　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nMasked Man",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B007.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ボルドガルド　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ボルドガルド　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Bold Guard",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B007.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nシグマ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nシグマ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nSigma",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B007.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロ　　　　　　\r\nイエーガー装備型　　　",
+  "kind": "head",
+  "ja": "ライガーゼロ　　　　　　\r\nイエーガー装備型　　　",
+  "en": "Liger Zero\r\nwith Jaeger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B008.mg:0x48c"
+  ]
+ },
+ {
+  "id": "head:シャドーフォックス　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "シャドーフォックス　　　\r\n　　　　　　　　　　　",
+  "en": "Shadow Fox",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B008.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "title:チーム・アーラバローネ",
+  "kind": "title",
+  "ja": "チーム・アーラバローネ",
+  "en": "Team Arcobaleno",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B009.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:レッドホーン　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "レッドホーン　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Red Horn",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B009.mg:0x48c",
+   "menu/map_info_dat/B011.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nロッソ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nロッソ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRosso",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B009.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ストームソーダー　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ストームソーダー　　　　\r\n　　　　　　　　　　　",
+  "en": "Storm Sworder",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B009.mg:0x6d8",
+   "menu/map_info_dat/B015.mg:0x6d8",
+   "menu/map_info_dat/B030.mg:0x6d8",
+   "menu/map_info_dat/B032.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nヴィオーラ　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nヴィオーラ　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nViola",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B009.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:アイアンコング　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "アイアンコング　　　　　\r\n　　　　　　　　　　　",
+  "en": "Iron Kong",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B010.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマックス　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマックス　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nMax",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B010.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロイクス　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ライガーゼロイクス　　　\r\n　　　　　　　　　　　",
+  "en": "Liger Zero X",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B010.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nクローディア　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nクローディア　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nClaudia",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B010.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ドラールス",
+  "kind": "title",
+  "ja": "チーム・ドラールス",
+  "en": "Team Dark Assassins",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B011.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:キラースパイナー　　　　\r\nキラードーム装備型　　",
+  "kind": "head",
+  "ja": "キラースパイナー　　　　\r\nキラードーム装備型　　",
+  "en": "Killer Spiner\r\nwith Killer Dome",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B011.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマロイ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマロイ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nMalloy",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B011.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nラトル　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nラトル　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRattle",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B011.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・バックドラフト",
+  "kind": "title",
+  "ja": "チーム・バックドラフト",
+  "en": "Team Backdraft",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B012.mg:0x28",
+   "menu/map_info_dat/B032.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:雪山　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "雪山　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Snowy Mountain",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B012.mg:0x240",
+   "menu/map_info_dat/B013.mg:0x240",
+   "menu/map_info_dat/B023.mg:0x240",
+   "menu/map_info_dat/B030.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティ北東部の雪山\r\n年間を通して、雪が完全に\r\n解けることはない。　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ブルーシティ北東部の雪山\r\n年間を通して、雪が完全に\r\n解けることはない。　　　\r\n　　　　　　　　　　　　",
+  "en": "A snowy mountain northeast\r\nof Blue City. The snow\r\nnever fully melts all\r\nyear.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B012.mg:0x272",
+   "menu/map_info_dat/B013.mg:0x272",
+   "menu/map_info_dat/B023.mg:0x272",
+   "menu/map_info_dat/B030.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:エレファンダー　　　　　\r\nストラ専用機　　　　　",
+  "kind": "head",
+  "ja": "エレファンダー　　　　　\r\nストラ専用機　　　　　",
+  "en": "Elephander\r\nStoller's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B012.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nストラ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nストラ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nStoller",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B012.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nピアス　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nピアス　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nPierce",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B012.mg:0x70a",
+   "menu/map_info_dat/B032.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:チーム・ヒルツ",
+  "kind": "title",
+  "ja": "チーム・ヒルツ",
+  "en": "Team Hiltz",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B013.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:デススティンガー　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "デススティンガー　　　　\r\n　　　　　　　　　　　",
+  "en": "Death Stinger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B013.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nヒルツ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nヒルツ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nHiltz",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B013.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ゾイドロード　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ゾイドロード　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Zoid Road",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B014.mg:0x240",
+   "menu/map_info_dat/B016.mg:0x240",
+   "menu/map_info_dat/B029.mg:0x240",
+   "menu/map_info_dat/B031.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:シティ地下に作られた　　\r\nゾイド専用通路。　　　　\r\n天井が低く、狭い通路では\r\n飛行ゾイドは不利だ。　　",
+  "kind": "body",
+  "ja": "シティ地下に作られた　　\r\nゾイド専用通路。　　　　\r\n天井が低く、狭い通路では\r\n飛行ゾイドは不利だ。　　",
+  "en": "A Zoid-only passage built\r\nunder the city. Flying\r\nZoids are at a\r\ndisadvantage in the low,\r\nnarrow tunnels.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B014.mg:0x272",
+   "menu/map_info_dat/B016.mg:0x272",
+   "menu/map_info_dat/B029.mg:0x272",
+   "menu/map_info_dat/B031.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:ＬＺフェニックス　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ＬＺフェニックス　　　　\r\n　　　　　　　　　　　",
+  "en": "LZ Phoenix",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B014.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nショーマ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nショーマ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nShoma",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B014.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ゴジュラスギガ　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ゴジュラスギガ　　　　　\r\n　　　　　　　　　　　",
+  "en": "Gojulas Giga",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B014.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアルバーン　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアルバーン　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nAlbane",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B014.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・サベッチハンマー",
+  "kind": "title",
+  "ja": "チーム・サベッチハンマー",
+  "en": "Team Savage Hammer",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B015.mg:0x28",
+   "menu/map_info_dat/B023.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:砂漠地帯　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "砂漠地帯　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Desert",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B015.mg:0x240",
+   "menu/map_info_dat/B020.mg:0x240",
+   "menu/map_info_dat/B021.mg:0x240",
+   "menu/map_info_dat/B026.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:広大なサバク地帯。　　　\r\n草木も生えず、どこまでも\r\n砂の大地が続いている。　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "広大なサバク地帯。　　　\r\n草木も生えず、どこまでも\r\n砂の大地が続いている。　\r\n　　　　　　　　　　　　",
+  "en": "A vast desert. Nothing\r\ngrows here, and the sands\r\ngo on forever.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B015.mg:0x272",
+   "menu/map_info_dat/B020.mg:0x272",
+   "menu/map_info_dat/B021.mg:0x272",
+   "menu/map_info_dat/B026.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:バーサークフューラー　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "バーサークフューラー　　\r\n　　　　　　　　　　　",
+  "en": "Berserk Fury",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B015.mg:0x48c",
+   "menu/map_info_dat/B036.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nブレード　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nブレード　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nBlake",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B015.mg:0x4be",
+   "menu/map_info_dat/B023.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリュック　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリュック　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nLuke",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B015.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・フリューゲル",
+  "kind": "title",
+  "ja": "チーム・フリューゲル",
+  "en": "Fluegel Team",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B016.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ガンスナイパー　　　　　\r\nナオミ専用機　　　　　",
+  "kind": "head",
+  "ja": "ガンスナイパー　　　　　\r\nナオミ専用機　　　　　",
+  "en": "Gun Sniper\r\nNaomi's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B016.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nナオミ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nナオミ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nNaomi",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B016.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ブレードライガー　　　　\r\nレオン専用機　　　　　",
+  "kind": "head",
+  "ja": "ブレードライガー　　　　\r\nレオン専用機　　　　　",
+  "en": "Blade Liger\r\nLeon's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B016.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレオン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレオン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nLeon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B016.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・エンパイア",
+  "kind": "title",
+  "ja": "チーム・エンパイア",
+  "en": "Team Empire",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B017.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:セイバータイガー　　　　\r\nレイヴン専用機　　　　",
+  "kind": "head",
+  "ja": "セイバータイガー　　　　\r\nレイヴン専用機　　　　",
+  "en": "Zaber Fang\r\nRaven's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B017.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレイヴン１　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレイヴン１　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRaven 1",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B017.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:アイアンコング　　　　　\r\nシュバルツ専用機　　　",
+  "kind": "head",
+  "ja": "アイアンコング　　　　　\r\nシュバルツ専用機　　　",
+  "en": "Iron Kong\r\nSchubaltz's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B017.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nシュバルツ　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nシュバルツ　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nSchubaltz",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B017.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・テラガイスト",
+  "kind": "title",
+  "ja": "チーム・テラガイスト",
+  "en": "Team Terra Geist",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B018.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:市街地　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "市街地　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "City",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B018.mg:0x240",
+   "menu/map_info_dat/B025.mg:0x240",
+   "menu/map_info_dat/B035.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ビルが立ち並ぶ市街地。　\r\n建物が多いため、砲撃戦は\r\n不利になるだろう。　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ビルが立ち並ぶ市街地。　\r\n建物が多いため、砲撃戦は\r\n不利になるだろう。　　　\r\n　　　　　　　　　　　　",
+  "en": "A city district lined with\r\nbuildings. With so many in\r\nthe way, ranged combat\r\nwill be tough.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B018.mg:0x272",
+   "menu/map_info_dat/B025.mg:0x272",
+   "menu/map_info_dat/B035.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:デススティンガー　　　　\r\n強化型　　　　　　　　",
+  "kind": "head",
+  "ja": "デススティンガー　　　　\r\n強化型　　　　　　　　",
+  "en": "Death Stinger\r\nEnhanced",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B018.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリバイアス　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリバイアス　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nLeviathe",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B018.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:チーム・ブラックインパクト",
+  "kind": "title",
+  "ja": "チーム・ブラックインパクト",
+  "en": "Team Black Impact",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B019.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ブレードライガー　　　　\r\nＢインパクト専用機　　",
+  "kind": "head",
+  "ja": "ブレードライガー　　　　\r\nＢインパクト専用機　　",
+  "en": "Blade Liger\r\nBlack Impact Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B019.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nラスターニ　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nラスターニ　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRastani",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B019.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:セイバータイガー　　　　\r\nホロテック仕様　　　　",
+  "kind": "head",
+  "ja": "セイバータイガー　　　　\r\nホロテック仕様　　　　",
+  "en": "Zaber Fang\r\nHolotech Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B019.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nキッド　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nキッド　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nKid",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B019.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ディバイソン　　　　　　\r\nリノン専用機　　　　　",
+  "kind": "head",
+  "ja": "ディバイソン　　　　　　\r\nリノン専用機　　　　　",
+  "en": "Dibison\r\nLeena's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B020.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリノン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリノン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nLeena",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B020.mg:0x4be",
+   "menu/map_info_dat/B024.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:プテラス　　　　　　　　\r\nボマーユニット装備型　",
+  "kind": "head",
+  "ja": "プテラス　　　　　　　　\r\nボマーユニット装備型　",
+  "en": "Pteras\r\nwith Bomber Unit",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B020.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nジェミー　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nジェミー　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nJamie",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B020.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ガーディアンフォース",
+  "kind": "title",
+  "ja": "チーム・ガーディアンフォース",
+  "en": "Team Guardian Force",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B021.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ディバイソン　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ディバイソン　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Dibison",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B021.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nトーマ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nトーマ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nThomas",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B021.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:チーム・アーカディア",
+  "kind": "title",
+  "ja": "チーム・アーカディア",
+  "en": "Team Arcadia",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B022.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:トリニティライガー　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "トリニティライガー　　　\r\n　　　　　　　　　　　",
+  "en": "Trinity Liger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B022.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアトレー　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアトレー　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nAthle",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B022.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ケーニッヒウルフ　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ケーニッヒウルフ　　　　\r\n　　　　　　　　　　　",
+  "en": "Konig Wolf",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B022.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレジーナ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレジーナ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRegina",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B022.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:バスターフューラー　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "バスターフューラー　　　\r\n　　　　　　　　　　　",
+  "en": "Buster Fury",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B023.mg:0x48c"
+  ]
+ },
+ {
+  "id": "head:ロードゲイル　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ロードゲイル　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Lord Gale",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B023.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバートン　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバートン　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nBurton",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B023.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロ　　　　　　\r\nシュナイダー装備型　　",
+  "kind": "head",
+  "ja": "ライガーゼロ　　　　　　\r\nシュナイダー装備型　　",
+  "en": "Liger Zero\r\nwith Schneider",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B024.mg:0x48c"
+  ]
+ },
+ {
+  "id": "head:ガンスナイパー　　　　　\r\nリノン専用機　　　　　",
+  "kind": "head",
+  "ja": "ガンスナイパー　　　　　\r\nリノン専用機　　　　　",
+  "en": "Gun Sniper\r\nLeena's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B024.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "title:チーム・ジェノザウラー",
+  "kind": "title",
+  "ja": "チーム・ジェノザウラー",
+  "en": "Team Geno Saurer",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B025.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ジェノザウラー　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ジェノザウラー　　　　　\r\n　　　　　　　　　　　",
+  "en": "Geno Saurer",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B025.mg:0x48c",
+   "menu/map_info_dat/B032.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレイヴン２　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレイヴン２　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nRaven 2",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B025.mg:0x4be",
+   "menu/map_info_dat/B029.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:サイコジェノザウラー　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "サイコジェノザウラー　　\r\n　　　　　　　　　　　",
+  "en": "Psycho Geno Saurer",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B025.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリーゼ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nリーゼ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nReese",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B025.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ファントム騎士団",
+  "kind": "title",
+  "ja": "チーム・ファントム騎士団",
+  "en": "Team Phantom Knights",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B026.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ジェノハイドラ　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ジェノハイドラ　　　　　\r\n　　　　　　　　　　　",
+  "en": "Geno Hydra",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B026.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nブラッド　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nブラッド　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nBlood",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B026.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:レドラー　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "レドラー　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Redler",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B026.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nフラン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nフラン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nFran",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B026.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ボーン一家",
+  "kind": "title",
+  "ja": "チーム・ボーン一家",
+  "en": "Team Vaughn Gang",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:デザートヒル　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "デザートヒル　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Desert Hill",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x240",
+   "menu/map_info_dat/B028.mg:0x240",
+   "menu/map_info_dat/B033.mg:0x240",
+   "menu/map_info_dat/B034.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:高い岩壁が複数そびえ　　\r\n立つ狭谷地帯。　　　　　\r\n中央には見晴らしの　　　\r\n良い荒野が広がる。　　　",
+  "kind": "body",
+  "ja": "高い岩壁が複数そびえ　　\r\n立つ狭谷地帯。　　　　　\r\n中央には見晴らしの　　　\r\n良い荒野が広がる。　　　",
+  "en": "A canyon of towering rock\r\nwalls. In the center lies\r\nopen wasteland with a\r\nclear view.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x272",
+   "menu/map_info_dat/B028.mg:0x272",
+   "menu/map_info_dat/B033.mg:0x272",
+   "menu/map_info_dat/B034.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:ブラキオトータス　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ブラキオトータス　　　　\r\n　　　　　　　　　　　",
+  "en": "Brachio Tortoise",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nボーン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nボーン　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nVaughn",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:バスタートータス　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "バスタートータス　　　　\r\n　　　　　　　　　　　",
+  "en": "Buster Tortoise",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　　\r\nサマンサ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　　\r\nサマンサ　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nSamantha",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B027.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・チャンプ",
+  "kind": "title",
+  "ja": "チーム・チャンプ",
+  "en": "Champ Team",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B028.mg:0x28",
+   "menu/map_info_dat/D001.mg:0x28",
+   "menu/map_info_dat/D011.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ダークホーン　　　　　　\r\nハリー専用機　　　　　",
+  "kind": "head",
+  "ja": "ダークホーン　　　　　　\r\nハリー専用機　　　　　",
+  "en": "Dark Horn\r\nHarry's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B028.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nハリー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nハリー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nHarry",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B028.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:アイアンコングＰＫ　　　\r\nマリー専用機　　　　　",
+  "kind": "head",
+  "ja": "アイアンコングＰＫ　　　\r\nマリー専用機　　　　　",
+  "en": "Iron Kong PK\r\nMary's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B028.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマリー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nマリー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nMary",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B028.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・エースパイロット",
+  "kind": "title",
+  "ja": "チーム・エースパイロット",
+  "en": "Team Ace Pilots",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B029.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ブレードライガー　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ブレードライガー　　　　\r\n　　　　　　　　　　　",
+  "en": "Blade Liger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B029.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバン＆フィーネ２　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nバン＆フィーネ２　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nVan & Fiona 2",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B029.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ジェノブレイカー　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ジェノブレイカー　　　　\r\n　　　　　　　　　　　",
+  "en": "Geno Breaker",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B029.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "title:チーム・ゼル",
+  "kind": "title",
+  "ja": "チーム・ゼル",
+  "en": "Team Zeru",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B030.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ブリッツタイガー　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ブリッツタイガー　　　　\r\n　　　　　　　　　　　",
+  "en": "Blitz Tiger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B030.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nゼル　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nゼル　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nZeru",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B030.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nユーノ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nユーノ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nJuno",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B030.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロ　　　　　　\r\nフェニックス装備型　　",
+  "kind": "head",
+  "ja": "ライガーゼロ　　　　　　\r\nフェニックス装備型　　",
+  "en": "Liger Zero\r\nwith Phoenix",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B031.mg:0x48c"
+  ]
+ },
+ {
+  "id": "head:ケーニッヒウルフ　　　　\r\nＭＫⅡ仕様　　　　　　",
+  "kind": "head",
+  "ja": "ケーニッヒウルフ　　　　\r\nＭＫⅡ仕様　　　　　　",
+  "en": "Konig Wolf\r\nMK II Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B031.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nエミー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nエミー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nAmy",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B031.mg:0x70a"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nフーマ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nフーマ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nFuma",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B032.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・ウルトラザウルス",
+  "kind": "title",
+  "ja": "チーム・ウルトラザウルス",
+  "en": "Team Ultrasaurus",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B033.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ウルトラザウルス　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ウルトラザウルス　　　　\r\n　　　　　　　　　　　",
+  "en": "Ultrasaurus",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B033.mg:0x48c"
+  ]
+ },
+ {
+  "id": "title:チーム・ネオゼネバス",
+  "kind": "title",
+  "ja": "チーム・ネオゼネバス",
+  "en": "Team Neo-Zenebas",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B034.mg:0x28",
+   "menu/map_info_dat/B038.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:セイスモサウルス　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "セイスモサウルス　　　　\r\n　　　　　　　　　　　",
+  "en": "Seismosaurus",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B034.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレイカ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nレイカ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nReika",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B034.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:チーム・治安局",
+  "kind": "title",
+  "ja": "チーム・治安局",
+  "en": "Team Peacekeeping Bureau",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B035.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ゴジュラスギガ　　　　　\r\n治安局仕様　　　　　　",
+  "kind": "head",
+  "ja": "ゴジュラスギガ　　　　　\r\n治安局仕様　　　　　　",
+  "en": "Gojulas Giga\r\nPeacekeeping Bureau Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B035.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nガミー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nガミー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nGummie",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B035.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:アロザウラー　　　　　　\r\n治安局仕様　　　　　　",
+  "kind": "head",
+  "ja": "アロザウラー　　　　　　\r\n治安局仕様　　　　　　",
+  "en": "Arosaurer\r\nPeacekeeping Bureau Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B035.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nチャオ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nチャオ　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nCiao",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B035.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・スラッシュゼロ",
+  "kind": "title",
+  "ja": "チーム・スラッシュゼロ",
+  "en": "Team New Century",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B036.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:巨大ハッチ　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "巨大ハッチ　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Giant Hatch",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B036.mg:0x240",
+   "menu/map_info_dat/B037.mg:0x240",
+   "menu/map_info_dat/B038.mg:0x240",
+   "menu/map_info_dat/B039.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ある軍の秘密基地上部　　\r\n床面は巨大なハッチ口　　\r\nになっている。　　　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ある軍の秘密基地上部　　\r\n床面は巨大なハッチ口　　\r\nになっている。　　　　　\r\n　　　　　　　　　　　　",
+  "en": "The top of a certain\r\narmy's secret base. The\r\nfloor is one giant hatch.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B036.mg:0x272",
+   "menu/map_info_dat/B037.mg:0x272",
+   "menu/map_info_dat/B038.mg:0x272",
+   "menu/map_info_dat/B039.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロ　　　　　　\r\nパンツァー装備型　　　",
+  "kind": "head",
+  "ja": "ライガーゼロ　　　　　　\r\nパンツァー装備型　　　",
+  "en": "Liger Zero\r\nwith Panzer",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B036.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nベガ　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nベガ　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nVega",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B036.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:チーム・デスザウラー",
+  "kind": "title",
+  "ja": "チーム・デスザウラー",
+  "en": "Team Death Saurer",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B037.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:デスザウラー　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "デスザウラー　　　　　　\r\n　　　　　　　　　　　",
+  "en": "Death Saurer",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B037.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nプロイツェン　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nプロイツェン　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nProzen",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B037.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ブラッディデスザウラー　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ブラッディデスザウラー　\r\n　　　　　　　　　　　",
+  "en": "Bloody Death Saurer",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B038.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nガルド　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nガルド　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nGard",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B038.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:チーム・スラッシュウィング",
+  "kind": "title",
+  "ja": "チーム・スラッシュウィング",
+  "en": "Team Slash Wing",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/B039.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:レイズタイガー　　　　　\r\nアロー専用機　　　　　",
+  "kind": "head",
+  "ja": "レイズタイガー　　　　　\r\nアロー専用機　　　　　",
+  "en": "Rayse Tiger\r\nArrow's Custom",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B039.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアロー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nアロー　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nArrow",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B039.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ブラストルタイガー　　　\r\n　　　　　　　　　　　",
+  "kind": "head",
+  "ja": "ブラストルタイガー　　　\r\n　　　　　　　　　　　",
+  "en": "Brastle Tiger",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/B039.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nスクード　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\nゾイドウォーリアー　　\r\nスクード　　　　　　　　\r\n　　　　　　　　　　　　\r\n　　　　　　　　　　　",
+  "en": "\r\n\r\n\r\nZoid Warrior\r\nScudo",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/B039.mg:0x70a"
+  ]
+ },
+ {
+  "id": "unit:峡谷/夕方",
+  "kind": "unit",
+  "ja": "峡谷/夕方",
+  "en": "Canyon/Dusk",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D000.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:細く険しい道が続く谷。　\r\n谷の形が龍に見える事から\r\n「龍の谷」と呼ばれる。　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "細く険しい道が続く谷。　\r\n谷の形が龍に見える事から\r\n「龍の谷」と呼ばれる。　\r\n　　　　　　　　　　",
+  "en": "A valley of steep, narrow\r\npaths. Shaped like a\r\ndragon, so it's called\r\nDragon Valley.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D000.mg:0x178"
+  ]
+ },
+ {
+  "id": "unit:シールドライガー",
+  "kind": "unit",
+  "ja": "シールドライガー",
+  "en": "Shield Liger",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D000.mg:0x378"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nレオン　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nレオン　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nLeon",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D000.mg:0x3c4",
+   "menu/map_info_dat/D003.mg:0x3c4"
+  ]
+ },
+ {
+  "id": "unit:コマンドウルフAC",
+  "kind": "unit",
+  "ja": "コマンドウルフAC",
+  "en": "Command Wolf AC",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D000.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nバラッド　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nバラッド　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nBrad",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D000.mg:0x610"
+  ]
+ },
+ {
+  "id": "unit:砂漠地帯/夕方",
+  "kind": "unit",
+  "ja": "砂漠地帯/夕方",
+  "en": "Desert/Dusk",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D001.mg:0x12c"
+  ]
+ },
+ {
+  "id": "unit:ダークホーン　HARRY",
+  "kind": "unit",
+  "ja": "ダークホーン　HARRY",
+  "en": "Dark Horn Harry",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D001.mg:0x378"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nハリー　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nハリー　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nHarry",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D001.mg:0x3c4",
+   "menu/map_info_dat/D011.mg:0x610"
+  ]
+ },
+ {
+  "id": "unit:アイアンコングPK MARY",
+  "kind": "unit",
+  "ja": "アイアンコングPK MARY",
+  "en": "Iron Kong PK Mary",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D001.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nマリー　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nマリー　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nMary",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D001.mg:0x610"
+  ]
+ },
+ {
+  "id": "unit:共和国教育大隊基地/昼",
+  "kind": "unit",
+  "ja": "共和国教育大隊基地/昼",
+  "en": "Rep. Training Base/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D002.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:共和国の兵士達を育成して\r\nいる基地。　　　　　　　\r\n多くの新兵達が訓練を重ね\r\nている。　　　　　　",
+  "kind": "text",
+  "ja": "共和国の兵士達を育成して\r\nいる基地。　　　　　　　\r\n多くの新兵達が訓練を重ね\r\nている。　　　　　　",
+  "en": "A base where the Republic\r\ntrains its soldiers. Many\r\nrecruits drill here.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D002.mg:0x178"
+  ]
+ },
+ {
+  "id": "unit:ライガーゼロシュナイダー",
+  "kind": "unit",
+  "ja": "ライガーゼロシュナイダー",
+  "en": "Liger Zero Schneider",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D002.mg:0x378"
+  ]
+ },
+ {
+  "id": "unit:ゴジュラス",
+  "kind": "unit",
+  "ja": "ゴジュラス",
+  "en": "Gojulas",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D002.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nジェミー　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nジェミー　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nJamie",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D002.mg:0x610"
+  ]
+ },
+ {
+  "id": "title:チーム・フリューゲルス",
+  "kind": "title",
+  "ja": "チーム・フリューゲルス",
+  "en": "Fluegel Team",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D003.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:帝国開発基地/昼",
+  "kind": "unit",
+  "ja": "帝国開発基地/昼",
+  "en": "Imperial R&D Base/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D003.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:帝国軍が、ゾイドの開発を\r\nしている基地。　　　　　\r\n倉庫や研究施設が多く、　\r\n建ち並ぶ。　　　　　",
+  "kind": "text",
+  "ja": "帝国軍が、ゾイドの開発を\r\nしている基地。　　　　　\r\n倉庫や研究施設が多く、　\r\n建ち並ぶ。　　　　　",
+  "en": "An Imperial base for Zoid\r\ndevelopment, lined with\r\nwarehouses and labs.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D003.mg:0x178"
+  ]
+ },
+ {
+  "id": "unit:ブレードライガー LEON",
+  "kind": "unit",
+  "ja": "ブレードライガー LEON",
+  "en": "Blade Liger Leon",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D003.mg:0x378"
+  ]
+ },
+ {
+  "id": "unit:ガンスナイパー NAOMI",
+  "kind": "unit",
+  "ja": "ガンスナイパー NAOMI",
+  "en": "Gun Sniper Naomi",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D003.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nナオミ　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nナオミ　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nNaomi",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D003.mg:0x610"
+  ]
+ },
+ {
+  "id": "unit:デザートヒル/昼",
+  "kind": "unit",
+  "ja": "デザートヒル/昼",
+  "en": "Desert Hill/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D004.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:広い荒野に並ぶ岩山。　　\r\n広い場所と、狭い場所を　\r\nうまく利用しよう。　　　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "広い荒野に並ぶ岩山。　　\r\n広い場所と、狭い場所を　\r\nうまく利用しよう。　　　\r\n　　　　　　　　　　",
+  "en": "Rocky hills stand across a\r\nwide wasteland. Make good\r\nuse of the open and tight\r\nspots.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D004.mg:0x178"
+  ]
+ },
+ {
+  "id": "unit:ライガーゼロパンツァー",
+  "kind": "unit",
+  "ja": "ライガーゼロパンツァー",
+  "en": "Liger Zero Panzer",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D004.mg:0x378"
+  ]
+ },
+ {
+  "id": "unit:シャドーフォックス",
+  "kind": "unit",
+  "ja": "シャドーフォックス",
+  "en": "Shadow Fox",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D004.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "title:ゴジュVSコング",
+  "kind": "title",
+  "ja": "ゴジュVSコング",
+  "en": "Goju vs. Kong",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D007.mg:0x28"
+  ]
+ },
+ {
+  "id": "title:ガーディアンフォース",
+  "kind": "title",
+  "ja": "ガーディアンフォース",
+  "en": "Guardian Force",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D008.mg:0x28"
+  ]
+ },
+ {
+  "id": "title:チーム・タイガース",
+  "kind": "title",
+  "ja": "チーム・タイガース",
+  "en": "Tigers Team",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D009.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:荒野2/昼",
+  "kind": "unit",
+  "ja": "荒野2/昼",
+  "en": "Wasteland 2/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D010.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:大陸西部の荒野。　　　　\r\nバトルエリアが狭く限定さ\r\nれ、障害物もない。　　　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "大陸西部の荒野。　　　　\r\nバトルエリアが狭く限定さ\r\nれ、障害物もない。　　　\r\n　　　　　　　　　　",
+  "en": "Wasteland in the west of\r\nthe continent. The battle\r\narea is small, with no\r\nobstacles.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D010.mg:0x178"
+  ]
+ },
+ {
+  "id": "unit:ライガーゼロ",
+  "kind": "unit",
+  "ja": "ライガーゼロ",
+  "en": "Liger Zero",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D010.mg:0x378"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nビット　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nビット　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nBit",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D010.mg:0x3c4",
+   "menu/map_info_dat/D012.mg:0x3c4"
+  ]
+ },
+ {
+  "id": "unit:ディバイソン RINON",
+  "kind": "unit",
+  "ja": "ディバイソン RINON",
+  "en": "Dibison Leena",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D010.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nリノン　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nリノン　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nLeena",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D010.mg:0x610",
+   "menu/map_info_dat/D012.mg:0x610"
+  ]
+ },
+ {
+  "id": "unit:共和国航空基地/昼",
+  "kind": "unit",
+  "ja": "共和国航空基地/昼",
+  "en": "Rep. Air Base/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D011.mg:0x12c",
+   "menu/map_info_dat/V009.mg:0x12c"
+  ]
+ },
+ {
+  "id": "unit:ライトニングサイクス",
+  "kind": "unit",
+  "ja": "ライトニングサイクス",
+  "en": "Lightning Saix",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D011.mg:0x378"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nジャック　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nジャック　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nJack",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D011.mg:0x3c4"
+  ]
+ },
+ {
+  "id": "unit:カノントータスBC",
+  "kind": "unit",
+  "ja": "カノントータスBC",
+  "en": "Cannon Tortoise BC",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D011.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "unit:共和国前線基地/昼",
+  "kind": "unit",
+  "ja": "共和国前線基地/昼",
+  "en": "Rep. Forward Base/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D012.mg:0x12c"
+  ]
+ },
+ {
+  "id": "unit:ライガーゼロイエーガー",
+  "kind": "unit",
+  "ja": "ライガーゼロイエーガー",
+  "en": "Liger Zero Jaeger",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D012.mg:0x378"
+  ]
+ },
+ {
+  "id": "unit:ガンスナイパー RINON",
+  "kind": "unit",
+  "ja": "ガンスナイパー RINON",
+  "en": "Gun Sniper Leena",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D012.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "title:チーム・タスカーシスターズ",
+  "kind": "title",
+  "ja": "チーム・タスカーシスターズ",
+  "en": "Tasker Sisters",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D013.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:市街地/昼",
+  "kind": "unit",
+  "ja": "市街地/昼",
+  "en": "City/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D013.mg:0x12c"
+  ]
+ },
+ {
+  "id": "unit:ライトニングサイクス TＳ",
+  "kind": "unit",
+  "ja": "ライトニングサイクス TＳ",
+  "en": "Lightning Saix TS",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/D013.mg:0x378",
+   "menu/map_info_dat/D013.mg:0x5c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nクリス　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nクリス　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nChris",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D013.mg:0x3c4"
+  ]
+ },
+ {
+  "id": "text:　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nケリー　　　　　　　",
+  "kind": "text",
+  "ja": "　　　　　　　　　　　　\r\n　　　　　　　　　　　　\r\n対戦ウォーリアー　　　　\r\nケリー　　　　　　　",
+  "en": "\r\n\r\nOpponent\r\nKelly",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/D013.mg:0x610"
+  ]
+ },
+ {
+  "id": "title:01　フラットパーン\r\n",
+  "kind": "title",
+  "ja": "01　フラットパーン\r\n",
+  "en": "01 Flat Pan",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F000.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:８角形の起伏の無い　\r\nノーマルなステージ",
+  "kind": "text",
+  "ja": "８角形の起伏の無い　\r\nノーマルなステージ",
+  "en": "A normal octagonal stage\r\nwith no slopes.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F000.mg:0x178",
+   "menu/map_info_dat/F001.mg:0x178",
+   "menu/map_info_dat/F009.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:８角形の起伏の無い　\r\nノーマルなステージ\r\n\r\n　　　　　　　　　　",
+  "kind": "body",
+  "ja": "８角形の起伏の無い　\r\nノーマルなステージ\r\n\r\n　　　　　　　　　　",
+  "en": "A normal octagonal stage\r\nwith no slopes.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F000.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:８角形の起伏の無い　\r\nノーマルなステージ",
+  "kind": "body",
+  "ja": "８角形の起伏の無い　\r\nノーマルなステージ",
+  "en": "A normal octagonal stage\r\nwith no slopes.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F000.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:02　パラソル\r\n",
+  "kind": "title",
+  "ja": "02　パラソル\r\n",
+  "en": "02 Parasol",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F001.mg:0x28"
+  ]
+ },
+ {
+  "id": "body:中央部が盛り上がって\r\nいるステージ\r\n下り側へのステップで\r\n場外に出ない様に注意",
+  "kind": "body",
+  "ja": "中央部が盛り上がって\r\nいるステージ\r\n下り側へのステップで\r\n場外に出ない様に注意",
+  "en": "A stage with a raised\r\ncenter. Take care not to\r\nstep downhill and out of\r\nthe ring.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F001.mg:0x272",
+   "menu/map_info_dat/F001.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:03　ドーナツ\r\n",
+  "kind": "title",
+  "ja": "03　ドーナツ\r\n",
+  "en": "03 Donut",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F002.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:すり鉢型のステージ\r\n中央部分の穴は塞いで\r\nあり乗ることができる",
+  "kind": "text",
+  "ja": "すり鉢型のステージ\r\n中央部分の穴は塞いで\r\nあり乗ることができる",
+  "en": "A bowl-shaped stage. The\r\nhole in the middle is\r\ncovered, so you can stand\r\non it.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F002.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:すり鉢型のステージ\r\n中央部分の穴は塞いで\r\nあり乗ることができる\r\n",
+  "kind": "body",
+  "ja": "すり鉢型のステージ\r\n中央部分の穴は塞いで\r\nあり乗ることができる\r\n",
+  "en": "A bowl-shaped stage. The\r\nhole in the middle is\r\ncovered, so you can stand\r\non it.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F002.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:すり鉢型のステージ\r\n中央部分の穴は塞いで\r\nあり乗ることができる",
+  "kind": "body",
+  "ja": "すり鉢型のステージ\r\n中央部分の穴は塞いで\r\nあり乗ることができる",
+  "en": "A bowl-shaped stage. The\r\nhole in the middle is\r\ncovered, so you can stand\r\non it.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F002.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:04　ドーナツホール\r\n",
+  "kind": "title",
+  "ja": "04　ドーナツホール\r\n",
+  "en": "04 Donut Hole",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F003.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:すり鉢型のステージ\r\n中央部分に大きな穴が\r\nある",
+  "kind": "text",
+  "ja": "すり鉢型のステージ\r\n中央部分に大きな穴が\r\nある",
+  "en": "A bowl-shaped stage with a\r\nbig hole in the middle.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F003.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:すり鉢型のステージ　\r\n中央部分に大きな穴が\r\nある",
+  "kind": "body",
+  "ja": "すり鉢型のステージ　\r\n中央部分に大きな穴が\r\nある",
+  "en": "A bowl-shaped stage with a\r\nbig hole in the middle.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F003.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:すり鉢型のステージ\r\n中央部分に大きな穴が\r\nある",
+  "kind": "body",
+  "ja": "すり鉢型のステージ\r\n中央部分に大きな穴が\r\nある",
+  "en": "A bowl-shaped stage with a\r\nbig hole in the middle.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F003.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:05　ソーサー \r\n",
+  "kind": "title",
+  "ja": "05　ソーサー \r\n",
+  "en": "05 Saucer",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F004.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:ステージ縁と内で高さ\r\nが違う。隙間は塞いで\r\nあり乗ることができる",
+  "kind": "text",
+  "ja": "ステージ縁と内で高さ\r\nが違う。隙間は塞いで\r\nあり乗ることができる",
+  "en": "The rim and the inside sit\r\nat different heights. The\r\ngap is covered, so you can\r\nstand on it.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F004.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:ステージ縁と内で高さ\r\nが違う。隙間は塞いで\r\nあり乗ることができる",
+  "kind": "body",
+  "ja": "ステージ縁と内で高さ\r\nが違う。隙間は塞いで\r\nあり乗ることができる",
+  "en": "The rim and the inside sit\r\nat different heights. The\r\ngap is covered, so you can\r\nstand on it.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F004.mg:0x272",
+   "menu/map_info_dat/F004.mg:0x4be",
+   "menu/map_info_dat/F005.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:06　ソーサーホール\r\n",
+  "kind": "title",
+  "ja": "06　ソーサーホール\r\n",
+  "en": "06 Saucer Hole",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F005.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:ステージ縁と内で高さ\r\nが違う、また内から縁\r\nの間に隙間があるので\r\n落ちないように要注意",
+  "kind": "text",
+  "ja": "ステージ縁と内で高さ\r\nが違う、また内から縁\r\nの間に隙間があるので\r\n落ちないように要注意",
+  "en": "The rim and the inside sit\r\nat different heights, with\r\na gap between them. Don't\r\nfall in!",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F005.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:ステージ縁と内で高さ\r\nが違う、また内から縁\r\nの間に隙間があるので\r\n落ちないように要注意",
+  "kind": "body",
+  "ja": "ステージ縁と内で高さ\r\nが違う、また内から縁\r\nの間に隙間があるので\r\n落ちないように要注意",
+  "en": "The rim and the inside sit\r\nat different heights, with\r\na gap between them. Don't\r\nfall in!",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F005.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:07　ポット\r\n",
+  "kind": "title",
+  "ja": "07　ポット\r\n",
+  "en": "07 Pot",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F006.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:中央部が盛り上ってい\r\nてパラソルステージよ\r\nりは縁が広い。隙間は\r\n塞いである",
+  "kind": "text",
+  "ja": "中央部が盛り上ってい\r\nてパラソルステージよ\r\nりは縁が広い。隙間は\r\n塞いである",
+  "en": "The center is raised and\r\nthe rim is wider than on\r\nthe Parasol stage. The gap\r\nis covered.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F006.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:中央部が盛り上ってい\r\nてパラソルステージよ\r\nりは縁が広い。隙間は\r\n塞いである",
+  "kind": "body",
+  "ja": "中央部が盛り上ってい\r\nてパラソルステージよ\r\nりは縁が広い。隙間は\r\n塞いである",
+  "en": "The center is raised and\r\nthe rim is wider than on\r\nthe Parasol stage. The gap\r\nis covered.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F006.mg:0x272",
+   "menu/map_info_dat/F006.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:08　ポットホール\r\n",
+  "kind": "title",
+  "ja": "08　ポットホール\r\n",
+  "en": "08 Pot Hole",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F007.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:中央部が盛り上がって\r\nいて更に隙間もある",
+  "kind": "text",
+  "ja": "中央部が盛り上がって\r\nいて更に隙間もある",
+  "en": "The center is raised, and\r\nthere's a gap as well.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F007.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:中央部が盛り上がって\r\nいて更に隙間もある",
+  "kind": "body",
+  "ja": "中央部が盛り上がって\r\nいて更に隙間もある",
+  "en": "The center is raised, and\r\nthere's a gap as well.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F007.mg:0x272",
+   "menu/map_info_dat/F007.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:09　トルネード\r\n",
+  "kind": "title",
+  "ja": "09　トルネード\r\n",
+  "en": "09 Tornado",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F008.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:円く螺旋状に足場が作\r\nられているステージ\r\n中央部から一気に場外\r\nまで落とす事も可能",
+  "kind": "text",
+  "ja": "円く螺旋状に足場が作\r\nられているステージ\r\n中央部から一気に場外\r\nまで落とす事も可能",
+  "en": "A stage with round spiral\r\nfooting. You can knock a\r\nfoe from the center clear\r\nout of the ring.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F008.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:円く螺旋状に足場が作\r\nられているステージ\r\n中央部から一気に場外\r\nまで落とす事も可能",
+  "kind": "body",
+  "ja": "円く螺旋状に足場が作\r\nられているステージ\r\n中央部から一気に場外\r\nまで落とす事も可能",
+  "en": "A stage with round spiral\r\nfooting. You can knock a\r\nfoe from the center clear\r\nout of the ring.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F008.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:10 フラットパーン\r\n壁有り",
+  "kind": "title",
+  "ja": "10 フラットパーン\r\n壁有り",
+  "en": "10 Flat Pan with Walls",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/F009.mg:0x28"
+  ]
+ },
+ {
+  "id": "body:８角形の起伏の無い　\r\nノーマルなステージ\r\n壁が設置されている",
+  "kind": "body",
+  "ja": "８角形の起伏の無い　\r\nノーマルなステージ\r\n壁が設置されている",
+  "en": "A normal octagonal stage\r\nwith no slopes.\r\nIt has walls.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/F009.mg:0x272"
+  ]
+ },
+ {
+  "id": "victory:敵の全滅",
+  "kind": "victory",
+  "ja": "敵の全滅",
+  "en": "Destroy all enemies",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M000.mg:0x8c",
+   "menu/map_info_dat/M001.mg:0x8c",
+   "menu/map_info_dat/M002.mg:0x8c",
+   "menu/map_info_dat/M007.mg:0x8c",
+   "menu/map_info_dat/M010.mg:0x8c",
+   "menu/map_info_dat/M011.mg:0x8c",
+   "menu/map_info_dat/M012.mg:0x8c",
+   "menu/map_info_dat/M017.mg:0x8c",
+   "menu/map_info_dat/M037.mg:0x8c",
+   "menu/map_info_dat/M038.mg:0x8c",
+   "menu/map_info_dat/M047.mg:0x8c",
+   "menu/map_info_dat/M048.mg:0x8c"
+  ]
+ },
+ {
+  "id": "defeat:自機の撃破",
+  "kind": "defeat",
+  "ja": "自機の撃破",
+  "en": "Your Zoid down",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M000.mg:0xdc",
+   "menu/map_info_dat/M001.mg:0xdc",
+   "menu/map_info_dat/M002.mg:0xdc",
+   "menu/map_info_dat/M003.mg:0xdc",
+   "menu/map_info_dat/M007.mg:0xdc",
+   "menu/map_info_dat/M008.mg:0xdc",
+   "menu/map_info_dat/M010.mg:0xdc",
+   "menu/map_info_dat/M011.mg:0xdc",
+   "menu/map_info_dat/M016.mg:0xdc",
+   "menu/map_info_dat/M017.mg:0xdc",
+   "menu/map_info_dat/M020.mg:0xdc",
+   "menu/map_info_dat/M031.mg:0xdc",
+   "menu/map_info_dat/M033.mg:0xdc",
+   "menu/map_info_dat/M034.mg:0xdc",
+   "menu/map_info_dat/M035.mg:0xdc",
+   "menu/map_info_dat/M037.mg:0xdc",
+   "menu/map_info_dat/M038.mg:0xdc",
+   "menu/map_info_dat/M041.mg:0xdc",
+   "menu/map_info_dat/M043.mg:0xdc",
+   "menu/map_info_dat/M044.mg:0xdc",
+   "menu/map_info_dat/M045.mg:0xdc",
+   "menu/map_info_dat/M047.mg:0xdc",
+   "menu/map_info_dat/M048.mg:0xdc",
+   "menu/map_info_dat/M049.mg:0xdc",
+   "menu/map_info_dat/M060.mg:0xdc"
+  ]
+ },
+ {
+  "id": "head:ゾイド開発研究所　　　　",
+  "kind": "head",
+  "ja": "ゾイド開発研究所　　　　",
+  "en": "Zoid Development Lab",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M000.mg:0x240",
+   "menu/map_info_dat/M001.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルシティー郊外に建設\r\nされた、ＳＯＮＩＣ社のゾイ\r\nド開発研究所\r\n",
+  "kind": "body",
+  "ja": "ブルシティー郊外に建設\r\nされた、ＳＯＮＩＣ社のゾイ\r\nド開発研究所\r\n",
+  "en": "Sonic Corp.'s Zoid\r\nDevelopment Lab, built on\r\nthe outskirts of Blue\r\nCity.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M000.mg:0x272",
+   "menu/map_info_dat/M001.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:シンカー　　　　　　　　",
+  "kind": "head",
+  "ja": "シンカー　　　　　　　　",
+  "en": "Sinker",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M000.mg:0x6d8",
+   "menu/map_info_dat/M000.mg:0x924",
+   "menu/map_info_dat/M000.mg:0xdbc",
+   "menu/map_info_dat/M000.mg:0x1008",
+   "menu/map_info_dat/M001.mg:0x6d8",
+   "menu/map_info_dat/M001.mg:0x924",
+   "menu/map_info_dat/M001.mg:0xdbc",
+   "menu/map_info_dat/M001.mg:0x1008",
+   "menu/map_info_dat/M003.mg:0x924",
+   "menu/map_info_dat/M003.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報\r\nホーミング魚雷　　　　　",
+  "kind": "body",
+  "ja": "\r\n装備情報\r\nホーミング魚雷　　　　　",
+  "en": "\r\nEquipment\r\nHoming Torpedo",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M000.mg:0x70a",
+   "menu/map_info_dat/M000.mg:0x956",
+   "menu/map_info_dat/M000.mg:0xba2",
+   "menu/map_info_dat/M000.mg:0xdee",
+   "menu/map_info_dat/M000.mg:0x103a",
+   "menu/map_info_dat/M001.mg:0x70a",
+   "menu/map_info_dat/M001.mg:0x956",
+   "menu/map_info_dat/M001.mg:0xba2",
+   "menu/map_info_dat/M001.mg:0xdee",
+   "menu/map_info_dat/M001.mg:0x103a",
+   "menu/map_info_dat/M002.mg:0x956",
+   "menu/map_info_dat/M002.mg:0xba2",
+   "menu/map_info_dat/M002.mg:0xdee"
+  ]
+ },
+ {
+  "id": "head:シンカー　　　　　　　　\r\n                    ",
+  "kind": "head",
+  "ja": "シンカー　　　　　　　　\r\n                    ",
+  "en": "Sinker",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M000.mg:0xb70",
+   "menu/map_info_dat/M001.mg:0xb70",
+   "menu/map_info_dat/M002.mg:0x924",
+   "menu/map_info_dat/M002.mg:0xb70"
+  ]
+ },
+ {
+  "id": "title:強盗の襲撃",
+  "kind": "title",
+  "ja": "強盗の襲撃",
+  "en": "Robbers Attack",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ゾイド開発研究所　　　　\r\n",
+  "kind": "head",
+  "ja": "ゾイド開発研究所　　　　\r\n",
+  "en": "Zoid Development Lab",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティ郊外に建設\r\nされた、ZOITEC社の\r\nゾイド開発研究所\r\n\r\n総出現敵ゾイド：6機\r\n",
+  "kind": "body",
+  "ja": "ブルーシティ郊外に建設\r\nされた、ZOITEC社の\r\nゾイド開発研究所\r\n\r\n総出現敵ゾイド：6機\r\n",
+  "en": "Zoitec's Zoid Development\r\nLab, built on the\r\noutskirts of Blue City.\r\n\r\nTotal enemy Zoids: 6",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:プレイヤー機体\r\n                    ",
+  "kind": "head",
+  "ja": "プレイヤー機体\r\n                    ",
+  "en": "Player Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n敵は高速機体だ\r\n追い詰めて一気に倒せ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n敵は高速機体だ\r\n追い詰めて一気に倒せ",
+  "en": "\r\nStrategy\r\nThe enemy Zoids are fast.\r\nCorner them and finish\r\nthem at once.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ヘルキャット\r\nアルマ機体",
+  "kind": "head",
+  "ja": "ヘルキャット\r\nアルマ機体",
+  "en": "Helcat\r\nAlma's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:支 援 機\r\n装備情報\r\nAZ20mm2連装ビーム砲\r\n小口径2連装レーザー機銃",
+  "kind": "body",
+  "ja": "支 援 機\r\n装備情報\r\nAZ20mm2連装ビーム砲\r\n小口径2連装レーザー機銃",
+  "en": "Support Zoid\r\nEquipment\r\nAZ 20mm Twin Beam Cannon\r\nLight Twin Laser MG",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M002.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:シンカー　　　　　　　　\r\n",
+  "kind": "head",
+  "ja": "シンカー　　　　　　　　\r\n",
+  "en": "Sinker",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M002.mg:0xdbc"
+  ]
+ },
+ {
+  "id": "title:強盗追撃戦",
+  "kind": "title",
+  "ja": "強盗追撃戦",
+  "en": "Chasing the Robbers",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:シンカーを倒せ",
+  "kind": "victory",
+  "ja": "シンカーを倒せ",
+  "en": "Defeat the Sinkers",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:ゾイド開発研究所\r\n正門と道路",
+  "kind": "head",
+  "ja": "ゾイド開発研究所\r\n正門と道路",
+  "en": "Zoid Development Lab\r\nMain Gate and Road",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:開発研究施設に続く　　　\r\n正門からの道路\r\n",
+  "kind": "body",
+  "ja": "開発研究施設に続く　　　\r\n正門からの道路\r\n",
+  "en": "The road from the main\r\ngate to the development\r\nlab.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:プレイヤー機体　　　　　",
+  "kind": "head",
+  "ja": "プレイヤー機体　　　　　",
+  "en": "Player Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x48c",
+   "menu/map_info_dat/M005.mg:0x48c",
+   "menu/map_info_dat/M006.mg:0x48c",
+   "menu/map_info_dat/M008.mg:0x48c",
+   "menu/map_info_dat/M010.mg:0x48c",
+   "menu/map_info_dat/M035.mg:0x48c",
+   "menu/map_info_dat/M044.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n深追いをするな\r\n",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n深追いをするな\r\n",
+  "en": "\r\nStrategy\r\nDon't chase them too far.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ライトニングサイクス　　",
+  "kind": "head",
+  "ja": "ライトニングサイクス　　",
+  "en": "Lightning Saix",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nパルスレーザーライフル\r\n２連バルカン砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nパルスレーザーライフル\r\n２連バルカン砲",
+  "en": "\r\nEquipment\r\nPulse Laser Rifle\r\nTwin Vulcan",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x70a"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nARZ加速ビーム砲\r\nホーミング魚雷　　　　　",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nARZ加速ビーム砲\r\nホーミング魚雷　　　　　",
+  "en": "\r\nEquipment\r\nARZ Accel Beam Cannon\r\nHoming Torpedo",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M003.mg:0x956",
+   "menu/map_info_dat/M003.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:ジャンクゾーン",
+  "kind": "title",
+  "ja": "ジャンクゾーン",
+  "en": "Junk Zone",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:指定機体の護衛",
+  "kind": "victory",
+  "ja": "指定機体の護衛",
+  "en": "Escort the designated Zoid",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x8c"
+  ]
+ },
+ {
+  "id": "defeat:護衛機体の大破",
+  "kind": "defeat",
+  "ja": "護衛機体の大破",
+  "en": "Escorted Zoid down",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M004.mg:0xdc"
+  ]
+ },
+ {
+  "id": "head:荒野ハイウェイ\r\n",
+  "kind": "head",
+  "ja": "荒野ハイウェイ\r\n",
+  "en": "Wasteland Highway",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x240",
+   "menu/map_info_dat/M012.mg:0x240",
+   "menu/map_info_dat/M035.mg:0x240",
+   "menu/map_info_dat/M044.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティに繋がる　　\r\n荒野のハイウェイ。　　　\r\n途中にジャンクゾーン　　\r\nがある。　　　　　　",
+  "kind": "body",
+  "ja": "ブルーシティに繋がる　　\r\n荒野のハイウェイ。　　　\r\n途中にジャンクゾーン　　\r\nがある。　　　　　　",
+  "en": "A wasteland highway that\r\nleads to Blue City. The\r\nJunk Zone lies along the\r\nway.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x272",
+   "menu/map_info_dat/V004.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:プレイヤー機体　　　　　\r\n",
+  "kind": "head",
+  "ja": "プレイヤー機体　　　　　\r\n",
+  "en": "Player Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x48c",
+   "menu/map_info_dat/M007.mg:0x48c",
+   "menu/map_info_dat/M009.mg:0x48c",
+   "menu/map_info_dat/M011.mg:0x48c",
+   "menu/map_info_dat/M012.mg:0x48c",
+   "menu/map_info_dat/M031.mg:0x48c",
+   "menu/map_info_dat/M033.mg:0x48c",
+   "menu/map_info_dat/M034.mg:0x48c",
+   "menu/map_info_dat/M043.mg:0x48c",
+   "menu/map_info_dat/M045.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n飛行ゾイド撃退には\r\nミサイル武器が有効だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n飛行ゾイド撃退には\r\nミサイル武器が有効だ",
+  "en": "\r\nStrategy\r\nMissile weapons work well\r\nfor driving off flying\r\nZoids.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ホバーカーゴ\r\nアルマ機",
+  "kind": "head",
+  "ja": "ホバーカーゴ\r\nアルマ機",
+  "en": "Hover Cargo\r\nAlma's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x6d8",
+   "menu/map_info_dat/M012.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n護衛機体　　　　　　　　\r\nZOITEC社用カーゴ",
+  "kind": "body",
+  "ja": "\r\n護衛機体　　　　　　　　\r\nZOITEC社用カーゴ",
+  "en": "\r\nEscorted Zoid\r\nZoitec's company cargo\r\nZoid",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ブラキオレックス\r\nボーン機",
+  "kind": "head",
+  "ja": "ブラキオレックス\r\nボーン機",
+  "en": "Brachio Rex\r\nVaughn's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n2連衝撃砲\r\n火炎キャノン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n2連衝撃砲\r\n火炎キャノン",
+  "en": "\r\nEquipment\r\nTwin Shock Cannon\r\nFlame Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M004.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:カノントータス\r\nサマンサ機",
+  "kind": "head",
+  "ja": "カノントータス\r\nサマンサ機",
+  "en": "Cannon Tortoise\r\nSamantha's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M004.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n液冷式荷電粒子ビーム砲\r\nウェポンバインダー",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n液冷式荷電粒子ビーム砲\r\nウェポンバインダー",
+  "en": "\r\nEquipment\r\nLiquid-Cooled CP B-Cannon\r\nWeapon Binder",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M004.mg:0xba2"
+  ]
+ },
+ {
+  "id": "head:レドラー\r\n                    ",
+  "kind": "head",
+  "ja": "レドラー\r\n                    ",
+  "en": "Redler",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M004.mg:0xdbc"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n投下型爆弾\r\nAZミサイル",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n投下型爆弾\r\nAZミサイル",
+  "en": "\r\nEquipment\r\nDrop Bomb\r\nAZ Missile",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M004.mg:0xdee"
+  ]
+ },
+ {
+  "id": "title:紅の疾風への挑戦",
+  "kind": "title",
+  "ja": "紅の疾風への挑戦",
+  "en": "Challenge to the Crimson Gale",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:標的7機破壊",
+  "kind": "victory",
+  "ja": "標的7機破壊",
+  "en": "Destroy 7 targets",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x8c"
+  ]
+ },
+ {
+  "id": "defeat:破壊標的6機以下",
+  "kind": "defeat",
+  "ja": "破壊標的6機以下",
+  "en": "6 or fewer targets destroyed",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M005.mg:0xdc"
+  ]
+ },
+ {
+  "id": "head:ジャンクゾーン\r\n",
+  "kind": "head",
+  "ja": "ジャンクゾーン\r\n",
+  "en": "Junk Zone",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ゾイドのジャンク屋が 　\r\n集まっているエリア\r\n初期位置から標的を狙え\r\nスナイプマスターで出撃だ\r\n",
+  "kind": "body",
+  "ja": "ゾイドのジャンク屋が 　\r\n集まっているエリア\r\n初期位置から標的を狙え\r\nスナイプマスターで出撃だ\r\n",
+  "en": "An area where Zoid junk\r\ndealers gather.\r\nAim at the targets from\r\nyour starting spot.\r\nMove out in a Snipe\r\nMaster.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n的にはロックオン不可能だ\r\n的の動きを読め\r\n",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n的にはロックオン不可能だ\r\n的の動きを読め\r\n",
+  "en": "\r\nStrategy\r\nYou can't lock on to the\r\ntargets.\r\nRead how they move.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ブリッツホーネット\r\n破壊標的",
+  "kind": "head",
+  "ja": "ブリッツホーネット\r\n破壊標的",
+  "en": "Blitz Hornet\r\nTarget to Destroy",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x6d8",
+   "menu/map_info_dat/M005.mg:0x924",
+   "menu/map_info_dat/M005.mg:0xb70",
+   "menu/map_info_dat/M005.mg:0xdbc",
+   "menu/map_info_dat/M005.mg:0x1008",
+   "menu/map_info_dat/M005.mg:0x1254",
+   "menu/map_info_dat/M005.mg:0x14a0"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n無し\r\n狙撃練習用の的用ゾイド",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n無し\r\n狙撃練習用の的用ゾイド",
+  "en": "\r\nEquipment\r\nNone\r\nTarget Zoid for sniping\r\npractice",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M005.mg:0x70a",
+   "menu/map_info_dat/M005.mg:0x956",
+   "menu/map_info_dat/M005.mg:0xba2",
+   "menu/map_info_dat/M005.mg:0xdee",
+   "menu/map_info_dat/M005.mg:0x103a",
+   "menu/map_info_dat/M005.mg:0x1286",
+   "menu/map_info_dat/M005.mg:0x14d2"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n狙撃ゾイドで出撃せよ\r\n",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n狙撃ゾイドで出撃せよ\r\n",
+  "en": "\r\nStrategy\r\nMove out in a sniper Zoid.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M006.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:消えた開発者",
+  "kind": "title",
+  "ja": "消えた開発者",
+  "en": "The Missing Developer",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ゾイドバトル練習場\r\n",
+  "kind": "head",
+  "ja": "ゾイドバトル練習場\r\n",
+  "en": "Zoid Battle Practice Field",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ゾイドバトル練習場　　　\r\nブラックインパクトが\r\n公開練習を行っている",
+  "kind": "body",
+  "ja": "ゾイドバトル練習場　　　\r\nブラックインパクトが\r\n公開練習を行っている",
+  "en": "The Zoid Battle practice\r\nfield. Black Impact is\r\nholding an open practice.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n先ずは一点集中で攻撃\r\n敵チームワークを崩せ\r\n",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n先ずは一点集中で攻撃\r\n敵チームワークを崩せ\r\n",
+  "en": "\r\nStrategy\r\nFirst, focus your fire on\r\none point.\r\nBreak up the enemy's\r\nteamwork.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ガンスナイパー\r\nアルマ機",
+  "kind": "head",
+  "ja": "ガンスナイパー\r\nアルマ機",
+  "en": "Gun Sniper\r\nAlma's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:支 援 機\r\n装備情報　　　　　　　　\r\nAZ80mmビームガン\r\n８連装ミサイルポッドD",
+  "kind": "body",
+  "ja": "支 援 機\r\n装備情報　　　　　　　　\r\nAZ80mmビームガン\r\n８連装ミサイルポッドD",
+  "en": "Support Zoid\r\nEquipment\r\nAZ 80mm Beam Gun\r\n8-Barrel Missile Pod D",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:シールドライガー\r\nラスターニ機",
+  "kind": "head",
+  "ja": "シールドライガー\r\nラスターニ機",
+  "en": "Shield Liger\r\nRastani's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nADM2連装20mmﾋﾞｰﾑ砲\r\n展開式ミサイルポッド",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nADM2連装20mmﾋﾞｰﾑ砲\r\n展開式ミサイルポッド",
+  "en": "\r\nEquipment\r\nADM Twin 20mm Beam Cannon\r\nDeployable Missile Pod",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M007.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:スナイプマスター\r\nZiファイター機",
+  "kind": "head",
+  "ja": "スナイプマスター\r\nZiファイター機",
+  "en": "Snipe Master\r\nZi Fighter's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M007.mg:0xb70",
+   "menu/map_info_dat/M041.mg:0x924",
+   "menu/map_info_dat/M041.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n\r\n装備武器　　　　　　　　\r\nフレキシブルブースター\r\n\r\n",
+  "kind": "body",
+  "ja": "\r\n\r\n装備武器　　　　　　　　\r\nフレキシブルブースター\r\n\r\n",
+  "en": "\r\n\r\nWeapons\r\nFlexible Booster",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M007.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:警備システム突破",
+  "kind": "title",
+  "ja": "警備システム突破",
+  "en": "Break Through the Security System",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:指定標的の破壊",
+  "kind": "victory",
+  "ja": "指定標的の破壊",
+  "en": "Destroy the designated targets",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:閉鎖された基地\r\n",
+  "kind": "head",
+  "ja": "閉鎖された基地\r\n",
+  "en": "Closed-Down Base",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x240",
+   "menu/map_info_dat/M009.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:過去の大戦で使われていた\r\n軍事基地\r\n四方を厚い塀に囲まれている\r\n飛行ゾイドで出撃せよ",
+  "kind": "body",
+  "ja": "過去の大戦で使われていた\r\n軍事基地\r\n四方を厚い塀に囲まれている\r\n飛行ゾイドで出撃せよ",
+  "en": "A military base used in a\r\ngreat war of the past,\r\nringed by thick walls on\r\nall sides.\r\nMove out in a flying Zoid.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n飛行ゾイドで空からの攻撃が\r\n有効だ\r\n爆撃をうまく使え",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n飛行ゾイドで空からの攻撃が\r\n有効だ\r\n爆撃をうまく使え",
+  "en": "\r\nStrategy\r\nAttacks from the air in a\r\nflying Zoid work well.\r\nMake good use of bombing.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:対空ミサイル砲台\r\n",
+  "kind": "head",
+  "ja": "対空ミサイル砲台\r\n",
+  "en": "Anti-Air Missile Battery",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x6d8",
+   "menu/map_info_dat/M008.mg:0x924",
+   "menu/map_info_dat/M008.mg:0xb70",
+   "menu/map_info_dat/M008.mg:0xdbc",
+   "menu/map_info_dat/M008.mg:0x1008",
+   "menu/map_info_dat/M008.mg:0x1254",
+   "menu/map_info_dat/M008.mg:0x14a0",
+   "menu/map_info_dat/M008.mg:0x16ec",
+   "menu/map_info_dat/M008.mg:0x1938",
+   "menu/map_info_dat/M008.mg:0x1b84",
+   "menu/map_info_dat/M008.mg:0x1dd0",
+   "menu/map_info_dat/M008.mg:0x201c",
+   "menu/map_info_dat/M008.mg:0x2268",
+   "menu/map_info_dat/M008.mg:0x24b4"
+  ]
+ },
+ {
+  "id": "body:基地防護用砲台\r\n対空ミサイルが装備されて\r\nいる。装甲が厚く、格闘攻\r\n撃では破壊できない。",
+  "kind": "body",
+  "ja": "基地防護用砲台\r\n対空ミサイルが装備されて\r\nいる。装甲が厚く、格闘攻\r\n撃では破壊できない。",
+  "en": "A base defense turret\r\narmed with anti-air\r\nmissiles. Its armor is\r\nthick, so melee attacks\r\ncan't destroy it.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M008.mg:0x70a",
+   "menu/map_info_dat/M008.mg:0x956",
+   "menu/map_info_dat/M008.mg:0xba2",
+   "menu/map_info_dat/M008.mg:0xdee",
+   "menu/map_info_dat/M008.mg:0x103a",
+   "menu/map_info_dat/M008.mg:0x1286",
+   "menu/map_info_dat/M008.mg:0x14d2",
+   "menu/map_info_dat/M008.mg:0x171e",
+   "menu/map_info_dat/M008.mg:0x196a",
+   "menu/map_info_dat/M008.mg:0x1bb6",
+   "menu/map_info_dat/M008.mg:0x1e02",
+   "menu/map_info_dat/M008.mg:0x204e",
+   "menu/map_info_dat/M008.mg:0x229a",
+   "menu/map_info_dat/M008.mg:0x24e6"
+  ]
+ },
+ {
+  "id": "title:刺客・ミーナ",
+  "kind": "title",
+  "ja": "刺客・ミーナ",
+  "en": "Mina the Assassin",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:ミーナ機以外を破壊",
+  "kind": "victory",
+  "ja": "ミーナ機以外を破壊",
+  "en": "Destroy all but Mina's Zoid",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x8c"
+  ]
+ },
+ {
+  "id": "defeat:ミーナ機の大破",
+  "kind": "defeat",
+  "ja": "ミーナ機の大破",
+  "en": "Mina's Zoid down",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M009.mg:0xdc"
+  ]
+ },
+ {
+  "id": "body:ミーナの乗るゾイドを破壊\r\nしてはいけない\r\n他のゾイドのみを倒せ",
+  "kind": "body",
+  "ja": "ミーナの乗るゾイドを破壊\r\nしてはいけない\r\n他のゾイドのみを倒せ",
+  "en": "You must not destroy the\r\nZoid Mina is piloting.\r\nTake down only the other\r\nZoids.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\nミーナ機と他の機体を離せ\r\n中距離武器で的確に攻撃だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\nミーナ機と他の機体を離せ\r\n中距離武器で的確に攻撃だ",
+  "en": "\r\nStrategy\r\nDraw Mina's Zoid away from\r\nthe others.\r\nStrike accurately with\r\nmid-range weapons.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ジェノブレイカー\r\nミーナ機",
+  "kind": "head",
+  "ja": "ジェノブレイカー\r\nミーナ機",
+  "en": "Geno Breaker\r\nMina's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nウェポンバインダー\r\n高圧濃硫酸噴射砲\r\n\r\n注：この機体は破壊しない",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nウェポンバインダー\r\n高圧濃硫酸噴射砲\r\n\r\n注：この機体は破壊しない",
+  "en": "\r\nEquipment\r\nWeapon Binder\r\nHigh-Pressure Acid Gun\r\n\r\nNote: Do not destroy this\r\nZoid.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:セイバータイガー\r\n",
+  "kind": "head",
+  "ja": "セイバータイガー\r\n",
+  "en": "Zaber Fang",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x924",
+   "menu/map_info_dat/M009.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n30mm2連装ビーム砲\r\n対ゾイド3連衝撃砲Ａ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n30mm2連装ビーム砲\r\n対ゾイド3連衝撃砲Ａ",
+  "en": "\r\nEquipment\r\n30mm Twin Beam Cannon\r\nAZ Triple Shock Cannon A",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M009.mg:0x956"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n30mm2連装ビーム砲\r\nウエポンバインダー",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n30mm2連装ビーム砲\r\nウエポンバインダー",
+  "en": "\r\nEquipment\r\n30mm Twin Beam Cannon\r\nWeapon Binder",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M009.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:シティの突破",
+  "kind": "title",
+  "ja": "シティの突破",
+  "en": "Break Through the City",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:街中交差点\r\n",
+  "kind": "head",
+  "ja": "街中交差点\r\n",
+  "en": "City Intersection",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティの中心部から\r\n少し離れた交差点\r\n治安局によって封鎖されて\r\nいる",
+  "kind": "body",
+  "ja": "ブルーシティの中心部から\r\n少し離れた交差点\r\n治安局によって封鎖されて\r\nいる",
+  "en": "An intersection a little\r\nway from the center of\r\nBlue City. The\r\nPeacekeeping Bureau has\r\nsealed it off.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n狭い場所での戦闘だ\r\n壁に追い込まれると不利だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n狭い場所での戦闘だ\r\n壁に追い込まれると不利だ",
+  "en": "\r\nStrategy\r\nYou're fighting in tight\r\nquarters.\r\nGetting backed against a\r\nwall puts you at a\r\ndisadvantage.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ゴジュラスギガ治安局仕様\r\nガミー機",
+  "kind": "head",
+  "ja": "ゴジュラスギガ治安局仕様\r\nガミー機",
+  "en": "Gojulas Giga Bureau Type\r\nGummie's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n全方位ミサイルセット\r\nﾛﾝｸﾞﾊﾞｽﾀｰｷｬﾉﾝｲｰｸﾞﾙ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n全方位ミサイルセット\r\nﾛﾝｸﾞﾊﾞｽﾀｰｷｬﾉﾝｲｰｸﾞﾙ",
+  "en": "\r\nEquipment\r\nAll-Direction Missile Set\r\nLong Buster Cannon Eagle",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:アロザウラー治安局仕様\r\nチャオ機",
+  "kind": "head",
+  "ja": "アロザウラー治安局仕様\r\nチャオ機",
+  "en": "Arosaurer Bureau Type\r\nCiao's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n火炎放射器\r\nAZ105mm2連装ビーム砲\r\n８連装ミサイルポッドＡ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n火炎放射器\r\nAZ105mm2連装ビーム砲\r\n８連装ミサイルポッドＡ",
+  "en": "\r\nEquipment\r\nFlamethrower\r\nAZ 105mm Twin Beam Cannon\r\n8-Barrel Missile Pod A",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M010.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:シンカー治安局仕様\r\n",
+  "kind": "head",
+  "ja": "シンカー治安局仕様\r\n",
+  "en": "Sinker Bureau Type",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M010.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nARZ加速ビーム砲\r\nAZハンドガン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nARZ加速ビーム砲\r\nAZハンドガン",
+  "en": "\r\nEquipment\r\nARZ Accel Beam Cannon\r\nAZ Handgun",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M010.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:敵の策略",
+  "kind": "title",
+  "ja": "敵の策略",
+  "en": "The Enemy's Scheme",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:山岳地帯\r\n",
+  "kind": "head",
+  "ja": "山岳地帯\r\n",
+  "en": "Mountains",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:大陸中央部にある山岳地帯",
+  "kind": "body",
+  "ja": "大陸中央部にある山岳地帯",
+  "en": "A mountain region in the\r\nmiddle of the continent.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x272",
+   "menu/map_info_dat/V010.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n光学迷彩使用中のゾイドは\r\n後回しで、他のゾイドを優先\r\nに叩け",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n光学迷彩使用中のゾイドは\r\n後回しで、他のゾイドを優先\r\nに叩け",
+  "en": "\r\nStrategy\r\nLeave Zoids using optical\r\ncamo for later and hit the\r\nothers first.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:デススティンガーZS\r\n無人機",
+  "kind": "head",
+  "ja": "デススティンガーZS\r\n無人機",
+  "en": "Death Stinger ZS\r\nUnmanned Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n荷電粒子砲\r\n930mm2連装ショックガン\r\n35mmバルカン砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n荷電粒子砲\r\n930mm2連装ショックガン\r\n35mmバルカン砲",
+  "en": "\r\nEquipment\r\nCharged Particle Cannon\r\n930mm Twin Shock Gun\r\n35mm Vulcan",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ダークスパイナー\r\nマロイ機",
+  "kind": "head",
+  "ja": "ダークスパイナー\r\nマロイ機",
+  "en": "Dark Spiner\r\nMalloy's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nAZ144mmマシンガン\r\n2連装キャノン\r\nジャミングブレード",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nAZ144mmマシンガン\r\n2連装キャノン\r\nジャミングブレード",
+  "en": "\r\nEquipment\r\nAZ 144mm Machine Gun\r\nTwin Cannon\r\nJamming Blade",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M011.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:ヘルキャット\r\nラトル機",
+  "kind": "head",
+  "ja": "ヘルキャット\r\nラトル機",
+  "en": "Helcat\r\nRattle's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M011.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body: \r\n装備情報　　　　　　　　\r\n20mm2連装ビーム砲\r\n小口径2連装レーザー機銃\r\n光学迷彩",
+  "kind": "body",
+  "ja": " \r\n装備情報　　　　　　　　\r\n20mm2連装ビーム砲\r\n小口径2連装レーザー機銃\r\n光学迷彩",
+  "en": "\r\nEquipment\r\n20mm Twin Beam Cannon\r\nLight Twin Laser MG\r\nOptical Camo",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M011.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:青い龍",
+  "kind": "title",
+  "ja": "青い龍",
+  "en": "The Blue Dragon",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M012.mg:0x28"
+  ]
+ },
+ {
+  "id": "defeat:護衛機の大破",
+  "kind": "defeat",
+  "ja": "護衛機の大破",
+  "en": "Escorted Zoid down",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M012.mg:0xdc"
+  ]
+ },
+ {
+  "id": "body:ブルーシティに繋がる　　\r\n荒野のハイウェイ　　　　\r\n途中にジャンクゾーン　　\r\nがある　　\r\n\r\n襲撃総ゾイド数：5機",
+  "kind": "body",
+  "ja": "ブルーシティに繋がる　　\r\n荒野のハイウェイ　　　　\r\n途中にジャンクゾーン　　\r\nがある　　\r\n\r\n襲撃総ゾイド数：5機",
+  "en": "A wasteland highway that\r\nleads to Blue City. The\r\nJunk Zone lies along the\r\nway.\r\n\r\nAttacking Zoids: 5",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M012.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n護衛機から離れず\r\nミサイル攻撃が有効だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n護衛機から離れず\r\nミサイル攻撃が有効だ",
+  "en": "\r\nStrategy\r\nStay close to the escorted\r\nZoid.\r\nMissile attacks work well.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M012.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:\r\n護衛機体　　　　　　　　\r\n敵の初攻撃で機動系に\r\nダメージを受け、完全に\r\n停止してしまっている",
+  "kind": "body",
+  "ja": "\r\n護衛機体　　　　　　　　\r\n敵の初攻撃で機動系に\r\nダメージを受け、完全に\r\n停止してしまっている",
+  "en": "\r\nEscorted Zoid\r\nThe enemy's first attack\r\ndamaged its drive system,\r\nand it has stopped\r\ncompletely.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M012.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ﾊﾞｰｻｰｸﾌｭｰﾗｰｼｭﾄｩﾙﾑ\r\n          ",
+  "kind": "head",
+  "ja": "ﾊﾞｰｻｰｸﾌｭｰﾗｰｼｭﾄｩﾙﾑ\r\n          ",
+  "en": "Berserk Fury Sturm",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M012.mg:0x924"
+  ]
+ },
+ {
+  "id": "body: \r\n装備情報　　　　　　　　\r\n対ゾイド３連衝撃砲\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ",
+  "kind": "body",
+  "ja": " \r\n装備情報　　　　　　　　\r\n対ゾイド３連衝撃砲\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ",
+  "en": "\r\nEquipment\r\nAZ Triple Shock Cannon\r\nLR Pulse Laser Rifle",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M012.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:ザバット\r\n",
+  "kind": "head",
+  "ja": "ザバット\r\n",
+  "en": "Zabat",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M012.mg:0xb70",
+   "menu/map_info_dat/M012.mg:0xdbc"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n投下型爆弾\r\n空対地4連装ﾐｻｲﾙﾎﾟｯﾄﾞ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n投下型爆弾\r\n空対地4連装ﾐｻｲﾙﾎﾟｯﾄﾞ",
+  "en": "\r\nEquipment\r\nDrop Bomb\r\nATS 4-Barrel Missile Pod",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M012.mg:0xba2"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nホーミングボム\r\n空対地4連装ﾐｻｲﾙﾎﾟｯﾄﾞ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nホーミングボム\r\n空対地4連装ﾐｻｲﾙﾎﾟｯﾄﾞ",
+  "en": "\r\nEquipment\r\nHoming Bomb\r\nATS 4-Barrel Missile Pod",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M012.mg:0xdee"
+  ]
+ },
+ {
+  "id": "title:開拓地防衛戦",
+  "kind": "title",
+  "ja": "開拓地防衛戦",
+  "en": "Defense of the Frontier",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:野良ゾイドの全滅",
+  "kind": "victory",
+  "ja": "野良ゾイドの全滅",
+  "en": "Destroy all wild Zoids",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:シティ西側開拓地\r\n",
+  "kind": "head",
+  "ja": "シティ西側開拓地\r\n",
+  "en": "Frontier West of the City",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:開拓地で野良化したゾイド\r\nが発生している\r\n6分で全ての野良ゾイドを\r\n破壊せよ\r\n\r\n野良ゾイド出現数：24機",
+  "kind": "body",
+  "ja": "開拓地で野良化したゾイド\r\nが発生している\r\n6分で全ての野良ゾイドを\r\n破壊せよ\r\n\r\n野良ゾイド出現数：24機",
+  "en": "Zoids have gone wild on\r\nthe frontier.\r\nDestroy every wild Zoid\r\nwithin 6 minutes.\r\n\r\nWild Zoids: 24",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:プレイヤー機体\r\n",
+  "kind": "head",
+  "ja": "プレイヤー機体\r\n",
+  "en": "Player Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x48c",
+   "menu/map_info_dat/M017.mg:0x48c",
+   "menu/map_info_dat/M020.mg:0x48c",
+   "menu/map_info_dat/M037.mg:0x48c",
+   "menu/map_info_dat/M038.mg:0x48c",
+   "menu/map_info_dat/M041.mg:0x48c",
+   "menu/map_info_dat/M048.mg:0x48c",
+   "menu/map_info_dat/M049.mg:0x48c",
+   "menu/map_info_dat/M060.mg:0x48c",
+   "menu/map_info_dat/M071.mg:0x48c",
+   "menu/map_info_dat/M072.mg:0x48c",
+   "menu/map_info_dat/M073.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n1機撃破にあまり時間を取\r\nられるな\r\nブースターで素早く移動だ\r\n",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n1機撃破にあまり時間を取\r\nられるな\r\nブースターで素早く移動だ\r\n",
+  "en": "\r\nStrategy\r\nDon't spend too long on\r\nany one Zoid.\r\nUse your booster to move\r\nfast.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ライガーゼロ\r\nRD機                ",
+  "kind": "head",
+  "ja": "ライガーゼロ\r\nRD機                ",
+  "en": "Liger Zero\r\nRD's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nAZ208mm2連装ｼｮｯｸｶﾉﾝ\r\nAZ30mm2連装ビーム砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nAZ208mm2連装ｼｮｯｸｶﾉﾝ\r\nAZ30mm2連装ビーム砲",
+  "en": "\r\nEquipment\r\nAZ 208mm Twin Shock Cannon\r\nAZ 30mm Twin Beam Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:レブラプター\r\n野良化",
+  "kind": "head",
+  "ja": "レブラプター\r\n野良化",
+  "en": "Rev Raptor\r\nGone Wild",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x924",
+   "menu/map_info_dat/M016.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nカウンターサイズ\r\n",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nカウンターサイズ\r\n",
+  "en": "\r\nEquipment\r\nCounter Scythe",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M016.mg:0x956",
+   "menu/map_info_dat/M016.mg:0xba2"
+  ]
+ },
+ {
+  "id": "head:ブリッツホーネット\r\n野良化",
+  "kind": "head",
+  "ja": "ブリッツホーネット\r\n野良化",
+  "en": "Blitz Hornet\r\nGone Wild",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M016.mg:0xdbc",
+   "menu/map_info_dat/M016.mg:0x1008",
+   "menu/map_info_dat/M016.mg:0x1254",
+   "menu/map_info_dat/M016.mg:0x14a0"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nバルカンポッド",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nバルカンポッド",
+  "en": "\r\nEquipment\r\nVulcan Pod",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M016.mg:0xdee",
+   "menu/map_info_dat/M016.mg:0x103a",
+   "menu/map_info_dat/M016.mg:0x1286",
+   "menu/map_info_dat/M016.mg:0x14d2"
+  ]
+ },
+ {
+  "id": "title:ミーナとの決着",
+  "kind": "title",
+  "ja": "ミーナとの決着",
+  "en": "Showdown with Mina",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:峡谷渡り通路\r\n",
+  "kind": "head",
+  "ja": "峡谷渡り通路\r\n",
+  "en": "Canyon Crossing",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ホエールキングが隠されて\r\nいた、峡谷の渡り通路\r\nそこにミーナが立ち\r\nはだかった",
+  "kind": "body",
+  "ja": "ホエールキングが隠されて\r\nいた、峡谷の渡り通路\r\nそこにミーナが立ち\r\nはだかった",
+  "en": "The canyon crossing where\r\nthe Whale King was hidden.\r\nThere, Mina stood in the\r\nway.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n狭い通路での戦闘だ\r\nシールドをうまく活用せよ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n狭い通路での戦闘だ\r\nシールドをうまく活用せよ",
+  "en": "\r\nStrategy\r\nYou're fighting in a\r\nnarrow passage.\r\nMake good use of your\r\nshield.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:デカルトドラゴン\r\nミーナ機",
+  "kind": "head",
+  "ja": "デカルトドラゴン\r\nミーナ機",
+  "en": "Decalto Dragon\r\nMina's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x6d8",
+   "menu/map_info_dat/M037.mg:0x6d8",
+   "menu/map_info_dat/M038.mg:0x6d8",
+   "menu/map_info_dat/M049.mg:0x924",
+   "menu/map_info_dat/M060.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nプラズマレールキャノン\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nプラズマレールキャノン\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ",
+  "en": "\r\nEquipment\r\nPlasma Rail Cannon\r\nLR Pulse Laser Rifle",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x70a",
+   "menu/map_info_dat/M049.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:コマンドウルフ EM\r\n",
+  "kind": "head",
+  "ja": "コマンドウルフ EM\r\n",
+  "en": "Command Wolf EM",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x924",
+   "menu/map_info_dat/M017.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n対ゾイド２連装ビーム砲\r\n",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n対ゾイド２連装ビーム砲\r\n",
+  "en": "\r\nEquipment\r\nAZ Twin Beam Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M017.mg:0x956",
+   "menu/map_info_dat/M017.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:潜入",
+  "kind": "title",
+  "ja": "潜入",
+  "en": "Infiltration",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M018.mg:0x28",
+   "menu/map_info_dat/M037.mg:0x28",
+   "menu/map_info_dat/M047.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ホエールキング内部\r\n",
+  "kind": "head",
+  "ja": "ホエールキング内部\r\n",
+  "en": "Inside the Whale King",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M018.mg:0x240",
+   "menu/map_info_dat/M037.mg:0x240",
+   "menu/map_info_dat/M047.mg:0x240"
+  ]
+ },
+ {
+  "id": "head:プレイヤー機体",
+  "kind": "head",
+  "ja": "プレイヤー機体",
+  "en": "Player Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M018.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n",
+  "en": "\r\nStrategy",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M018.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:キメラドラゴン　　　　　\r\n",
+  "kind": "head",
+  "ja": "キメラドラゴン　　　　　\r\n",
+  "en": "Chimera Dragon",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M018.mg:0x6d8",
+   "menu/map_info_dat/M018.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nミサイルランチャー\r\n電磁キャノン\r\nレールキャノン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nミサイルランチャー\r\n電磁キャノン\r\nレールキャノン",
+  "en": "\r\nEquipment\r\nMissile Launcher\r\nElectromagnetic Cannon\r\nRail Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M018.mg:0x70a",
+   "menu/map_info_dat/M018.mg:0x956",
+   "menu/map_info_dat/M037.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:破壊神の暴走",
+  "kind": "title",
+  "ja": "破壊神の暴走",
+  "en": "Rampage of the God of Destruction",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x28",
+   "menu/map_info_dat/M049.mg:0x28",
+   "menu/map_info_dat/M060.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:メガザウラーの破壊",
+  "kind": "victory",
+  "ja": "メガザウラーの破壊",
+  "en": "Destroy the Mega Saurer",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x8c",
+   "menu/map_info_dat/M049.mg:0x8c",
+   "menu/map_info_dat/M060.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:荒野\r\n",
+  "kind": "head",
+  "ja": "荒野\r\n",
+  "en": "Wasteland",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x240",
+   "menu/map_info_dat/M049.mg:0x240",
+   "menu/map_info_dat/M060.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:大陸西部の荒野　　　　　\r\nメガザウラーは\r\nブルーシティに\r\n向かっている\r\nここで倒さなくては、\r\nシティが危ない",
+  "kind": "body",
+  "ja": "大陸西部の荒野　　　　　\r\nメガザウラーは\r\nブルーシティに\r\n向かっている\r\nここで倒さなくては、\r\nシティが危ない",
+  "en": "Wasteland in the west of\r\nthe continent.\r\nThe Mega Saurer is headed\r\nfor Blue City.\r\nStop it here, or the city\r\nis in danger.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x272",
+   "menu/map_info_dat/M049.mg:0x272",
+   "menu/map_info_dat/M060.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n敵の正面は危険だ\r\nブースター装備を忘れるな",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n敵の正面は危険だ\r\nブースター装備を忘れるな",
+  "en": "\r\nStrategy\r\nThe enemy's front is\r\ndangerous.\r\nDon't forget to equip a\r\nbooster.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ブラストルタイガー\r\nスクード機",
+  "kind": "head",
+  "ja": "ブラストルタイガー\r\nスクード機",
+  "en": "Brastle Tiger\r\nScudo's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x6d8",
+   "menu/map_info_dat/M038.mg:0x924",
+   "menu/map_info_dat/M048.mg:0x6d8",
+   "menu/map_info_dat/M049.mg:0x6d8",
+   "menu/map_info_dat/M060.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:支 援 機\r\n装備情報　　　　　　　　\r\nAZ6連装誘導ミサイル\r\n208mmショックカノン\r\nAZハイパー３連衝撃砲",
+  "kind": "body",
+  "ja": "支 援 機\r\n装備情報　　　　　　　　\r\nAZ6連装誘導ミサイル\r\n208mmショックカノン\r\nAZハイパー３連衝撃砲",
+  "en": "Support Zoid\r\nEquipment\r\nAZ 6-Barrel Guided Missile\r\n208mm Shock Cannon\r\nAZ Hyper Triple S-Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x70a",
+   "menu/map_info_dat/M060.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:メガザウラー\r\n無人",
+  "kind": "head",
+  "ja": "メガザウラー\r\n無人",
+  "en": "Mega Saurer\r\nUnmanned",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x924",
+   "menu/map_info_dat/M049.mg:0xb70",
+   "menu/map_info_dat/M060.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n荷電粒子砲\r\nAZ6連装MHﾐｻｲﾙﾎﾟｯﾄﾞ\r\n小口径対地レーザー機銃",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n荷電粒子砲\r\nAZ6連装MHﾐｻｲﾙﾎﾟｯﾄﾞ\r\n小口径対地レーザー機銃",
+  "en": "\r\nEquipment\r\nCharged Particle Cannon\r\nAZ 6-Barrel MH Missile Pod\r\nLight Anti-Ground Laser MG",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M020.mg:0x956",
+   "menu/map_info_dat/M049.mg:0xba2",
+   "menu/map_info_dat/M060.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:ゾイドロード走破",
+  "kind": "title",
+  "ja": "ゾイドロード走破",
+  "en": "Running the Zoid Road",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x28",
+   "menu/map_info_dat/M041.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:野良ゾイドを全滅",
+  "kind": "victory",
+  "ja": "野良ゾイドを全滅",
+  "en": "Destroy all wild Zoids",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:ゾイドロード\r\n",
+  "kind": "head",
+  "ja": "ゾイドロード\r\n",
+  "en": "Zoid Road",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x240",
+   "menu/map_info_dat/M041.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティの地下を通る\r\nゾイド専用通路\r\n天井の縦穴から、無数に\r\n野良ゾイドが出現してくる\r\n\r\n野良ゾイド出現数：40機",
+  "kind": "body",
+  "ja": "ブルーシティの地下を通る\r\nゾイド専用通路\r\n天井の縦穴から、無数に\r\n野良ゾイドが出現してくる\r\n\r\n野良ゾイド出現数：40機",
+  "en": "A Zoid-only passage\r\nrunning under Blue City.\r\nCountless wild Zoids pour\r\nout of the shafts in the\r\nceiling.\r\n\r\nWild Zoids: 40",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n敵は弱いが囲まれると\r\n危険だ\r\n中距離武器で素早く倒そう",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n敵は弱いが囲まれると\r\n危険だ\r\n中距離武器で素早く倒そう",
+  "en": "\r\nStrategy\r\nThe enemies are weak, but\r\ngetting surrounded is\r\ndangerous.\r\nTake them down fast with\r\nmid-range weapons.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ジェノザウラー 　　　　　\r\nロジャー機",
+  "kind": "head",
+  "ja": "ジェノザウラー 　　　　　\r\nロジャー機",
+  "en": "Geno Saurer\r\nRoger's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ\r\nﾚｰｻﾞｰｶﾞﾝ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ\r\nﾚｰｻﾞｰｶﾞﾝ",
+  "en": "\r\nEquipment\r\nLR Pulse Laser Rifle\r\nLaser Gun",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ブリッツホーネット　　　　\r\n",
+  "kind": "head",
+  "ja": "ブリッツホーネット　　　　\r\n",
+  "en": "Blitz Hornet",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x924",
+   "menu/map_info_dat/M031.mg:0xb70",
+   "menu/map_info_dat/M031.mg:0xdbc",
+   "menu/map_info_dat/M031.mg:0x1008"
+  ]
+ },
+ {
+  "id": "body:\r\n\r\n投棄されたゾイドから発生\r\nした野良ゾイド",
+  "kind": "body",
+  "ja": "\r\n\r\n投棄されたゾイドから発生\r\nした野良ゾイド",
+  "en": "\r\n\r\nWild Zoids that arose from\r\nabandoned Zoids.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x956",
+   "menu/map_info_dat/M031.mg:0xba2",
+   "menu/map_info_dat/M031.mg:0xdee",
+   "menu/map_info_dat/M031.mg:0x103a",
+   "menu/map_info_dat/M031.mg:0x1286",
+   "menu/map_info_dat/M031.mg:0x14d2",
+   "menu/map_info_dat/M031.mg:0x171e",
+   "menu/map_info_dat/M031.mg:0x196a",
+   "menu/map_info_dat/M041.mg:0xdee",
+   "menu/map_info_dat/M041.mg:0x103a",
+   "menu/map_info_dat/M041.mg:0x1286",
+   "menu/map_info_dat/M041.mg:0x14d2"
+  ]
+ },
+ {
+  "id": "head:ブリッツホーネット　　　　",
+  "kind": "head",
+  "ja": "ブリッツホーネット　　　　",
+  "en": "Blitz Hornet",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M031.mg:0x1254",
+   "menu/map_info_dat/M031.mg:0x14a0",
+   "menu/map_info_dat/M031.mg:0x16ec",
+   "menu/map_info_dat/M031.mg:0x1938",
+   "menu/map_info_dat/M041.mg:0xdbc",
+   "menu/map_info_dat/M041.mg:0x1008",
+   "menu/map_info_dat/M041.mg:0x1254",
+   "menu/map_info_dat/M041.mg:0x14a0"
+  ]
+ },
+ {
+  "id": "title:エネルギー供給施設の破壊",
+  "kind": "title",
+  "ja": "エネルギー供給施設の破壊",
+  "en": "Destroy the Energy Supply Facility",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x28",
+   "menu/map_info_dat/M045.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:エネルギータンクの破壊",
+  "kind": "victory",
+  "ja": "エネルギータンクの破壊",
+  "en": "Destroy the energy tanks",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x8c",
+   "menu/map_info_dat/M045.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:エネルギー供給施設\r\n",
+  "kind": "head",
+  "ja": "エネルギー供給施設\r\n",
+  "en": "Energy Supply Facility",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x240",
+   "menu/map_info_dat/M045.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:表向きはシティの予備エネ\r\nルギー供給施設として建設\r\nされたが、真の目的は…\r\n\r\nエネルギータンク数：21基",
+  "kind": "body",
+  "ja": "表向きはシティの予備エネ\r\nルギー供給施設として建設\r\nされたが、真の目的は…\r\n\r\nエネルギータンク数：21基",
+  "en": "On paper it was built as\r\nthe city's backup energy\r\nsupply facility, but its\r\ntrue purpose...\r\n\r\nEnergy tanks: 21",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x272",
+   "menu/map_info_dat/M045.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n破壊ターゲットは複数ある\r\n砲撃武器を可能な限り\r\n装備して出撃だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n破壊ターゲットは複数ある\r\n砲撃武器を可能な限り\r\n装備して出撃だ",
+  "en": "\r\nStrategy\r\nThere are multiple targets\r\nto destroy.\r\nMove out with as many\r\nranged weapons as you can\r\ncarry.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x4be",
+   "menu/map_info_dat/M045.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:エネルギータンク\r\n破壊ターゲット",
+  "kind": "head",
+  "ja": "エネルギータンク\r\n破壊ターゲット",
+  "en": "Energy Tank\r\nTarget to Destroy",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x6d8",
+   "menu/map_info_dat/M033.mg:0x924",
+   "menu/map_info_dat/M033.mg:0xb70",
+   "menu/map_info_dat/M033.mg:0xdbc",
+   "menu/map_info_dat/M033.mg:0x1008",
+   "menu/map_info_dat/M045.mg:0x6d8",
+   "menu/map_info_dat/M045.mg:0x924",
+   "menu/map_info_dat/M045.mg:0xb70",
+   "menu/map_info_dat/M045.mg:0xdbc",
+   "menu/map_info_dat/M045.mg:0x1008"
+  ]
+ },
+ {
+  "id": "body:タンクは4基設置\r\n外装が頑丈で格闘系の攻撃\r\nでは破壊できない",
+  "kind": "body",
+  "ja": "タンクは4基設置\r\n外装が頑丈で格闘系の攻撃\r\nでは破壊できない",
+  "en": "4 tanks are placed here.\r\nTheir shells are tough, so\r\nmelee attacks can't\r\ndestroy them.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x70a",
+   "menu/map_info_dat/M033.mg:0x956",
+   "menu/map_info_dat/M033.mg:0xba2",
+   "menu/map_info_dat/M033.mg:0xdee",
+   "menu/map_info_dat/M045.mg:0x70a",
+   "menu/map_info_dat/M045.mg:0x956",
+   "menu/map_info_dat/M045.mg:0xba2",
+   "menu/map_info_dat/M045.mg:0xdee"
+  ]
+ },
+ {
+  "id": "body:タンクは5基設置\r\n外装が頑丈で格闘系の攻撃\r\nでは破壊できない",
+  "kind": "body",
+  "ja": "タンクは5基設置\r\n外装が頑丈で格闘系の攻撃\r\nでは破壊できない",
+  "en": "5 tanks are placed here.\r\nTheir shells are tough, so\r\nmelee attacks can't\r\ndestroy them.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x103a",
+   "menu/map_info_dat/M045.mg:0x103a"
+  ]
+ },
+ {
+  "id": "head:ロードゲイル\r\nバートン機",
+  "kind": "head",
+  "ja": "ロードゲイル\r\nバートン機",
+  "en": "Lord Gale\r\nBurton's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x1254"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nﾋﾞｰﾑｶﾞﾄﾘﾝｸﾞﾕﾆｯﾄ\r\n２連装ヘビーマシンガン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nﾋﾞｰﾑｶﾞﾄﾘﾝｸﾞﾕﾆｯﾄ\r\n２連装ヘビーマシンガン",
+  "en": "\r\nEquipment\r\nBeam Gatling Unit\r\nTwin Heavy Machine Gun",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x1286"
+  ]
+ },
+ {
+  "id": "head:ヘルキャット\r\n警備用ゾイド",
+  "kind": "head",
+  "ja": "ヘルキャット\r\n警備用ゾイド",
+  "en": "Helcat\r\nSecurity Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x14a0",
+   "menu/map_info_dat/M033.mg:0x16ec"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nミサイルシート\r\nエクス2連キャノン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nミサイルシート\r\nエクス2連キャノン",
+  "en": "\r\nEquipment\r\nMissile Seat\r\nX Twin Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M033.mg:0x14d2",
+   "menu/map_info_dat/M033.mg:0x171e"
+  ]
+ },
+ {
+  "id": "title:戦友",
+  "kind": "title",
+  "ja": "戦友",
+  "en": "Comrades in Arms",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x28",
+   "menu/map_info_dat/M043.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:ウルトラザウルスのHP3000以下に",
+  "kind": "victory",
+  "ja": "ウルトラザウルスのHP3000以下に",
+  "en": "Get the Ultrasaurus to 3000 HP or less",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:雪山\r\n",
+  "kind": "head",
+  "ja": "雪山\r\n",
+  "en": "Snowy Mountain",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x240",
+   "menu/map_info_dat/M043.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティ北東部の雪山\r\n年間を通して、雪が完全に\r\n解けることはない\r\n\r\n戦闘時間：3分",
+  "kind": "body",
+  "ja": "ブルーシティ北東部の雪山\r\n年間を通して、雪が完全に\r\n解けることはない\r\n\r\n戦闘時間：3分",
+  "en": "A snowy mountain northeast\r\nof Blue City. The snow\r\nnever fully melts all\r\nyear.\r\n\r\nBattle time: 3 min",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x272",
+   "menu/map_info_dat/M043.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\nスクード機を集中攻撃しろ\r\n飛行で爆撃が強力だ！",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\nスクード機を集中攻撃しろ\r\n飛行で爆撃が強力だ！",
+  "en": "\r\nStrategy\r\nFocus your attacks on\r\nScudo's Zoid.\r\nBombing from the air packs\r\na punch!",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x4be",
+   "menu/map_info_dat/M043.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ウルトラザウルス\r\nスクード機",
+  "kind": "head",
+  "ja": "ウルトラザウルス\r\nスクード機",
+  "en": "Ultrasaurus\r\nScudo's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n360mmリニアキャノン\r\n8連装ミサイルランチャー\r\n6連装ﾊｲﾏﾆｭｰﾊﾞﾐｻｲﾙﾎﾟｯﾄﾞ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n360mmリニアキャノン\r\n8連装ミサイルランチャー\r\n6連装ﾊｲﾏﾆｭｰﾊﾞﾐｻｲﾙﾎﾟｯﾄﾞ",
+  "en": "\r\nEquipment\r\n360mm Linear Cannon\r\n8-Barrel Missile Launcher\r\n6-Barrel HM Missile Pod",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:アイアンコングイエティ\r\n",
+  "kind": "head",
+  "ja": "アイアンコングイエティ\r\n",
+  "en": "Iron Kong Yeti",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x924",
+   "menu/map_info_dat/M034.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n6連装Ｍランチャー\r\n10連装自己誘導Ｒﾗﾝﾁｬｰ\r\nウェポンパック\r\n",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n6連装Ｍランチャー\r\n10連装自己誘導Ｒﾗﾝﾁｬｰ\r\nウェポンパック\r\n",
+  "en": "\r\nEquipment\r\n6-Barrel Missile Launcher\r\n10-Barrel Homing Rockets\r\nWeapon Pack",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M034.mg:0x956",
+   "menu/map_info_dat/M034.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:社長救出劇",
+  "kind": "title",
+  "ja": "社長救出劇",
+  "en": "Rescuing the President",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x28",
+   "menu/map_info_dat/M044.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:敵を全滅",
+  "kind": "victory",
+  "ja": "敵を全滅",
+  "en": "Destroy all enemies",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x8c",
+   "menu/map_info_dat/M044.mg:0x8c"
+  ]
+ },
+ {
+  "id": "body:ブルーシティに繋がる　　\r\n荒野のハイウェイ",
+  "kind": "body",
+  "ja": "ブルーシティに繋がる　　\r\n荒野のハイウェイ",
+  "en": "A wasteland highway that\r\nleads to Blue City.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x272",
+   "menu/map_info_dat/M044.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n護送機のホバーカーゴを\r\n優先的に攻撃しよう",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n護送機のホバーカーゴを\r\n優先的に攻撃しよう",
+  "en": "\r\nStrategy\r\nMake the Hover Cargo doing\r\nthe transport your first\r\ntarget.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x4be",
+   "menu/map_info_dat/M044.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ホバーカーゴ 　　　\r\n",
+  "kind": "head",
+  "ja": "ホバーカーゴ 　　　\r\n",
+  "en": "Hover Cargo",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x6d8",
+   "menu/map_info_dat/M044.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n護送機体　　　　　　　　\r\nZOITEC社長と技術者が\r\n護送されている",
+  "kind": "body",
+  "ja": "\r\n護送機体　　　　　　　　\r\nZOITEC社長と技術者が\r\n護送されている",
+  "en": "\r\nTransport Zoid\r\nZoitec's president and the\r\nengineers are being\r\ntransported in it.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x70a",
+   "menu/map_info_dat/M044.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:エレファンダー\r\n敵護衛機",
+  "kind": "head",
+  "ja": "エレファンダー\r\n敵護衛機",
+  "en": "Elephander\r\nEnemy Escort",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x924",
+   "menu/map_info_dat/M035.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nアイアンクロー\r\nｱｻﾙﾄｶﾞﾄﾘﾝｸﾞﾕﾆｯﾄ",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nアイアンクロー\r\nｱｻﾙﾄｶﾞﾄﾘﾝｸﾞﾕﾆｯﾄ",
+  "en": "\r\nEquipment\r\nIron Claw\r\nAssault Gatling Unit",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M035.mg:0x956",
+   "menu/map_info_dat/M035.mg:0xba2"
+  ]
+ },
+ {
+  "id": "body:研究施設に改造された　　\r\nホエールキングの内部　\r\n無人ゾイドがかなりの数\r\n収納されているようだ\r\n\r\n総出現ゾイド数：8機",
+  "kind": "body",
+  "ja": "研究施設に改造された　　\r\nホエールキングの内部　\r\n無人ゾイドがかなりの数\r\n収納されているようだ\r\n\r\n総出現ゾイド数：8機",
+  "en": "Inside a Whale King\r\nconverted into a research\r\nfacility. It seems to hold\r\nquite a number of unmanned\r\nZoids.\r\n\r\nTotal Zoids: 8",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M037.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n敵の格闘攻撃に注意\r\n正面を避けて攻撃しろ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n敵の格闘攻撃に注意\r\n正面を避けて攻撃しろ",
+  "en": "\r\nStrategy\r\nWatch out for enemy melee\r\nattacks.\r\nStay off their front when\r\nyou attack.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M037.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:支 援 機\r\n装備情報　　　　　　　　\r\nプラズマレールキャノン\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ",
+  "kind": "body",
+  "ja": "支 援 機\r\n装備情報　　　　　　　　\r\nプラズマレールキャノン\r\nLRﾊﾟﾙｽﾚｰｻﾞｰﾗｲﾌﾙ",
+  "en": "Support Zoid\r\nEquipment\r\nPlasma Rail Cannon\r\nLR Pulse Laser Rifle",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M037.mg:0x70a",
+   "menu/map_info_dat/M038.mg:0x70a",
+   "menu/map_info_dat/M060.mg:0x956"
+  ]
+ },
+ {
+  "id": "head:キメラドラゴン\r\n無人機",
+  "kind": "head",
+  "ja": "キメラドラゴン\r\n無人機",
+  "en": "Chimera Dragon\r\nUnmanned Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M037.mg:0x924",
+   "menu/map_info_dat/M037.mg:0xb70",
+   "menu/map_info_dat/M047.mg:0x924",
+   "menu/map_info_dat/M047.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n電磁キャノン\r\nレールキャノン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n電磁キャノン\r\nレールキャノン",
+  "en": "\r\nEquipment\r\nElectromagnetic Cannon\r\nRail Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M037.mg:0x956",
+   "menu/map_info_dat/M047.mg:0x956",
+   "menu/map_info_dat/M047.mg:0xba2"
+  ]
+ },
+ {
+  "id": "title:好敵手との決戦",
+  "kind": "title",
+  "ja": "好敵手との決戦",
+  "en": "Decisive Battle with a Worthy Rival",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M038.mg:0x28",
+   "menu/map_info_dat/M048.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:ホエールキング甲板\r\n",
+  "kind": "head",
+  "ja": "ホエールキング甲板\r\n",
+  "en": "Whale King Deck",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M038.mg:0x240",
+   "menu/map_info_dat/M048.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ホエールキング甲板\r\nこの高さから落下すると　\r\n即大破してしまう",
+  "kind": "body",
+  "ja": "ホエールキング甲板\r\nこの高さから落下すると　\r\n即大破してしまう",
+  "en": "The deck of the Whale\r\nKing. A fall from this\r\nheight means instant\r\ndestruction.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M038.mg:0x272",
+   "menu/map_info_dat/M048.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n敵の死角を狙って\r\n格闘攻撃を使え",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n敵の死角を狙って\r\n格闘攻撃を使え",
+  "en": "\r\nStrategy\r\nAim for the enemy's blind\r\nspots and use melee\r\nattacks.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M038.mg:0x4be",
+   "menu/map_info_dat/M048.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nAZ6連装誘導ミサイル\r\n208mmショックカノン\r\nAZハイパー３連衝撃砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nAZ6連装誘導ミサイル\r\n208mmショックカノン\r\nAZハイパー３連衝撃砲",
+  "en": "\r\nEquipment\r\nAZ 6-Barrel Guided Missile\r\n208mm Shock Cannon\r\nAZ Hyper Triple S-Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M038.mg:0x956",
+   "menu/map_info_dat/M048.mg:0x70a",
+   "menu/map_info_dat/M049.mg:0x70a"
+  ]
+ },
+ {
+  "id": "victory:Ziファイター機体を倒せ",
+  "kind": "victory",
+  "ja": "Ziファイター機体を倒せ",
+  "en": "Defeat the Zi Fighter's Zoid",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M041.mg:0x8c"
+  ]
+ },
+ {
+  "id": "body:ブルーシティの地下を通る\r\nゾイド専用通路\r\n天井の縦穴から、無数に\r\n野良ゾイドが出現してくる\r\n野良ゾイド出現数：12機",
+  "kind": "body",
+  "ja": "ブルーシティの地下を通る\r\nゾイド専用通路\r\n天井の縦穴から、無数に\r\n野良ゾイドが出現してくる\r\n野良ゾイド出現数：12機",
+  "en": "A Zoid-only passage\r\nrunning under Blue City.\r\nCountless wild Zoids pour\r\nout of the shafts in the\r\nceiling.\r\nWild Zoids: 12",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M041.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n野良ゾイドの群れの中での\r\n戦闘は避けよう",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n野良ゾイドの群れの中での\r\n戦闘は避けよう",
+  "en": "\r\nStrategy\r\nAvoid fighting in the\r\nmiddle of a pack of wild\r\nZoids.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M041.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ケーニッヒウルフMKⅡ\r\nエミー機",
+  "kind": "head",
+  "ja": "ケーニッヒウルフMKⅡ\r\nエミー機",
+  "en": "Konig Wolf MK II\r\nAmy's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M041.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nﾃﾞｭｱﾙｽﾅｲﾊﾟｰﾗｲﾌﾙ\r\nAZ５連装ミサイルポッド",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nﾃﾞｭｱﾙｽﾅｲﾊﾟｰﾗｲﾌﾙ\r\nAZ５連装ミサイルポッド",
+  "en": "\r\nEquipment\r\nDual Sniper Rifle\r\nAZ 5-Barrel Missile Pod",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M041.mg:0x70a"
+  ]
+ },
+ {
+  "id": "body:\r\n装備武器　　　　　　　　\r\nアクティブシールド\r\n",
+  "kind": "body",
+  "ja": "\r\n装備武器　　　　　　　　\r\nアクティブシールド\r\n",
+  "en": "\r\nWeapons\r\nActive Shield",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M041.mg:0x956",
+   "menu/map_info_dat/M041.mg:0xba2"
+  ]
+ },
+ {
+  "id": "victory:マッドサンダーのHP3000以下に",
+  "kind": "victory",
+  "ja": "マッドサンダーのHP3000以下に",
+  "en": "Get the Mad Thunder to 3000 HP or less",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M043.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:マッドサンダー\r\nスクード機",
+  "kind": "head",
+  "ja": "マッドサンダー\r\nスクード機",
+  "en": "Mad Thunder\r\nScudo's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M043.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n2連大口径衝撃砲\r\nビームキャノンＳＰ\r\n4連ビーム砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n2連大口径衝撃砲\r\nビームキャノンＳＰ\r\n4連ビーム砲",
+  "en": "\r\nEquipment\r\nTwin Heavy Shock Cannon\r\nBeam Cannon SP\r\n4-Barrel Beam Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M043.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:グリーンホーン\r\n",
+  "kind": "head",
+  "ja": "グリーンホーン\r\n",
+  "en": "Green Horn",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M043.mg:0x924",
+   "menu/map_info_dat/M043.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nAZﾊﾝﾃﾞﾝｼﾃｨﾋﾞｰﾑｷｬﾉﾝ\r\n３連装リニアキャノン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nAZﾊﾝﾃﾞﾝｼﾃｨﾋﾞｰﾑｷｬﾉﾝ\r\n３連装リニアキャノン",
+  "en": "\r\nEquipment\r\nAZ HD Beam Cannon\r\nTriple Linear Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M043.mg:0x956",
+   "menu/map_info_dat/M043.mg:0xba2"
+  ]
+ },
+ {
+  "id": "head:ゴジュラス\r\n敵護衛機",
+  "kind": "head",
+  "ja": "ゴジュラス\r\n敵護衛機",
+  "en": "Gojulas\r\nEnemy Escort",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M044.mg:0x924",
+   "menu/map_info_dat/M044.mg:0xb70"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n８連装ミサイルポッドＥ\r\nTRZ20mmリニアレーザーガン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n８連装ミサイルポッドＥ\r\nTRZ20mmリニアレーザーガン",
+  "en": "\r\nEquipment\r\n8-Barrel Missile Pod E\r\nTRZ 20mm Linear Laser Gun",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M044.mg:0x956",
+   "menu/map_info_dat/M044.mg:0xba2"
+  ]
+ },
+ {
+  "id": "head:バーサークフューラー\r\nブレード機",
+  "kind": "head",
+  "ja": "バーサークフューラー\r\nブレード機",
+  "en": "Berserk Fury\r\nBlake's Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M045.mg:0x1254"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nAZ185ｍｍビームキャノン\r\n対ゾイド３連衝撃砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nAZ185ｍｍビームキャノン\r\n対ゾイド３連衝撃砲",
+  "en": "\r\nEquipment\r\nAZ 185mm Beam Cannon\r\nAZ Triple Shock Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M045.mg:0x1286"
+  ]
+ },
+ {
+  "id": "head:ディバイソン\r\n",
+  "kind": "head",
+  "ja": "ディバイソン\r\n",
+  "en": "Dibison",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M045.mg:0x14a0",
+   "menu/map_info_dat/M045.mg:0x16ec"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\n105mm17連突撃砲\r\n対ゾイド３連衝撃砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\n105mm17連突撃砲\r\n対ゾイド３連衝撃砲",
+  "en": "\r\nEquipment\r\n105mm 17-Shot Assault Gun\r\nAZ Triple Shock Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M045.mg:0x14d2",
+   "menu/map_info_dat/M045.mg:0x171e"
+  ]
+ },
+ {
+  "id": "body:研究施設に改造された　　\r\nホエールキングの内部\r\n無人ゾイドがかなりの数\r\n収納されているようだ\r\n\r\n総出現ゾイド数：7機",
+  "kind": "body",
+  "ja": "研究施設に改造された　　\r\nホエールキングの内部\r\n無人ゾイドがかなりの数\r\n収納されているようだ\r\n\r\n総出現ゾイド数：7機",
+  "en": "Inside a Whale King\r\nconverted into a research\r\nfacility. It seems to hold\r\nquite a number of unmanned\r\nZoids.\r\n\r\nTotal Zoids: 7",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M047.mg:0x272"
+  ]
+ },
+ {
+  "id": "head:プレイヤー\r\n",
+  "kind": "head",
+  "ja": "プレイヤー\r\n",
+  "en": "Player",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M047.mg:0x48c"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n敵の格闘攻撃に注意\r\n距離を取って攻撃だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n敵の格闘攻撃に注意\r\n距離を取って攻撃だ",
+  "en": "\r\nStrategy\r\nWatch out for enemy melee\r\nattacks.\r\nKeep your distance and\r\nattack.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M047.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:ロードゲイル\r\n無人機",
+  "kind": "head",
+  "ja": "ロードゲイル\r\n無人機",
+  "en": "Lord Gale\r\nUnmanned Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M047.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nエクスキャノン",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nエクスキャノン",
+  "en": "\r\nEquipment\r\nX Cannon",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M047.mg:0x70a"
+  ]
+ },
+ {
+  "id": "head:ジェノブレイカーJET\r\n",
+  "kind": "head",
+  "ja": "ジェノブレイカーJET\r\n",
+  "en": "Geno Breaker JET",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M048.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n装備情報　　　　　　　　\r\nウェポンバインダー\r\n高圧濃硫酸噴射砲",
+  "kind": "body",
+  "ja": "\r\n装備情報　　　　　　　　\r\nウェポンバインダー\r\n高圧濃硫酸噴射砲",
+  "en": "\r\nEquipment\r\nWeapon Binder\r\nHigh-Pressure Acid Gun",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M048.mg:0x956"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\nメガザウラーの\r\n正面は危険だ\r\nサイドからの攻撃が有効だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\nメガザウラーの\r\n正面は危険だ\r\nサイドからの攻撃が有効だ",
+  "en": "\r\nStrategy\r\nThe Mega Saurer's front is\r\ndangerous.\r\nAttacks from the side work\r\nwell.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M049.mg:0x4be"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\nメガザウラーの正面は危険だ\r\nサイドからの攻撃が有効だ",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\nメガザウラーの正面は危険だ\r\nサイドからの攻撃が有効だ",
+  "en": "\r\nStrategy\r\nThe Mega Saurer's front is\r\ndangerous.\r\nAttacks from the side work\r\nwell.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M060.mg:0x4be"
+  ]
+ },
+ {
+  "id": "title:レイズタイガー起動/移動",
+  "kind": "title",
+  "ja": "レイズタイガー起動/移動",
+  "en": "Rayse Tiger Startup/Movement",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:指定位置への到達",
+  "kind": "victory",
+  "ja": "指定位置への到達",
+  "en": "Reach the designated point",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x8c"
+  ]
+ },
+ {
+  "id": "defeat:制限時間オーバー",
+  "kind": "defeat",
+  "ja": "制限時間オーバー",
+  "en": "Time limit exceeded",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M071.mg:0xdc",
+   "menu/map_info_dat/M072.mg:0xdc",
+   "menu/map_info_dat/M073.mg:0xdc"
+  ]
+ },
+ {
+  "id": "head:移動テストルーム　　　　",
+  "kind": "head",
+  "ja": "移動テストルーム　　　　",
+  "en": "Movement Test Room",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:基本動作テストを行います\r\n移動・ジャンプ・ステップを\r\n使い時間内に指定ポイント\r\nに到達してください",
+  "kind": "body",
+  "ja": "基本動作テストを行います\r\n移動・ジャンプ・ステップを\r\n使い時間内に指定ポイント\r\nに到達してください",
+  "en": "Running the basic controls\r\ntest.\r\nMove, jump and step to\r\nreach the designated point\r\nbefore time runs out.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\n移動テストです\r\n時間に気を付けて、\r\n色々操作してみよう",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\n移動テストです\r\n時間に気を付けて、\r\n色々操作してみよう",
+  "en": "\r\nStrategy\r\nThis is the movement test.\r\nWatch the clock and try\r\nout the controls.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:「EXIT」ポイント\r\n",
+  "kind": "head",
+  "ja": "「EXIT」ポイント\r\n",
+  "en": "\"EXIT\" Point",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x6d8"
+  ]
+ },
+ {
+  "id": "body:到達ポイントです\r\n輪の中に入れば　　　　　\r\n基本動作テスト終了です　",
+  "kind": "body",
+  "ja": "到達ポイントです\r\n輪の中に入れば　　　　　\r\n基本動作テスト終了です　",
+  "en": "This is the goal point.\r\nEnter the ring to finish\r\nthe basic controls test.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M071.mg:0x70a"
+  ]
+ },
+ {
+  "id": "title:レイズタイガー起動/砲撃",
+  "kind": "title",
+  "ja": "レイズタイガー起動/砲撃",
+  "en": "Rayse Tiger Startup/Ranged",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:指定ターゲットの破壊",
+  "kind": "victory",
+  "ja": "指定ターゲットの破壊",
+  "en": "Destroy the designated targets",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:砲撃テストルーム　　　\r\n",
+  "kind": "head",
+  "ja": "砲撃テストルーム　　　\r\n",
+  "en": "Ranged Test Room",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:砲撃武器でターゲットを破\r\n壊してください\r\n\r\nターゲット数：12個",
+  "kind": "body",
+  "ja": "砲撃武器でターゲットを破\r\n壊してください\r\n\r\nターゲット数：12個",
+  "en": "Destroy the targets with\r\nranged weapons.\r\n\r\nTargets: 12",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\nサーチとスライディング\r\nターンを使って素早く\r\nターゲットを破壊しよう",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\nサーチとスライディング\r\nターンを使って素早く\r\nターゲットを破壊しよう",
+  "en": "\r\nStrategy\r\nUse Search and Sliding\r\nTurn to destroy the\r\ntargets fast.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:指定ターゲット\r\n",
+  "kind": "head",
+  "ja": "指定ターゲット\r\n",
+  "en": "Designated Target",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x6d8",
+   "menu/map_info_dat/M072.mg:0x924",
+   "menu/map_info_dat/M072.mg:0xb70",
+   "menu/map_info_dat/M072.mg:0xdbc",
+   "menu/map_info_dat/M072.mg:0x1008",
+   "menu/map_info_dat/M072.mg:0x1254",
+   "menu/map_info_dat/M072.mg:0x14a0",
+   "menu/map_info_dat/M072.mg:0x16ec",
+   "menu/map_info_dat/M072.mg:0x1938",
+   "menu/map_info_dat/M072.mg:0x1b84",
+   "menu/map_info_dat/M072.mg:0x1dd0",
+   "menu/map_info_dat/M072.mg:0x201c"
+  ]
+ },
+ {
+  "id": "body:破壊指定の的です　　　　\r\n全て倒してください",
+  "kind": "body",
+  "ja": "破壊指定の的です　　　　\r\n全て倒してください",
+  "en": "These are the targets to\r\ndestroy.\r\nDefeat them all.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M072.mg:0x70a",
+   "menu/map_info_dat/M072.mg:0x956",
+   "menu/map_info_dat/M072.mg:0xba2",
+   "menu/map_info_dat/M072.mg:0xdee",
+   "menu/map_info_dat/M072.mg:0x103a",
+   "menu/map_info_dat/M072.mg:0x1286",
+   "menu/map_info_dat/M072.mg:0x14d2",
+   "menu/map_info_dat/M072.mg:0x171e",
+   "menu/map_info_dat/M072.mg:0x196a",
+   "menu/map_info_dat/M072.mg:0x1bb6",
+   "menu/map_info_dat/M072.mg:0x1e02",
+   "menu/map_info_dat/M072.mg:0x204e"
+  ]
+ },
+ {
+  "id": "title:レイズタイガー起動/格闘",
+  "kind": "title",
+  "ja": "レイズタイガー起動/格闘",
+  "en": "Rayse Tiger Startup/Melee",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x28"
+  ]
+ },
+ {
+  "id": "victory:指定機体の全滅",
+  "kind": "victory",
+  "ja": "指定機体の全滅",
+  "en": "Destroy all designated Zoids",
+  "cap": 80,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x8c"
+  ]
+ },
+ {
+  "id": "head:格闘テストルーム　　　\r\n",
+  "kind": "head",
+  "ja": "格闘テストルーム　　　\r\n",
+  "en": "Melee Test Room",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:出現するゾイドを全て倒し\r\nてください\r\n\r\n総出現ゾイド：6機",
+  "kind": "body",
+  "ja": "出現するゾイドを全て倒し\r\nてください\r\n\r\n総出現ゾイド：6機",
+  "en": "Defeat every Zoid that\r\nappears.\r\n\r\nTotal Zoids: 6",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x272"
+  ]
+ },
+ {
+  "id": "body:\r\n攻略情報　　　　　　　　\r\nステップを使って一気に敵\r\nとの間合をつめて格闘をし\r\nてみよう",
+  "kind": "body",
+  "ja": "\r\n攻略情報　　　　　　　　\r\nステップを使って一気に敵\r\nとの間合をつめて格闘をし\r\nてみよう",
+  "en": "\r\nStrategy\r\nUse a step to close the\r\ngap to the enemy in one\r\ngo, then try a melee\r\nattack.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x4be"
+  ]
+ },
+ {
+  "id": "head:コマンドウルフ\r\n無人機",
+  "kind": "head",
+  "ja": "コマンドウルフ\r\n無人機",
+  "en": "Command Wolf\r\nUnmanned Zoid",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x6d8",
+   "menu/map_info_dat/M073.mg:0x924"
+  ]
+ },
+ {
+  "id": "body:\r\n\r\n全て倒してください　　　",
+  "kind": "body",
+  "ja": "\r\n\r\n全て倒してください　　　",
+  "en": "\r\n\r\nDefeat them all.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x70a"
+  ]
+ },
+ {
+  "id": "body:\r\n\r\n全て倒してください　　　\r\n",
+  "kind": "body",
+  "ja": "\r\n\r\n全て倒してください　　　\r\n",
+  "en": "\r\n\r\nDefeat them all.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/M073.mg:0x956"
+  ]
+ },
+ {
+  "id": "title:バトルステージ01\r\n",
+  "kind": "title",
+  "ja": "バトルステージ01\r\n",
+  "en": "Battle Stage 01",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/Q000.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:バトルステージ01\r\n",
+  "kind": "head",
+  "ja": "バトルステージ01\r\n",
+  "en": "Battle Stage 01",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/Q000.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:Ziファイター達のバト\r\nル練習場。\r\n四方を防壁で囲まれて\r\nいる。\r\nサイズ：300×300",
+  "kind": "body",
+  "ja": "Ziファイター達のバト\r\nル練習場。\r\n四方を防壁で囲まれて\r\nいる。\r\nサイズ：300×300",
+  "en": "The Zi Fighters' battle\r\npractice field, walled in\r\non all sides.\r\nSize: 300x300",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/Q000.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:バトルステージ02\r\n",
+  "kind": "title",
+  "ja": "バトルステージ02\r\n",
+  "en": "Battle Stage 02",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/Q001.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:バトルステージ02\r\n",
+  "kind": "head",
+  "ja": "バトルステージ02\r\n",
+  "en": "Battle Stage 02",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/Q001.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:やや狭いステージ\r\n四方を防壁で囲まれて\r\nいる。\r\nサイズ：200×200",
+  "kind": "body",
+  "ja": "やや狭いステージ\r\n四方を防壁で囲まれて\r\nいる。\r\nサイズ：200×200",
+  "en": "A somewhat small stage,\r\nwalled in on all sides.\r\nSize: 200x200",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/Q001.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:バトルステージ03\r\n",
+  "kind": "title",
+  "ja": "バトルステージ03\r\n",
+  "en": "Battle Stage 03",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/Q002.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:バトルステージ03\r\n",
+  "kind": "head",
+  "ja": "バトルステージ03\r\n",
+  "en": "Battle Stage 03",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/Q002.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:縁にやや段差がある　\r\nステージ。\r\nステージからは\r\n落ちない。　　　　　\r\nサイズ：300×300",
+  "kind": "body",
+  "ja": "縁にやや段差がある　\r\nステージ。\r\nステージからは\r\n落ちない。　　　　　\r\nサイズ：300×300",
+  "en": "A stage with a slight step\r\nat the rim. You can't fall\r\noff the stage.\r\nSize: 300x300",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/Q002.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:バトルステージ04\r\n",
+  "kind": "title",
+  "ja": "バトルステージ04\r\n",
+  "en": "Battle Stage 04",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/Q003.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:バトルステージ04\r\n",
+  "kind": "head",
+  "ja": "バトルステージ04\r\n",
+  "en": "Battle Stage 04",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/Q003.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:中央が盛り上った　　\r\nステージ。\r\nステージからは\r\n落ちない。\r\nサイズ：300×300",
+  "kind": "body",
+  "ja": "中央が盛り上った　　\r\nステージ。\r\nステージからは\r\n落ちない。\r\nサイズ：300×300",
+  "en": "A stage with a raised\r\ncenter. You can't fall off\r\nthe stage.\r\nSize: 300x300",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/Q003.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:バトルステージ05\r\n",
+  "kind": "title",
+  "ja": "バトルステージ05\r\n",
+  "en": "Battle Stage 05",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/Q004.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:バトルステージ05\r\n",
+  "kind": "head",
+  "ja": "バトルステージ05\r\n",
+  "en": "Battle Stage 05",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/Q004.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:砲撃攻撃に対して盾と\r\nなる壁がステージ内に\r\n設けられている。\r\nサイズ：400×400",
+  "kind": "body",
+  "ja": "砲撃攻撃に対して盾と\r\nなる壁がステージ内に\r\n設けられている。\r\nサイズ：400×400",
+  "en": "Walls inside the stage act\r\nas shields against ranged\r\nattacks.\r\nSize: 400x400",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/Q004.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:01ゾイドコロシアム/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "01ゾイドコロシアム/昼\r\n　　　　　　　　　　　　",
+  "en": "01 Zoid Coliseum/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V000.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:赤土が広がる大陸中央\r\n部の荒野　　　　　　\r\n高低差はあるが、障害\r\n物が全く存在しない。",
+  "kind": "text",
+  "ja": "赤土が広がる大陸中央\r\n部の荒野　　　　　　\r\n高低差はあるが、障害\r\n物が全く存在しない。",
+  "en": "Red-soil wasteland in the\r\ncontinent's center. It has\r\nhills and dips, but not a\r\nsingle obstacle.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V000.mg:0x178"
+  ]
+ },
+ {
+  "id": "head:ゾイドコロシアム　　\r\n",
+  "kind": "head",
+  "ja": "ゾイドコロシアム　　\r\n",
+  "en": "Zoid Coliseum",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V000.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ゾイドバトルが行われる\r\nブルーシティ郊外に建設さ\r\nれた専用競技場。　　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ゾイドバトルが行われる\r\nブルーシティ郊外に建設さ\r\nれた専用競技場。　　　　\r\n　　　　　　　　　　　　",
+  "en": "An arena built on the\r\noutskirts of Blue City\r\njust for Zoid Battles.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V000.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:02雪山/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "02雪山/昼\r\n　　　　　　　　　　　　",
+  "en": "02 Snowy Mountain/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V001.mg:0x28"
+  ]
+ },
+ {
+  "id": "body:大陸北東部にある雪山　　\r\n１年を通して常に　　　　\r\n雪が降っている。　　　　\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "大陸北東部にある雪山　　\r\n１年を通して常に　　　　\r\n雪が降っている。　　　　\r\n　　　　　　　　　　　　",
+  "en": "A snowy mountain in the\r\nnortheast of the\r\ncontinent. Snow falls here\r\nall year round.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V001.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:03ジャンクゾーン/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "03ジャンクゾーン/昼\r\n　　　　　　　　　　　　",
+  "en": "03 Junk Zone/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V002.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:帝国開発基地/夜",
+  "kind": "unit",
+  "ja": "帝国開発基地/夜",
+  "en": "Imperial R&D Base/Night",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/V002.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:帝国軍が兵器の開発を\r\n行う目的で建設された\r\n基地　　　　　　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "帝国軍が兵器の開発を\r\n行う目的で建設された\r\n基地　　　　　　\r\n　　　　　　　　　　",
+  "en": "A base the Imperial army\r\nbuilt to develop weapons.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V002.mg:0x178"
+  ]
+ },
+ {
+  "id": "head:ジャンクゾーン",
+  "kind": "head",
+  "ja": "ジャンクゾーン",
+  "en": "Junk Zone",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V002.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティ郊外にある\r\nゾイドのジャンク屋が 　\r\n集まっているエリア。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ブルーシティ郊外にある\r\nゾイドのジャンク屋が 　\r\n集まっているエリア。\r\n　　　　　　　　　　　　",
+  "en": "An area on the outskirts\r\nof Blue City where Zoid\r\njunk dealers gather.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V002.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:04基地巨大ハッチ/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "04基地巨大ハッチ/昼\r\n　　　　　　　　　　　　",
+  "en": "04 Base Giant Hatch/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V003.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:04 基地巨大ハッチ",
+  "kind": "head",
+  "ja": "04 基地巨大ハッチ",
+  "en": "04 Base Giant Hatch",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V003.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ある軍の秘密基地上部\r\n床面は巨大なハッチ口\r\nになっている。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ある軍の秘密基地上部\r\n床面は巨大なハッチ口\r\nになっている。\r\n　　　　　　　　　　　　",
+  "en": "The top of a certain\r\narmy's secret base. The\r\nfloor is one giant hatch.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V003.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:05荒野ハイウェイ/昼　\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "05荒野ハイウェイ/昼　\r\n　　　　　　　　　　　　",
+  "en": "05 Wasteland Highway/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V004.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:渓谷の広場/夜",
+  "kind": "unit",
+  "ja": "渓谷の広場/夜",
+  "en": "Valley Clearing/Night",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/V004.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:狭い谷底を抜けた広場\r\n四方高い崖に囲まれて\r\nいる。　　　　　　　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "狭い谷底を抜けた広場\r\n四方高い崖に囲まれて\r\nいる。　　　　　　　\r\n　　　　　　　　　　",
+  "en": "A clearing past a narrow\r\nvalley floor, ringed by\r\nhigh cliffs on all sides.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V004.mg:0x178"
+  ]
+ },
+ {
+  "id": "head:05荒野のハイウェイ/昼\r\n",
+  "kind": "head",
+  "ja": "05荒野のハイウェイ/昼\r\n",
+  "en": "05 Wasteland Highway/Day",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V004.mg:0x240"
+  ]
+ },
+ {
+  "id": "title:06砂漠地帯/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "06砂漠地帯/昼\r\n　　　　　　　　　　　　",
+  "en": "06 Desert/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V005.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:砂漠地帯/昼",
+  "kind": "unit",
+  "ja": "砂漠地帯/昼",
+  "en": "Desert/Day",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/V005.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:大陸の赤道上に広がる\r\n広大な砂漠地帯　　　\r\n　　　　　　　　　　\r\n　　　　　　　　　　",
+  "kind": "text",
+  "ja": "大陸の赤道上に広がる\r\n広大な砂漠地帯　　　\r\n　　　　　　　　　　\r\n　　　　　　　　　　",
+  "en": "A vast desert stretching\r\nalong the continent's\r\nequator.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V005.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:広大に広がった　　　　　\r\n砂漠の大地。　　　　　　\r\n広いが、視界が悪いので、\r\n気をつけよう。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "広大に広がった　　　　　\r\n砂漠の大地。　　　　　　\r\n広いが、視界が悪いので、\r\n気をつけよう。\r\n　　　　　　　　　　　　",
+  "en": "A vast stretch of desert.\r\nIt's wide open, but\r\nvisibility is poor, so be\r\ncareful.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V005.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:07帝国軍北部基地/雨\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "07帝国軍北部基地/雨\r\n　　　　　　　　　　　　",
+  "en": "07 Imp. North Base/Rain",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V006.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:大陸の北東部に建設さ\r\nれた、帝国軍の中では\r\n小規模な基地\r\n気候が寒く、雨も多い",
+  "kind": "text",
+  "ja": "大陸の北東部に建設さ\r\nれた、帝国軍の中では\r\n小規模な基地\r\n気候が寒く、雨も多い",
+  "en": "A base in the continent's\r\nnortheast, small for the\r\nImperial army. Cold, with\r\nlots of rain.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V006.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:険しい山の山頂に建設　　\r\nされた基地。　　　　　　\r\n高低差の激しい地形を　　\r\nうまく利用しろ。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "険しい山の山頂に建設　　\r\nされた基地。　　　　　　\r\n高低差の激しい地形を　　\r\nうまく利用しろ。\r\n　　　　　　　　　　　　",
+  "en": "A base built on the peak\r\nof a steep mountain. Make\r\ngood use of the uneven\r\nterrain.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V006.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:08クレーター地帯/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "08クレーター地帯/昼\r\n　　　　　　　　　　　　",
+  "en": "08 Crater Field/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V007.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:ある軍の秘密基地上部\r\n床面は巨大なハッチ口\r\nになっている",
+  "kind": "text",
+  "ja": "ある軍の秘密基地上部\r\n床面は巨大なハッチ口\r\nになっている",
+  "en": "The top of a certain\r\narmy's secret base. The\r\nfloor is one giant hatch.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V007.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:遥か昔、巨大いん石群\r\nが飛来したと伝えられ\r\nるクレーター地帯。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "遥か昔、巨大いん石群\r\nが飛来したと伝えられ\r\nるクレーター地帯。\r\n　　　　　　　　　　　　",
+  "en": "A crater field said\r\nto be made by giant\r\nmeteors long ago.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V007.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:09デザートヒル/昼\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "09デザートヒル/昼\r\n　　　　　　　　　　　　",
+  "en": "09 Desert Hill/Day",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V008.mg:0x28"
+  ]
+ },
+ {
+  "id": "unit:渓谷/夕刻",
+  "kind": "unit",
+  "ja": "渓谷/夕刻",
+  "en": "Valley/Dusk",
+  "cap": 32,
+  "where": [
+   "menu/map_info_dat/V008.mg:0x12c"
+  ]
+ },
+ {
+  "id": "text:高い岩壁が複数そびえ\r\n立つ峡谷地帯　　　　\r\n中央には見晴らしの　\r\n良い荒野が広がる",
+  "kind": "text",
+  "ja": "高い岩壁が複数そびえ\r\n立つ峡谷地帯　　　　\r\n中央には見晴らしの　\r\n良い荒野が広がる",
+  "en": "A canyon of towering rock\r\nwalls. In the center lies\r\nopen wasteland with a\r\nclear view.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V008.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:広い荒野に並ぶ岩山。　　\r\n広い場所と、狭い場所を　\r\nうまく利用しよう。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "広い荒野に並ぶ岩山。　　\r\n広い場所と、狭い場所を　\r\nうまく利用しよう。\r\n　　　　　　　　　　　　",
+  "en": "Rocky hills stand across a\r\nwide wasteland. Make good\r\nuse of the open and tight\r\nspots.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V008.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:10ゾイドロード   \r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "10ゾイドロード   \r\n　　　　　　　　　　　　",
+  "en": "10 Zoid Road",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V009.mg:0x28"
+  ]
+ },
+ {
+  "id": "text:共和国軍最大規模の　\r\n航空基地　　　　\r\n数多くの飛行ゾイドを\r\n収容することが可能",
+  "kind": "text",
+  "ja": "共和国軍最大規模の　\r\n航空基地　　　　\r\n数多くの飛行ゾイドを\r\n収容することが可能",
+  "en": "The Republic's largest air\r\nbase. It can house a great\r\nmany flying Zoids.",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V009.mg:0x178"
+  ]
+ },
+ {
+  "id": "body:シティ地下に作られた　　\r\nゾイド専用通路。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "シティ地下に作られた　　\r\nゾイド専用通路。\r\n　　　　　　　　　　　　",
+  "en": "A Zoid-only passage built\r\nunder the city.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V009.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:11山岳地帯/夜\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "11山岳地帯/夜\r\n　　　　　　　　　　　　",
+  "en": "11 Mountains/Night",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V010.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:11山岳地帯/夜\r\n",
+  "kind": "head",
+  "ja": "11山岳地帯/夜\r\n",
+  "en": "11 Mountains/Night",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V010.mg:0x240"
+  ]
+ },
+ {
+  "id": "title:12開発研究所/夜\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "12開発研究所/夜\r\n　　　　　　　　　　　　",
+  "en": "12 Development Lab/Night",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V011.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:11開発研究所/夜",
+  "kind": "head",
+  "ja": "11開発研究所/夜",
+  "en": "11 Development Lab/Night",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V011.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:ブルーシティ郊外に建設さ\r\nれた、ＺＯＩＴＥＣ社の　　\r\nゾイド開発研究所。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "ブルーシティ郊外に建設さ\r\nれた、ＺＯＩＴＥＣ社の　　\r\nゾイド開発研究所。\r\n　　　　　　　　　　　　",
+  "en": "Zoitec's Zoid Development\r\nLab, built on the\r\noutskirts of Blue City.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V011.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:13ホエールキング内倉庫\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "13ホエールキング内倉庫\r\n　　　　　　　　　　　　",
+  "en": "13 Whale King Hold",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V012.mg:0x28"
+  ]
+ },
+ {
+  "id": "head:12ホエールキング内倉庫",
+  "kind": "head",
+  "ja": "12ホエールキング内倉庫",
+  "en": "12 Whale King Hold",
+  "cap": 50,
+  "where": [
+   "menu/map_info_dat/V012.mg:0x240",
+   "menu/map_info_dat/V013.mg:0x240"
+  ]
+ },
+ {
+  "id": "body:研究施設に改造された　　\r\nホエールキングの内倉庫。\r\nかなり狭い空間である。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "研究施設に改造された　　\r\nホエールキングの内倉庫。\r\nかなり狭い空間である。\r\n　　　　　　　　　　　　",
+  "en": "The inner hold of a Whale\r\nKing converted into a\r\nresearch facility. It's a\r\npretty tight space.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V012.mg:0x272"
+  ]
+ },
+ {
+  "id": "title:14ホエールキング/飛行中\r\n　　　　　　　　　　　　",
+  "kind": "title",
+  "ja": "14ホエールキング/飛行中\r\n　　　　　　　　　　　　",
+  "en": "14 Whale King/In Flight",
+  "cap": 100,
+  "where": [
+   "menu/map_info_dat/V013.mg:0x28"
+  ]
+ },
+ {
+  "id": "body:離陸したホエールキング\r\nかなり狭いステージで\r\n落ちたら即大破してしまう。\r\n　　　　　　　　　　　　",
+  "kind": "body",
+  "ja": "離陸したホエールキング\r\nかなり狭いステージで\r\n落ちたら即大破してしまう。\r\n　　　　　　　　　　　　",
+  "en": "A Whale King that has\r\ntaken off. It's a pretty\r\ntight stage, and a fall\r\nmeans instant destruction.",
+  "cap": 262,
+  "where": [
+   "menu/map_info_dat/V013.mg:0x272"
+  ]
+ }
+]

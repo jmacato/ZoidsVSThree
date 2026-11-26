@@ -1,0 +1,6 @@
+/*.iso
+/build/
+/tools/mwperm/target/
+target/
+__pycache__/
+.DS_Store

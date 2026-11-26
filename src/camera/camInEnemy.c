@@ -1,0 +1,80 @@
+#include "zoid3.h"
+
+typedef struct CameraState3 {
+    s32 mode;
+    s32 half;
+    struct HSD_LObj *lights;
+    struct HSD_Shadow *shadow;
+    u8 reserved_010[0x1C];
+    f32 focus_distance;
+    s32 mount_index;
+    s32 mount_timer;
+    u8 reserved_038[0x14];
+    s8 mount_blocked[20];
+    s8 mount_hidden[20];
+    Vec3 mount_positions[20];
+    s32 mount_times[20];
+    u8 reserved_1B4[0x8];
+    s32 field_1BC;
+    struct HSD_JObj *field_170;
+    struct ZoidState *zoid;
+    s32 target_index;
+    u8 reserved_1CC[0x18];
+    s32 field_1E4;
+    u8 reserved_1E8[0x8];
+    Vec3 relative_origin;
+    Vec3 focus;
+    Vec3 field_208;
+    Vec3 eye;
+    Vec3 interest;
+    Vec3 saved_eye;
+    Vec3 saved_interest;
+    struct HSD_CObj *cobj;
+    Vec3 direction;
+    f32 planar[2];
+    f32 planar_length;
+    f32 yaw;
+    f32 projection[7];
+    f32 viewport[6];
+    f32 view[3][4];
+    f32 inverse_view[3][4];
+    u8 reserved_2F8[0x4];
+    f32 fov;
+    struct HSD_JObj *field_300;
+    f32 zoid_distance[16];
+    u8 reserved_344[0x240];
+    s32 range_index;
+    s32 target_marker_count;
+    s32 range_timer;
+} CameraState3;
+
+extern HSD_JObj *grdObjGetJObj(s32 index);
+
+void camInEnemy(CameraState3 *camera, ZoidState *zoid)
+{
+    ZoidState *target;
+    HSD_JObj *joint;
+    s32 i;
+    void *anim;
+    void *control;
+
+    if (zoid == (void *)0)
+        return;
+    anim = zoid->anim_data;
+    control = zoid->field_2090;
+    joint = 0;
+    if (zoid->target_pending != 0) {
+        target = &Zoid[zoid->target_slot];
+        if (target == 0)
+            return;
+        if (target->joint == 0)
+            return;
+        joint = *(HSD_JObj **)&target->camera_joint;
+    }
+    if (zoid->lock_active != 0)
+        joint = grdObjGetJObj(zoid->lock_obj);
+    if (joint == 0)
+        return;
+    for (i = 0; i < 20; i++)
+        camera->mount_hidden[i] = 0;
+}

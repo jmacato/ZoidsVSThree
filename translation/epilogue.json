@@ -1,0 +1,1142 @@
+[
+ {
+  "id": 0,
+  "ja": "",
+  "en": "ZOIDS VS. III",
+  "cap": 79
+ },
+ {
+  "id": 1,
+  "ja": "",
+  "en": "Decomp, English Translation",
+  "cap": 79
+ },
+ {
+  "id": 2,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 3,
+  "ja": "",
+  "en": "AGPL-3.0-only © 2026 Jumar Macato",
+  "cap": 79
+ },
+ {
+  "id": 4,
+  "ja": "",
+  "en": "This is an unofficial fan translation.",
+  "cap": 79
+ },
+ {
+  "id": 5,
+  "ja": "",
+  "en": "No endorsement from the original",
+  "cap": 79
+ },
+ {
+  "id": 6,
+  "ja": "",
+  "en": "copyright holders is implied.",
+  "cap": 79
+ },
+ {
+  "id": 7,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 8,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 9,
+  "ja": "ZOIDS VS.III STAFF",
+  "en": "ZOIDS VS. III STAFF",
+  "cap": 79
+ },
+ {
+  "id": 10,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 11,
+  "ja": "シニアエグゼクティブプロデューサー",
+  "en": "Senior Executive Producer",
+  "cap": 79
+ },
+ {
+  "id": 12,
+  "ja": "富山　幹太郎（株式会社トミー）",
+  "en": "  Kantaro Tomiyama (TOMY Company, Ltd.)",
+  "cap": 79
+ },
+ {
+  "id": 13,
+  "ja": "エグゼクティブプロデューサー",
+  "en": "Executive Producer",
+  "cap": 79
+ },
+ {
+  "id": 14,
+  "ja": "神尾　俊二（株式会社トミー）",
+  "en": "  Syunji Kamio (TOMY Company, Ltd.)",
+  "cap": 79
+ },
+ {
+  "id": 15,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 16,
+  "ja": "キャスト",
+  "en": "Cast",
+  "cap": 79
+ },
+ {
+  "id": 17,
+  "ja": "RD　野島　健児",
+  "en": "  RD: Kenji Nojima",
+  "cap": 79
+ },
+ {
+  "id": 18,
+  "ja": "スイート　中村　千絵",
+  "en": "  Sweet: Chie Nakamura",
+  "cap": 79
+ },
+ {
+  "id": 19,
+  "ja": "シグマ　勝　杏里",
+  "en": "  Sigma: Anri Katsu",
+  "cap": 79
+ },
+ {
+  "id": 20,
+  "ja": "エミー　水野　愛日",
+  "en": "  Amy: Manabi Mizuno",
+  "cap": 79
+ },
+ {
+  "id": 21,
+  "ja": "マスクマン　中田　譲治",
+  "en": "  Masked Man: Joji Nakata",
+  "cap": 79
+ },
+ {
+  "id": 22,
+  "ja": "ガミー　梁田　清之",
+  "en": "  Gummie: Kiyoyuki Yanada",
+  "cap": 79
+ },
+ {
+  "id": 23,
+  "ja": "チャオ　恒松　あゆみ",
+  "en": "  Ciao: Ayumi Tsunematsu",
+  "cap": 79
+ },
+ {
+  "id": 24,
+  "ja": "ブレード　間島　淳司",
+  "en": "  Blake: Junji Majima",
+  "cap": 79
+ },
+ {
+  "id": 25,
+  "ja": "バートン　石野　竜三",
+  "en": "  Burton: Ryuzo Ishino",
+  "cap": 79
+ },
+ {
+  "id": 26,
+  "ja": "リュック　下和田　裕貴",
+  "en": "  Luke: Hiroki Shimowada",
+  "cap": 79
+ },
+ {
+  "id": 27,
+  "ja": "ラスターニ　小西　克幸",
+  "en": "  Rastani: Katsuyuki Konishi",
+  "cap": 79
+ },
+ {
+  "id": 28,
+  "ja": "キッド　咲野　俊介",
+  "en": "  Kid: Shunsuke Sakuya",
+  "cap": 79
+ },
+ {
+  "id": 29,
+  "ja": "マロイ　山口　隆行",
+  "en": "  Malloy: Takayuki Yamaguchi",
+  "cap": 79
+ },
+ {
+  "id": 30,
+  "ja": "ラトル　桐井　大介",
+  "en": "  Rattle: Daisuke Kirii",
+  "cap": 79
+ },
+ {
+  "id": 31,
+  "ja": "ボーン　土屋　利秀",
+  "en": "  Vaughn: Toshihide Tsuchiya",
+  "cap": 79
+ },
+ {
+  "id": 32,
+  "ja": "サマンサ　勝生　真沙子",
+  "en": "  Samantha: Masako Katsuki",
+  "cap": 79
+ },
+ {
+  "id": 33,
+  "ja": "治安局員　荒木　香恵",
+  "en": "  Security Officer: Kae Araki",
+  "cap": 79
+ },
+ {
+  "id": 34,
+  "ja": "盗賊　三宅　健太",
+  "en": "  Bandit: Kenta Miyake",
+  "cap": 79
+ },
+ {
+  "id": 35,
+  "ja": "アロー　関　智一",
+  "en": "  Arrow: Tomokazu Seki",
+  "cap": 79
+ },
+ {
+  "id": 36,
+  "ja": "アルマ　笹本　優子",
+  "en": "  Alma: Yuko Sasamoto",
+  "cap": 79
+ },
+ {
+  "id": 37,
+  "ja": "レダ　恒松　あゆみ",
+  "en": "  Leda: Ayumi Tsunematsu",
+  "cap": 79
+ },
+ {
+  "id": 38,
+  "ja": "ミーナ　中村　千絵",
+  "en": "  Mina: Chie Nakamura",
+  "cap": 79
+ },
+ {
+  "id": 39,
+  "ja": "スクード　桐井　大介",
+  "en": "  Scudo: Daisuke Kirii",
+  "cap": 79
+ },
+ {
+  "id": 40,
+  "ja": "マービス　堀　之紀",
+  "en": "  Marvis: Yukitoshi Hori",
+  "cap": 79
+ },
+ {
+  "id": 41,
+  "ja": "ロジャー　若本　規夫",
+  "en": "  Roger: Norio Wakamoto",
+  "cap": 79
+ },
+ {
+  "id": 42,
+  "ja": "バン　岸尾　大輔",
+  "en": "  Van: Daisuke Kishio",
+  "cap": 79
+ },
+ {
+  "id": 43,
+  "ja": "フィーネ　大本　眞基子",
+  "en": "  Fiona: Makiko Ohmoto",
+  "cap": 79
+ },
+ {
+  "id": 44,
+  "ja": "アーバイン　藤原　啓治",
+  "en": "  Irvine: Keiji Fujiwara",
+  "cap": 79
+ },
+ {
+  "id": 45,
+  "ja": "ムンベイ　渡辺　久美子",
+  "en": "  Moonbay: Kumiko Watanabe",
+  "cap": 79
+ },
+ {
+  "id": 46,
+  "ja": "ハーマン　堀川　仁",
+  "en": "  Herman: Jin Horikawa",
+  "cap": 79
+ },
+ {
+  "id": 47,
+  "ja": "レイヴン　斎賀　みつき",
+  "en": "  Raven: Mitsuki Saiga",
+  "cap": 79
+ },
+ {
+  "id": 48,
+  "ja": "ヒルツ　櫻井　孝宏",
+  "en": "  Hiltz: Takahiro Sakurai",
+  "cap": 79
+ },
+ {
+  "id": 49,
+  "ja": "リーゼ　日高　のり子",
+  "en": "  Reese: Noriko Hidaka",
+  "cap": 79
+ },
+ {
+  "id": 50,
+  "ja": "シュバルツ　うえだゆうじ",
+  "en": "  Schubaltz: Yuji Ueda",
+  "cap": 79
+ },
+ {
+  "id": 51,
+  "ja": "トーマ　伊藤　健太郎",
+  "en": "  Thomas: Kentaro Ito",
+  "cap": 79
+ },
+ {
+  "id": 52,
+  "ja": "ロッソ　中村　大樹",
+  "en": "  Rosso: Daiki Nakamura",
+  "cap": 79
+ },
+ {
+  "id": 53,
+  "ja": "ヴィオーラ　深見　梨加",
+  "en": "  Viola: Rika Fukami",
+  "cap": 79
+ },
+ {
+  "id": 54,
+  "ja": "プロイツェン　大塚　芳忠",
+  "en": "  Prozen: Hochu Otsuka",
+  "cap": 79
+ },
+ {
+  "id": 55,
+  "ja": "ビット　櫻井　孝宏",
+  "en": "  Bit: Takahiro Sakurai",
+  "cap": 79
+ },
+ {
+  "id": 56,
+  "ja": "リノン　川澄　綾子",
+  "en": "  Leena: Ayako Kawasumi",
+  "cap": 79
+ },
+ {
+  "id": 57,
+  "ja": "バラッド　松風　雅也",
+  "en": "  Brad: Masaya Matsukaze",
+  "cap": 79
+ },
+ {
+  "id": 58,
+  "ja": "ジェミー　斎賀　みつき",
+  "en": "  Jamie: Mitsuki Saiga",
+  "cap": 79
+ },
+ {
+  "id": 59,
+  "ja": "ハリー　高木　渉",
+  "en": "  Harry: Wataru Takagi",
+  "cap": 79
+ },
+ {
+  "id": 60,
+  "ja": "ベガ　くまいもとこ",
+  "en": "  Vega: Motoko Kumai",
+  "cap": 79
+ },
+ {
+  "id": 61,
+  "ja": "ジャック　藤原　啓治",
+  "en": "  Jack: Keiji Fujiwara",
+  "cap": 79
+ },
+ {
+  "id": 62,
+  "ja": "レオン　千葉　進歩",
+  "en": "  Leon: Susumu Chiba",
+  "cap": 79
+ },
+ {
+  "id": 63,
+  "ja": "ナオミ　夏樹　リオ",
+  "en": "  Naomi: Rio Natsuki",
+  "cap": 79
+ },
+ {
+  "id": 64,
+  "ja": "マリー　平松　晶子",
+  "en": "  Mary: Akiko Hiramatsu",
+  "cap": 79
+ },
+ {
+  "id": 65,
+  "ja": "クリス　柚木　涼香",
+  "en": "  Chris: Ryoka Yuzuki",
+  "cap": 79
+ },
+ {
+  "id": 66,
+  "ja": "ケリー　比嘉　久美子",
+  "en": "  Kelly: Kumiko Higa",
+  "cap": 79
+ },
+ {
+  "id": 67,
+  "ja": "カークランド　宮下　道央",
+  "en": "  Kirkland: Michio Miyashita",
+  "cap": 79
+ },
+ {
+  "id": 68,
+  "ja": "ラインバック　堀川　仁",
+  "en": "  Lineback: Jin Horikawa",
+  "cap": 79
+ },
+ {
+  "id": 69,
+  "ja": "ストラ　咲野　俊介",
+  "en": "  Stoller: Shunsuke Sakuya",
+  "cap": 79
+ },
+ {
+  "id": 70,
+  "ja": "ピアス　玉川　紗己子",
+  "en": "  Pierce: Sakiko Tamagawa",
+  "cap": 79
+ },
+ {
+  "id": 71,
+  "ja": "フーマ　浅野　まゆみ",
+  "en": "  Fuma: Mayumi Asano",
+  "cap": 79
+ },
+ {
+  "id": 72,
+  "ja": "ゼル　鈴村　健一",
+  "en": "  Zeru: Kenichi Suzumura",
+  "cap": 79
+ },
+ {
+  "id": 73,
+  "ja": "ユーノ　小林　沙苗",
+  "en": "  Juno: Sanae Kobayashi",
+  "cap": 79
+ },
+ {
+  "id": 74,
+  "ja": "アトレー　日高　のり子",
+  "en": "  Athle: Noriko Hidaka",
+  "cap": 79
+ },
+ {
+  "id": 75,
+  "ja": "レジーナ　深見　梨加",
+  "en": "  Regina: Rika Fukami",
+  "cap": 79
+ },
+ {
+  "id": 76,
+  "ja": "ブラッド　松風　雅也",
+  "en": "  Blood: Masaya Matsukaze",
+  "cap": 79
+ },
+ {
+  "id": 77,
+  "ja": "フラン　玉川　紗己子",
+  "en": "  Fran: Sakiko Tamagawa",
+  "cap": 79
+ },
+ {
+  "id": 78,
+  "ja": "ショーマ　野島　健児",
+  "en": "  Shoma: Kenji Nojima",
+  "cap": 79
+ },
+ {
+  "id": 79,
+  "ja": "コウキ　浜田　賢二",
+  "en": "  Kouki: Kenji Hamada",
+  "cap": 79
+ },
+ {
+  "id": 80,
+  "ja": "ザン　うえだゆうじ",
+  "en": "  Zan: Yuji Ueda",
+  "cap": 79
+ },
+ {
+  "id": 81,
+  "ja": "ライナー　千葉　進歩",
+  "en": "  Reiner: Susumu Chiba",
+  "cap": 79
+ },
+ {
+  "id": 82,
+  "ja": "ティータ　平松　晶子",
+  "en": "  Tita: Akiko Hiramatsu",
+  "cap": 79
+ },
+ {
+  "id": 83,
+  "ja": "クローディア　柚木　涼香",
+  "en": "  Claudia: Ryoka Yuzuki",
+  "cap": 79
+ },
+ {
+  "id": 84,
+  "ja": "アルバーン　咲野　俊介",
+  "en": "  Albane: Shunsuke Sakuya",
+  "cap": 79
+ },
+ {
+  "id": 85,
+  "ja": "マックス　藤原　啓治",
+  "en": "  Max: Keiji Fujiwara",
+  "cap": 79
+ },
+ {
+  "id": 86,
+  "ja": "レイカ　渡辺　美佐",
+  "en": "  Reika: Misa Watanabe",
+  "cap": 79
+ },
+ {
+  "id": 87,
+  "ja": "ガルド　伊藤　健太郎",
+  "en": "  Gard: Kentaro Ito",
+  "cap": 79
+ },
+ {
+  "id": 88,
+  "ja": "レザール　中村　大樹",
+  "en": "  Lezard: Daiki Nakamura",
+  "cap": 79
+ },
+ {
+  "id": 89,
+  "ja": "リバイアス　川澄　綾子",
+  "en": "  Leviathe: Ayako Kawasumi",
+  "cap": 79
+ },
+ {
+  "id": 90,
+  "ja": "バイパー　大塚　芳忠",
+  "en": "  Viper: Hochu Otsuka",
+  "cap": 79
+ },
+ {
+  "id": 91,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 92,
+  "ja": "東京キッズ　スタッフ",
+  "en": "Tokyo Kids Staff",
+  "cap": 79
+ },
+ {
+  "id": 93,
+  "ja": "プロデューサー　木村　健吾",
+  "en": "  Producer: Kengo Kimura",
+  "cap": 79
+ },
+ {
+  "id": 94,
+  "ja": "制作　門田　暁人",
+  "en": "  Production: Akihito Kadota",
+  "cap": 79
+ },
+ {
+  "id": 95,
+  "ja": "フューザーズキャラクターデザイン　渡部　圭祐",
+  "en": "  Fuzors Character Design: Keisuke Watabe",
+  "cap": 79
+ },
+ {
+  "id": 96,
+  "ja": "オリジナルゲームキャラクターデザイン・作画監督",
+  "en": "  Original Game Character Design",
+  "cap": 79
+ },
+ {
+  "id": 97,
+  "ja": "阿部　和彦",
+  "en": "  and Animation Director: Kazuhiko Abe",
+  "cap": 79
+ },
+ {
+  "id": 98,
+  "ja": "オリジナルゲームキャラクターデザイン色彩設計",
+  "en": "  Original Game Character Color Design",
+  "cap": 79
+ },
+ {
+  "id": 99,
+  "ja": "阿部　みゆき",
+  "en": "    Miyuki Abe",
+  "cap": 79
+ },
+ {
+  "id": 100,
+  "ja": "作画協力",
+  "en": "  Animation Assistance",
+  "cap": 79
+ },
+ {
+  "id": 101,
+  "ja": "高橋　典子　吉田　直美　松尾　亜希子",
+  "en": "    Noriko Takahashi, Naomi Yoshida, Akiko Matsuo",
+  "cap": 79
+ },
+ {
+  "id": 102,
+  "ja": "作画クリーンナップ",
+  "en": "  Animation Clean-up",
+  "cap": 79
+ },
+ {
+  "id": 103,
+  "ja": "服部　照美　河北　由記子",
+  "en": "    Terumi Hattori, Yukiko Kawakita",
+  "cap": 79
+ },
+ {
+  "id": 104,
+  "ja": "ペイント",
+  "en": "  Paint",
+  "cap": 79
+ },
+ {
+  "id": 105,
+  "ja": "五十嵐　亜哉子　伊藤　靖子　勝美　良子",
+  "en": "    Ayako Igarashi, Yasuko Ito, Ryoko Katsumi",
+  "cap": 79
+ },
+ {
+  "id": 106,
+  "ja": "今瀬　智子　舘　絵美子　吉田　香",
+  "en": "    Tomoko Imase, Emiko Tachi, Kaori Yoshida",
+  "cap": 79
+ },
+ {
+  "id": 107,
+  "ja": "関谷　宗　大島　利与女　海老名　万里",
+  "en": "    So Sekiya, Riyome Oshima, Mari Ebina",
+  "cap": 79
+ },
+ {
+  "id": 108,
+  "ja": "キャラクターデザイン作画　坂崎　忠",
+  "en": "Character Design Artwork: Tadashi Sakazaki",
+  "cap": 79
+ },
+ {
+  "id": 109,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 110,
+  "ja": "音響制作",
+  "en": "Sound Production",
+  "cap": 79
+ },
+ {
+  "id": 111,
+  "ja": "株式会社　ハーフ　エイチ・ピー　スタジオ",
+  "en": "  Half H.P Studio, Inc.",
+  "cap": 79
+ },
+ {
+  "id": 112,
+  "ja": "音響プロデューサー　西名　武",
+  "en": "  Sound Producer: Takeshi Nishina",
+  "cap": 79
+ },
+ {
+  "id": 113,
+  "ja": "録音ディレクター　明田川　仁",
+  "en": "  Recording Director: Jin Aketagawa",
+  "cap": 79
+ },
+ {
+  "id": 114,
+  "ja": "シナリオ協力　柳坂　明彦",
+  "en": "Scenario Assistance: Akihiko Yanagisaka",
+  "cap": 79
+ },
+ {
+  "id": 115,
+  "ja": "オリジナルゾイドデザイン　やまだ　たかひろ",
+  "en": "Original Zoid Design: Takahiro Yamada",
+  "cap": 79
+ },
+ {
+  "id": 116,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 117,
+  "ja": "オープニングCGムービー制作",
+  "en": "Opening CG Movie Production",
+  "cap": 79
+ },
+ {
+  "id": 118,
+  "ja": "CG制作",
+  "en": "  CG Production",
+  "cap": 79
+ },
+ {
+  "id": 119,
+  "ja": "小学館ミュージック&デジタル エンタテイメント",
+  "en": "    Shogakukan Music & Digital Entertainment",
+  "cap": 79
+ },
+ {
+  "id": 120,
+  "ja": "CGディレクター　中一　太志",
+  "en": "  CG Director: Futoshi Nakaichi",
+  "cap": 79
+ },
+ {
+  "id": 121,
+  "ja": "CGデザイナー",
+  "en": "  CG Designers",
+  "cap": 79
+ },
+ {
+  "id": 122,
+  "ja": "海谷　陽一　平野　崇之",
+  "en": "    Yoichi Kaiya, Takayuki Hirano",
+  "cap": 79
+ },
+ {
+  "id": 123,
+  "ja": "斉藤　寛　太田　貴之",
+  "en": "    Hiroshi Saito, Takayuki Ota",
+  "cap": 79
+ },
+ {
+  "id": 124,
+  "ja": "プロデューサー",
+  "en": "  Producers",
+  "cap": 79
+ },
+ {
+  "id": 125,
+  "ja": "宮澤　秀典（小学館プロダクション）",
+  "en": "    Hidenori Miyazawa (Shogakukan Productions)",
+  "cap": 79
+ },
+ {
+  "id": 126,
+  "ja": "西山　宗弘",
+  "en": "    Munehiro Nishiyama",
+  "cap": 79
+ },
+ {
+  "id": 127,
+  "ja": "パッケージ・マニュアル",
+  "en": "Package and Manual",
+  "cap": 79
+ },
+ {
+  "id": 128,
+  "ja": "レイアウト　ジャングルファクトリー",
+  "en": "  Layout: Jungle Factory",
+  "cap": 79
+ },
+ {
+  "id": 129,
+  "ja": "デザイン　C.R.M",
+  "en": "  Design: C.R.M",
+  "cap": 79
+ },
+ {
+  "id": 130,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 131,
+  "ja": "協力",
+  "en": "Cooperation",
+  "cap": 79
+ },
+ {
+  "id": 132,
+  "ja": "株式会社　小学館プロダクション",
+  "en": "  Shogakukan Productions Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 133,
+  "ja": "中沢　利洋　伊藤　忠久",
+  "en": "    Toshihiro Nakazawa, Tadahisa Ito",
+  "cap": 79
+ },
+ {
+  "id": 134,
+  "ja": "宮澤　秀典",
+  "en": "    Hidenori Miyazawa",
+  "cap": 79
+ },
+ {
+  "id": 135,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 136,
+  "ja": "株式会社　トミー",
+  "en": "TOMY Company, Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 137,
+  "ja": "ゼネラルマネージャー　森岡　俊広",
+  "en": "  General Manager: Toshihiro Morioka",
+  "cap": 79
+ },
+ {
+  "id": 138,
+  "ja": "マネージャー　横田　村主",
+  "en": "  Manager: Suguru Yokota",
+  "cap": 79
+ },
+ {
+  "id": 139,
+  "ja": "マーケティング　生明　康之",
+  "en": "  Marketing: Yasuyuki Azami",
+  "cap": 79
+ },
+ {
+  "id": 140,
+  "ja": "セールススタッフ",
+  "en": "  Sales Staff",
+  "cap": 79
+ },
+ {
+  "id": 141,
+  "ja": "山本　和彦　寺本　和史",
+  "en": "    Kazuhiko Yamamoto, Kazufumi Teramoto",
+  "cap": 79
+ },
+ {
+  "id": 142,
+  "ja": "スペシャルサンクス",
+  "en": "  Special Thanks",
+  "cap": 79
+ },
+ {
+  "id": 143,
+  "ja": "大森　智広　小山　泰司　芳村　武郎",
+  "en": "    Tomohiro Omori, Taiji Koyama, Takeo Yoshimura",
+  "cap": 79
+ },
+ {
+  "id": 144,
+  "ja": "コンテンツ事業戦略本部",
+  "en": "  Content Business Strategy Headquarters",
+  "cap": 79
+ },
+ {
+  "id": 145,
+  "ja": "田島　豊　中瀬　崇嗣　栗原　啓悟",
+  "en": "    Yutaka Tajima, Takatsugu Nakase, Keigo Kurihara",
+  "cap": 79
+ },
+ {
+  "id": 146,
+  "ja": "ボーイズグループ",
+  "en": "  Boys' Group",
+  "cap": 79
+ },
+ {
+  "id": 147,
+  "ja": "安田　吉宏　奥津　正道　氏田　治久",
+  "en": "    Yoshihiro Yasuda, Masamichi Okutsu, Haruhisa Ujita",
+  "cap": 79
+ },
+ {
+  "id": 148,
+  "ja": "宣伝",
+  "en": "  Publicity",
+  "cap": 79
+ },
+ {
+  "id": 149,
+  "ja": "近藤　茂　小林　正臣",
+  "en": "    Shigeru Kondo, Masaomi Kobayashi",
+  "cap": 79
+ },
+ {
+  "id": 150,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 151,
+  "ja": "株式会社　翔泳社",
+  "en": "SHOEISHA Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 152,
+  "ja": "プランニング　紀　蔵　尾崎　秀和",
+  "en": "  Planning: Norizo, Hidekazu Ozaki",
+  "cap": 79
+ },
+ {
+  "id": 153,
+  "ja": "ゾイド・武器・エフェクト設計",
+  "en": "  Zoid, Weapon and Effect Design",
+  "cap": 79
+ },
+ {
+  "id": 154,
+  "ja": "野中　徹志",
+  "en": "    Tetsushi Nonaka",
+  "cap": 79
+ },
+ {
+  "id": 155,
+  "ja": "ゾイドモデリングデザイナー",
+  "en": "  Zoid Modeling Designers",
+  "cap": 79
+ },
+ {
+  "id": 156,
+  "ja": "カズ　杉園　未来也　松澤　徳浩",
+  "en": "    Kazu, Mikiya Sugizono, Norihiro Matsuzawa",
+  "cap": 79
+ },
+ {
+  "id": 157,
+  "ja": "ゾイドモーションデザイナー",
+  "en": "  Zoid Motion Designers",
+  "cap": 79
+ },
+ {
+  "id": 158,
+  "ja": "本松　永裕　野津　眞",
+  "en": "    Nagahiro Motomatsu, Makoto Nodu",
+  "cap": 79
+ },
+ {
+  "id": 159,
+  "ja": "マップモデルデザイナー",
+  "en": "  Map Model Designers",
+  "cap": 79
+ },
+ {
+  "id": 160,
+  "ja": "柴山　英昭　月村　貴彦",
+  "en": "    Hideaki Sibayama, Takahiko Tukimura",
+  "cap": 79
+ },
+ {
+  "id": 161,
+  "ja": "プログラマー　さやまゆ　たぁ",
+  "en": "  Programmers: Sayamayu, Ta3",
+  "cap": 79
+ },
+ {
+  "id": 162,
+  "ja": "作曲",
+  "en": "  Music",
+  "cap": 79
+ },
+ {
+  "id": 163,
+  "ja": "川崎康宏",
+  "en": "    Yasuhiro Kawasaki",
+  "cap": 79
+ },
+ {
+  "id": 164,
+  "ja": "有限会社　光遊社",
+  "en": "    Koyusha Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 165,
+  "ja": "制作ディレクター　井上　靖紀",
+  "en": "  Production Director: Yasunori Inoue",
+  "cap": 79
+ },
+ {
+  "id": 166,
+  "ja": "ディレクター　菊池　徹",
+  "en": "  Director: Toru Kikuchi",
+  "cap": 79
+ },
+ {
+  "id": 167,
+  "ja": "デバッグ",
+  "en": "  Debug",
+  "cap": 79
+ },
+ {
+  "id": 168,
+  "ja": "谷口　誠一郎",
+  "en": "    Seiichiro Taniguchi",
+  "cap": 79
+ },
+ {
+  "id": 169,
+  "ja": "有限会社　デジタルハーツ",
+  "en": "    Digital Hearts Co., Ltd.",
+  "cap": 79
+ },
+ {
+  "id": 170,
+  "ja": "制作マネージャー　尾崎　耕平",
+  "en": "  Production Manager: Kohei Ozaki",
+  "cap": 79
+ },
+ {
+  "id": 171,
+  "ja": "デバッグ協力　POLE TO WIN",
+  "en": "Debug Assistance: POLE TO WIN",
+  "cap": 79
+ },
+ {
+  "id": 172,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 173,
+  "ja": "総合プロデューサー",
+  "en": "General Producer",
+  "cap": 79
+ },
+ {
+  "id": 174,
+  "ja": "おざわ　ふみひこ（株式会社トミー）",
+  "en": "  Fumihiko Ozawa (TOMY Company, Ltd.)",
+  "cap": 79
+ },
+ {
+  "id": 175,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 176,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 177,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 178,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 179,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 180,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 181,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 182,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 183,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 184,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 185,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 186,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 187,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 188,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ },
+ {
+  "id": 189,
+  "ja": "",
+  "en": "",
+  "cap": 79
+ }
+]

@@ -1,0 +1,1171 @@
+[
+ {
+  "id": "80132AF4",
+  "symbol": "",
+  "ja": "#ゲームスタート!! GameMode.type=%d\n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "801331D0",
+  "symbol": "",
+  "ja": "ディスクカバーが開いています。ゲームを続ける場合は、\nディスクカバーを閉めてください。",
+  "en": "The Disc Cover is open. To continue the game,\nplease close the Disc Cover.",
+  "cap": 88
+ },
+ {
+  "id": "80133228",
+  "symbol": "",
+  "ja": "ゾイドバーサス３のディスクをセット\nしてください。",
+  "en": "Please insert the Zoids VS. III\nGame Disc.",
+  "cap": 52
+ },
+ {
+  "id": "8013325C",
+  "symbol": "",
+  "ja": "このディスクはゾイドバーサス３の\nディスクではありません。\nゾイドバーサス３のディスクをセット\nしてください。",
+  "en": "This is not the Zoids VS. III\nGame Disc.\nPlease insert the Zoids VS. III\nGame Disc.",
+  "cap": 108
+ },
+ {
+  "id": "801332C8",
+  "symbol": "",
+  "ja": "ディスクを読めませんでした。\nくわしくは、本体の取扱説明書を\nお読みください。",
+  "en": "The disc could not be read.\nPlease refer to the Nintendo\nGameCube manual.",
+  "cap": 80
+ },
+ {
+  "id": "80133318",
+  "symbol": "",
+  "ja": "エラーが発生しました。\n本体のパワーボタンを押して電源を\nＯＦＦにし、本体の取扱説明書の\n指示に従ってください。",
+  "en": "An error has occurred.\nTurn the power OFF and refer to\nthe Nintendo GameCube\ninstruction booklet.",
+  "cap": 112
+ },
+ {
+  "id": "8013340C",
+  "symbol": "",
+  "ja": "メモリが足りません",
+  "en": "Not enough memory.",
+  "cap": 20
+ },
+ {
+  "id": "801337B4",
+  "symbol": "",
+  "ja": "in cache .. AI-Openできない %s",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "801337EC",
+  "symbol": "",
+  "ja": "in cache .. Relay-Openできない %s",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "80133810",
+  "symbol": "",
+  "ja": "０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ／－（）＆！？ｍαβ　＋＠＠アイウエオヴカキクケコガギグゲゴサシスセソザジズゼゾタチツテトダヂヅデドナニヌネノハヒフヘホバビブベボマミムメモパピプペポヤユヨラリルレロワヲンーァィゥェォッャュョ一般兵共和国帝国壱弐式旧型限定量産・Ⅱｋ大人子供",
+  "en": "",
+  "cap": 316
+ },
+ {
+  "id": "80133B5C",
+  "symbol": "",
+  "ja": "MapObjDefが足りません、定義してください。\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80133F78",
+  "symbol": "",
+  "ja": "メモリカード:エジェクション SLOT[%d]\n",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80134028",
+  "symbol": "",
+  "ja": "MemCardCHK EX %d なし \n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134118",
+  "symbol": "",
+  "ja": "VS.MemCard%d なし \n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801342F4",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] format確認終了、、",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "80134318",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] format確認OK、、",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80134338",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] format再確認 終了、、",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80134374",
+  "symbol": "",
+  "ja": "MemCard 使用できないカード \n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80134394",
+  "symbol": "",
+  "ja": "MemCard%d mcerrIOエラー \n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "801343B0",
+  "symbol": "",
+  "ja": "MemCard%d mcerrメモリカードでない \n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "801343D4",
+  "symbol": "",
+  "ja": "MemCard%d mcerr破壊\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134584",
+  "symbol": "",
+  "ja": "CARDWriteSize データサイズ%dByte セーブサイズ%dByte\n",
+  "en": "",
+  "cap": 56
+ },
+ {
+  "id": "801345BC",
+  "symbol": "",
+  "ja": "メモリ転送 %d Byte %x\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "801345E4",
+  "symbol": "",
+  "ja": "CARD メモリ開放OK\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80134690",
+  "symbol": "",
+  "ja": "MemCard SLOT 無し2 %d On[%d]",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "801346F8",
+  "symbol": "",
+  "ja": "ｃ梶[SizeErr1:%d %x\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134714",
+  "symbol": "",
+  "ja": "ｃ梶[SizeErr2:%d %x\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "8013474C",
+  "symbol": "",
+  "ja": "ｃ梶[確保:%d %x\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801347AC",
+  "symbol": "",
+  "ja": "ｃ梶[ReadSizeErr:%d %x\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134858",
+  "symbol": "",
+  "ja": "Status set準備 memcpy\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "8013489C",
+  "symbol": "",
+  "ja": "Load1:End Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d 人物=%d 金=%d\n",
+  "en": "",
+  "cap": 76
+ },
+ {
+  "id": "801348E8",
+  "symbol": "",
+  "ja": "メモカ:File無し\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801348FC",
+  "symbol": "",
+  "ja": "Zoidのデータでない\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80134910",
+  "symbol": "",
+  "ja": "Zoidのデータ：チェックサムエラー\n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "8013498C",
+  "symbol": "",
+  "ja": "メモカMSGOUT1 スロット無し %d[%d]",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "801349B0",
+  "symbol": "",
+  "ja": "メモカMSGOUT2 スロット無し %d[%d]",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "801349D4",
+  "symbol": "",
+  "ja": "システムデータ                                   ",
+  "en": "System Data",
+  "cap": 52
+ },
+ {
+  "id": "80134A08",
+  "symbol": "",
+  "ja": "MemCardFileMake無し ファイルクリエイト開始\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80134A34",
+  "symbol": "",
+  "ja": "MemCardFileMake無し ファイルクリエイト失敗\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80134A60",
+  "symbol": "",
+  "ja": "MemCardFileICON情報生成失敗 \n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80134A80",
+  "symbol": "",
+  "ja": "MemCardFileICON情報生成 成功 \n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80134AA0",
+  "symbol": "",
+  "ja": "MemCardFileMake無し ファイルクリエイト後　再オープン失敗\n",
+  "en": "",
+  "cap": 60
+ },
+ {
+  "id": "80134ADC",
+  "symbol": "",
+  "ja": "書きメイクギャザ失敗",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134AF4",
+  "symbol": "",
+  "ja": "CARDMakeIconSize データサイズ%dByte セーブサイズ%dByte\n",
+  "en": "",
+  "cap": 56
+ },
+ {
+  "id": "80134B2C",
+  "symbol": "",
+  "ja": "CARDMakeIconSize 失敗\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134B44",
+  "symbol": "",
+  "ja": "CARDMakeIconSize 成功\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134B88",
+  "symbol": "",
+  "ja": "ｃ梶[ファイルリードギャザ開始 \n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80134BAC",
+  "symbol": "",
+  "ja": "ｃ梶[ファイルリードギャザ失敗",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80134BD0",
+  "symbol": "",
+  "ja": "ｃ梶[確保RG:%d %x no=%d \n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "80134C2C",
+  "symbol": "",
+  "ja": "メモカ作成 セクタERR",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134C44",
+  "symbol": "",
+  "ja": "\n\n\nLoad旧:Start Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d\n 人物=%d 金=%d partsnum=%d posh=%d %s 分割%d SaveSize=%d\n",
+  "en": "",
+  "cap": 124
+ },
+ {
+  "id": "80134CC0",
+  "symbol": "",
+  "ja": "MemSaveFile0成功A EndSUM:%d %s サイズ=%d\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80134CEC",
+  "symbol": "",
+  "ja": "メモカメイク失敗B",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80134D00",
+  "symbol": "",
+  "ja": "MemSaveFile0成功B EndSUM:%d %s サイズ=%d\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80134D2C",
+  "symbol": "",
+  "ja": "メモカメイク失敗C",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80134D40",
+  "symbol": "",
+  "ja": "メモカメイク失敗D",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80134D54",
+  "symbol": "",
+  "ja": "メモカメイク SLOT NON",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134D6C",
+  "symbol": "",
+  "ja": "メモカRead0 セクタERR",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134D84",
+  "symbol": "",
+  "ja": "\n\nLoadGather:End1 Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d\n 人物=%d 金=%d partsnum=%d posh=%d %s 分割%d\n",
+  "en": "",
+  "cap": 116
+ },
+ {
+  "id": "80134DF8",
+  "symbol": "",
+  "ja": "\n\nLoadGather:End2 バトクリア=%d Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d\n 人物=%d 金=%d partsnum=%d posh=%d %s 分割%d\n",
+  "en": "",
+  "cap": 128
+ },
+ {
+  "id": "80134E78",
+  "symbol": "",
+  "ja": "メモカファイル無し:%d[%s] no=%d \n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "80134E9C",
+  "symbol": "",
+  "ja": "ZoidのデータでないA\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134EB4",
+  "symbol": "",
+  "ja": "Zoidのデータ：チェックサムエラー SUM=%d \n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80134EE0",
+  "symbol": "",
+  "ja": "Zoidのデータ：チェックサムOK SUM=%d \n",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80134F44",
+  "symbol": "",
+  "ja": "ファイル作成0失敗 TimeOver\n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "80134F60",
+  "symbol": "",
+  "ja": "ファイル作成0失敗IOERR\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80134FBC",
+  "symbol": "",
+  "ja": "旧ファイル確認-GameName:%.4s company:%.2s Fno:%d\n",
+  "en": "",
+  "cap": 52
+ },
+ {
+  "id": "80134FF0",
+  "symbol": "",
+  "ja": "旧ファイル確認-fileName[%.32s] MSG[ADR=%d] \n",
+  "en": "",
+  "cap": 48
+ },
+ {
+  "id": "80135020",
+  "symbol": "",
+  "ja": "旧ファイル OK SaveSize:%d Time:%d \n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "80135044",
+  "symbol": "",
+  "ja": "旧ゾイドファイル存在せず\n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "801350A8",
+  "symbol": "",
+  "ja": "USB Serverとの通信に失敗\n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "80135164",
+  "symbol": "",
+  "ja": "mccデータ受信終了\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80135178",
+  "symbol": "",
+  "ja": "XFB BMP送信要求特権命令受信 ADR=%08X\n",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "801351E0",
+  "symbol": "",
+  "ja": "mccコントロールコード受信\n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "801351FC",
+  "symbol": "",
+  "ja": "Recive 1stProc終了\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80135260",
+  "symbol": "",
+  "ja": "終了コード確認\n",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "80135270",
+  "symbol": "",
+  "ja": "usbSendBuf:スレッド作成不可\n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80135290",
+  "symbol": "",
+  "ja": "usbSendBufApi:スレッド作成不可\n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "801352B0",
+  "symbol": "",
+  "ja": "usbSendBufApiLeave:スレッド作成不可\n",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "801352D8",
+  "symbol": "",
+  "ja": "XFB BMP送信要求受信 ADR=%08X\n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "8013531C",
+  "symbol": "",
+  "ja": "確認コード送信\n",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "8013532C",
+  "symbol": "",
+  "ja": "mccwrite st1 size=%8d 余り=%04d adiv=%d rest=%d\n",
+  "en": "",
+  "cap": 52
+ },
+ {
+  "id": "80135584",
+  "symbol": "",
+  "ja": "ADP:スレッド作成不可\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80135DF4",
+  "symbol": "",
+  "ja": "add power z%d 弾=%d , 格闘=%d bp=%d \n",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80136BAC",
+  "symbol": "",
+  "ja": "弾ライト",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "80136BB8",
+  "symbol": "",
+  "ja": "エフェクト",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "80136D80",
+  "symbol": "",
+  "ja": "勝利条件",
+  "en": "Victory",
+  "cap": 12
+ },
+ {
+  "id": "801371AC",
+  "symbol": "",
+  "ja": "Mission DEMO 終了 \n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801371D8",
+  "symbol": "",
+  "ja": "Mission DEMOb 終了 \n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80137308",
+  "symbol": "",
+  "ja": "Zoid設定",
+  "en": "Zoid Set",
+  "cap": 12
+ },
+ {
+  "id": "8013737C",
+  "symbol": "",
+  "ja": "共和国軍",
+  "en": "Republic",
+  "cap": 12
+ },
+ {
+  "id": "8013743C",
+  "symbol": "",
+  "ja": "飛行却下フラグ",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "8013744C",
+  "symbol": "",
+  "ja": "飛行ZOIDフラグ",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "801374AC",
+  "symbol": "",
+  "ja": "武器カラーセットGameZoid=%d WepP=%d mt=%d color=%d \n",
+  "en": "",
+  "cap": 56
+ },
+ {
+  "id": "80137590",
+  "symbol": "",
+  "ja": "[menu_yesnop]が見つかりません\n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "801375B0",
+  "symbol": "",
+  "ja": "ショップに\r\n%s\r\nが入荷されました。\r\n ",
+  "en": "Now in stock at the shop:\r\n%s",
+  "cap": 40
+ },
+ {
+  "id": "801375D8",
+  "symbol": "",
+  "ja": "パイロットに\r\n%s\r\nが追加されました。\r\n ",
+  "en": "New pilot added:\r\n%s",
+  "cap": 40
+ },
+ {
+  "id": "80137C68",
+  "symbol": "",
+  "ja": "取外しParts=%d WepPOint=%d \n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80137D30",
+  "symbol": "",
+  "ja": "パーツ削除OK pno=%d num=%d %s\n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80137D50",
+  "symbol": "",
+  "ja": "パーツ削除なし pno=%d num=%d %s\n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "80137D80",
+  "symbol": "",
+  "ja": "[ttlMemCardChk] 1137 errこのままゲームで、、",
+  "en": "",
+  "cap": 48
+ },
+ {
+  "id": "80137DB0",
+  "symbol": "",
+  "ja": "[ttlMemCardChk] SLOT CHK 開始、、",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "80137E38",
+  "symbol": "",
+  "ja": "[ttlMemCardChk] TeaMemCardChk Zoid Chk 失敗、、",
+  "en": "",
+  "cap": 48
+ },
+ {
+  "id": "80137E68",
+  "symbol": "",
+  "ja": "[ttlMemCardChk] TeaMemCardChk ZoidChk失敗 再、、",
+  "en": "",
+  "cap": 52
+ },
+ {
+  "id": "80137EC8",
+  "symbol": "",
+  "ja": "MOunt許可\n",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "80137F1C",
+  "symbol": "",
+  "ja": "[ttlMemCardChk] ZOID DATA 無し 1120、、",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80137F44",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] err 1137 このままゲームで、、",
+  "en": "",
+  "cap": 48
+ },
+ {
+  "id": "80137F74",
+  "symbol": "",
+  "ja": "このままゲーム\n",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "80137FB8",
+  "symbol": "",
+  "ja": "SLOT あり \n",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "80138024",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] MOUNT 開始、、",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "80138070",
+  "symbol": "",
+  "ja": "SLOT IOERR 使えないメディア\n",
+  "en": "",
+  "cap": 32
+ },
+ {
+  "id": "801380D4",
+  "symbol": "",
+  "ja": "SLOT セクタサイズ ok\n",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "801380EC",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] TeaMemCardChk 開始、、",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80138114",
+  "symbol": "",
+  "ja": "[SLOT CHK NEW] TeaMemCardChk 失敗、、",
+  "en": "",
+  "cap": 40
+ },
+ {
+  "id": "80138160",
+  "symbol": "",
+  "ja": "ZOID データチェックOK",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80138178",
+  "symbol": "",
+  "ja": "ZOID データチェック ミス",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "80138194",
+  "symbol": "",
+  "ja": "ZOID データ削除？",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801381A8",
+  "symbol": "",
+  "ja": "ZOID データ削除OK",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801381BC",
+  "symbol": "",
+  "ja": "ZOID データ削除しない",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "801381D4",
+  "symbol": "",
+  "ja": "ZOID データが壊れてる",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "801381EC",
+  "symbol": "",
+  "ja": "Zoid SystemData 作成開始\n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "801383A4",
+  "symbol": "",
+  "ja": "MemLoad End Stage=%d Mapno=%d Single=%d NowZoid=%d NowCust=%d 人物=%d \n",
+  "en": "",
+  "cap": 72
+ },
+ {
+  "id": "801383EC",
+  "symbol": "",
+  "ja": "MemCard SaveTrueEnd 人物=%d:%s Zd=%d:%s\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80138418",
+  "symbol": "",
+  "ja": "MemCard LoadTrueEnd 人物=%d:%s Zd=%d:%s\n",
+  "en": "",
+  "cap": 44
+ },
+ {
+  "id": "80138468",
+  "symbol": "",
+  "ja": "プレイデータ　　                                 ",
+  "en": "Play Data",
+  "cap": 52
+ },
+ {
+  "id": "80138520",
+  "symbol": "",
+  "ja": "MemExistData USE:%d KeepBlk:%d %dセクタ 空き[%d]DIR \n",
+  "en": "",
+  "cap": 56
+ },
+ {
+  "id": "801385D0",
+  "symbol": "",
+  "ja": "MemExistData USE:%d 空き[%d]DIR \n",
+  "en": "",
+  "cap": 36
+ },
+ {
+  "id": "8013872C",
+  "symbol": "",
+  "ja": " 85 Saveが終了しました",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80138744",
+  "symbol": "",
+  "ja": "1079 Saveに失敗しました",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80138CB4",
+  "symbol": "",
+  "ja": "勝利条件",
+  "en": "Victory",
+  "cap": 12
+ },
+ {
+  "id": "80138CC0",
+  "symbol": "",
+  "ja": "敗北条件",
+  "en": "Defeat",
+  "cap": 12
+ },
+ {
+  "id": "80138F20",
+  "symbol": "",
+  "ja": "タイトル消す",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "80139110",
+  "symbol": "",
+  "ja": "人物チェンジ 左:%d 右:%d \n",
+  "en": "",
+  "cap": 28
+ },
+ {
+  "id": "8013912C",
+  "symbol": "",
+  "ja": "no=%d [%d] fadr=%d nextadr=%d size=%d rdsize=%d %s 背景[%d]\n",
+  "en": "",
+  "cap": 64
+ },
+ {
+  "id": "8013921C",
+  "symbol": "",
+  "ja": "no=%d [%d] fadr=%d nextadr=%d size=%d rdsize=%d %s 背景_%d]\n",
+  "en": "",
+  "cap": 64
+ },
+ {
+  "id": "80139338",
+  "symbol": "",
+  "ja": "GameModeNormalEasy=普通",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "80139350",
+  "symbol": "",
+  "ja": "GameModeNormalEasy=簡単",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "801393C0",
+  "symbol": "",
+  "ja": "SaveLoad無し\n",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "801393D0",
+  "symbol": "",
+  "ja": "SaveLoad無し2\n",
+  "en": "",
+  "cap": 16
+ },
+ {
+  "id": "801396C0",
+  "symbol": "",
+  "ja": "角度維持",
+  "en": "Hold angle",
+  "cap": 12
+ },
+ {
+  "id": "801396E4",
+  "symbol": "",
+  "ja": "敵を探す",
+  "en": "Find enemy",
+  "cap": 12
+ },
+ {
+  "id": "801396FC",
+  "symbol": "",
+  "ja": "武器変更",
+  "en": "Swap weapon",
+  "cap": 12
+ },
+ {
+  "id": "80139708",
+  "symbol": "",
+  "ja": "格闘攻撃",
+  "en": "Melee",
+  "cap": 12
+ },
+ {
+  "id": "80139748",
+  "symbol": "",
+  "ja": "AI-Openできない %s",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "801397A4",
+  "symbol": "",
+  "ja": "Relay-Openできない %s",
+  "en": "",
+  "cap": 24
+ },
+ {
+  "id": "801397F0",
+  "symbol": "",
+  "ja": "AIMODE コマンドERR\n",
+  "en": "",
+  "cap": 20
+ },
+ {
+  "id": "80154D00",
+  "symbol": "",
+  "ja": "￣院皐",
+  "en": "",
+  "cap": 7
+ },
+ {
+  "id": "80155310",
+  "symbol": "",
+  "ja": "襲　",
+  "en": "",
+  "cap": 5
+ },
+ {
+  "id": "80389748",
+  "symbol": "",
+  "ja": "エラー",
+  "en": "",
+  "cap": 8
+ },
+ {
+  "id": "80389F18",
+  "symbol": "",
+  "ja": "?髯劔劔咫D",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "8038A0E8",
+  "symbol": "",
+  "ja": ">劔啗kSu>",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "8038A17C",
+  "symbol": "",
+  "ja": "劔劒Su9.",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "8038A1E8",
+  "symbol": "",
+  "ja": "?劔劔劔咾H",
+  "en": "",
+  "cap": 12
+ },
+ {
+  "id": "8038A26C",
+  "symbol": "",
+  "ja": "劔劒k",
+  "en": "",
+  "cap": 8
+ },
+ {
+  "id": "8038A3DC",
+  "symbol": "",
+  "ja": "劔劒L",
+  "en": "",
+  "cap": 8
+ },
+ {
+  "id": "8038A614",
+  "symbol": "",
+  "ja": "劔劒Bp",
+  "en": "",
+  "cap": 8
+ },
+ {
+  "id": "8038A804",
+  "symbol": "",
+  "ja": "帝国軍",
+  "en": "Empire",
+  "cap": 8
+ },
+ {
+  "id": "8038A830",
+  "symbol": "",
+  "ja": "R:次へ",
+  "en": "R:Next",
+  "cap": 8
+ },
+ {
+  "id": "8038A838",
+  "symbol": "",
+  "ja": "L:前へ",
+  "en": "L:Prev",
+  "cap": 8
+ },
+ {
+  "id": "8038AAB0",
+  "symbol": "",
+  "ja": "BGM停止",
+  "en": "",
+  "cap": 8
+ },
+ {
+  "id": "8038ABE8",
+  "symbol": "",
+  "ja": "無し",
+  "en": "None",
+  "cap": 8
+ },
+ {
+  "id": "8038ABF0",
+  "symbol": "",
+  "ja": "半径内",
+  "en": "Inside",
+  "cap": 8
+ },
+ {
+  "id": "8038ABF8",
+  "symbol": "",
+  "ja": "半径外",
+  "en": "Outside",
+  "cap": 8
+ },
+ {
+  "id": "8038AC00",
+  "symbol": "",
+  "ja": "周る",
+  "en": "Circle",
+  "cap": 8
+ },
+ {
+  "id": "8038AC0C",
+  "symbol": "",
+  "ja": "Next敵",
+  "en": "NextFoe",
+  "cap": 8
+ },
+ {
+  "id": "8038AC14",
+  "symbol": "",
+  "ja": "１発射",
+  "en": "Fire 1",
+  "cap": 8
+ },
+ {
+  "id": "8038AD1C",
+  "symbol": "",
+  "ja": "劔劒@$",
+  "en": "",
+  "cap": 8
+ }
+]

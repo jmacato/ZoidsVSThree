@@ -1,0 +1,37 @@
+[
+ {
+  "id": "short title",
+  "ja": "ZOIDS VS.Ⅲ",
+  "en": "Zoids VS. III",
+  "cap": 32,
+  "offset": "0x1820"
+ },
+ {
+  "id": "short maker",
+  "ja": "TOMY",
+  "en": "TOMY",
+  "cap": 32,
+  "offset": "0x1840"
+ },
+ {
+  "id": "long title",
+  "ja": "ZOIDS VS.Ⅲ",
+  "en": "Zoids VS. III",
+  "cap": 64,
+  "offset": "0x1860"
+ },
+ {
+  "id": "long maker",
+  "ja": "(C)1983-2004　TOMY",
+  "en": "(C)1983-2004 TOMY",
+  "cap": 64,
+  "offset": "0x18a0"
+ },
+ {
+  "id": "description",
+  "ja": "(C)ShoPro・TV Tokyo",
+  "en": "(C)ShoPro/TV Tokyo",
+  "cap": 128,
+  "offset": "0x18e0"
+ }
+]

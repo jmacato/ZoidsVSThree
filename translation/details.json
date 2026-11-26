@@ -1,0 +1,3768 @@
+[
+ {
+  "id": "chara/man000.txt",
+  "bytes": 258,
+  "ja": "スラッシュゼロの主人公。　　　　　　　　　　　　　\r\nライガーゼロと出会い、チーム・ブリッツとして、　　\r\nゾイドバトルに参加することになる。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The hero of New Century.\r\nAfter meeting the Liger Zero, he joins the\r\nBlitz Team and starts fighting in Zoid Battles.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man001.txt",
+  "bytes": 258,
+  "ja": "チーム・ブリッツのウォーリアー。　　　　　　　　　\r\n外見は可愛いが荒っぽい性格で、戦いぶりも、　　　　\r\n猪突猛進型。　　　　　　　　　　　　　　　　　　　\r\nわがままなトラブルメーカー。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A warrior on the Blitz Team.\r\nShe looks cute but has a rough temper, and she\r\nfights the same way: charging straight in.\r\nA selfish troublemaker.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man002.txt",
+  "bytes": 258,
+  "ja": "フリーのゾイドウォーリアー。　　　　　　　　　　　\r\n表面上は金にうるさい風を装っているが、　　　　　　\r\n本当は純粋な心を持つ優しい男である。　　　　　　　\r\nチーム・ブリッツに雇われている。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A freelance Zoid warrior.\r\nHe acts like money is all he cares about, but\r\nhe is really a kind man with a pure heart.\r\nHe is hired by the Blitz Team.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man003.txt",
+  "bytes": 258,
+  "ja": "王者になるべくして生まれた男。　　　　　　　　　　\r\n資金力にものを言わせて最高級のゾイドを　　　　　　\r\n取りそろえて、チーム・チャンプを率いる。　　　　　\r\nリノンに片思い中だが、相手にされない。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A man destined to be king.\r\nHe uses his fortune to gather the finest Zoids\r\nmoney can buy and leads the Champ Team.\r\nHe has a crush on Leena, who ignores him.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man004.txt",
+  "bytes": 258,
+  "ja": "バックドラフト団が復活させたアルティメットＸと　　\r\n呼ばれるゾイド、バーサークフューラーを操る少年。　\r\n天才ゾイドウォーリアー。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The boy who pilots the Berserk Fury, a Zoid\r\nknown as an Ultimate X that was revived by the\r\nBackdraft Group.\r\nA genius Zoid warrior.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man005.txt",
+  "bytes": 258,
+  "ja": "賞金稼ぎでさすらいのギャンブラー。　　　　　　　　\r\nライトニングサイクスを駆り、色々なチームの雇われ　\r\nウォーリアーとして、ビットたちと何度も対戦する。　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A bounty hunter and wandering gambler.\r\nPiloting his Lightning Saix as a hired warrior\r\nfor various teams, he battles Bit and his\r\nfriends many times.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man006.txt",
+  "bytes": 258,
+  "ja": "元チーム・ブリッツのウォーリアー。　　　　　　　　\r\n旅に出て赤いブレードライガーに出会う。　　　　　　\r\nその後ナオミとチームを組む。リノンの兄。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A former warrior of the Blitz Team.\r\nHe sets out on a journey and meets a red\r\nBlade Liger. Later he teams up with Naomi.\r\nHe is Leena's older brother.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man007.txt",
+  "bytes": 258,
+  "ja": "「紅き閃光」の異名を持つ射撃の名手。　　　　　　　\r\n仲間を持たず、個人戦のみを勝ち続けている　　　　　\r\n孤独で美しい女ウォーリアー。　　　　　　　　　　　\r\nレオンに助けられ、以後チームを組む。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A master sharpshooter known as the Red Comet.\r\nA beautiful, solitary warrior who has no\r\npartners and keeps winning solo battles alone.\r\nAfter Leon saves her, she teams up with him.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man008.txt",
+  "bytes": 258,
+  "ja": "ハリーの姉。大金持ちのお嬢様でゾイドを　　　　　　\r\n集めるのが趣味。　　　　　　　　　　　　　　　　　\r\nビットのライガーゼロに一目ボレして、　　　　　　　\r\nゾイドバトルで挑んでくることになる。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Harry's older sister. A young lady from a very\r\nrich family whose hobby is collecting Zoids.\r\nShe falls for Bit's Liger Zero at first sight\r\nand challenges him to a Zoid Battle.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man009.txt",
+  "bytes": 258,
+  "ja": "高速ゾイド、ライトニングサイクスを操る、　　　　　\r\nタスカー姉妹の姉。　　　　　　　　　　　　　　　　\r\nチーム・ライトニングとして、　　　　　　　　　　　\r\nジャックとチームを組む。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The older of the Tasker Sisters. She pilots\r\nthe high-speed Zoid Lightning Saix.\r\nShe teams up with Jack as part of the\r\nLightning Team.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man010.txt",
+  "bytes": 258,
+  "ja": "高速ゾイド、ライトニングサイクスを操る、　　　　　\r\nタスカー姉妹の妹。　　　　　　　　　　　　　　　　\r\nチーム・ライトニングとして、　　　　　　　　　　　\r\nジャックとチームを組む。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The younger of the Tasker Sisters. She pilots\r\nthe high-speed Zoid Lightning Saix.\r\nShe teams up with Jack as part of the\r\nLightning Team.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man011.txt",
+  "bytes": 258,
+  "ja": "チーム・タイガースのリーダー格。　　　　　　　　　\r\nなぜか関西弁を使う。　　　　　　　　　　　　　　　\r\nチーム・ブリッツに負けて以来連戦連敗。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The leader of the Tigers Team.\r\nFor some reason he speaks in a Kansai accent.\r\nSince losing to the Blitz Team, his team has\r\nlost every battle.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man012.txt",
+  "bytes": 258,
+  "ja": "バックドラフト団のウォーリアー。　　　　　　　　　\r\nウォーリアーを引退していたがアルタイルの命令と　　\r\nビット達との出会いでゾイドバトルに復帰する。　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A warrior of the Backdraft Group.\r\nHe had retired as a warrior, but Altile's\r\norders and his encounter with Bit's team\r\nbring him back to Zoid Battles.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man013.txt",
+  "bytes": 258,
+  "ja": "バックドラフト団のウォーリアー。　　　　　　　　　\r\n空中戦を得意とする。　　　　　　　　　　　　　　　\r\nビットやジェミーとは何度か戦った。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A warrior of the Backdraft Group.\r\nShe specializes in aerial combat.\r\nShe has fought Bit and Jamie several times.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man014.txt",
+  "bytes": 258,
+  "ja": "バックドラフト団・密殺集団のリーダー。　　　　　　\r\nアルタイルの命令で主人公たちに攻撃を仕掛ける。　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The leader of the Backdraft Group's\r\nassassination squad.\r\nHe attacks the heroes on Altile's orders.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man016.txt",
+  "bytes": 258,
+  "ja": "デスザウラーとの戦いから２年。　　　　　　　　　　\r\n一流のゾイド乗りとしてたくましく成長。　　　　　　\r\n共和国、帝国共同で設立された平和維持組織　　　　　\r\nガーディアンフォースの一員となる。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Two years after the battle with the Death\r\nSaurer, he has grown into a tough, first-rate\r\nZoid pilot. He joins the Guardian Force, a\r\npeacekeeping unit founded jointly by the\r\nRepublic and the Empire.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man017.txt",
+  "bytes": 258,
+  "ja": "デスザウラーの戦いの後も賞金稼ぎとして　　　　　　\r\n暮らしていたが、やがてバンやトーマたち　　　　　　\r\nガーディアンフォースと行動を共にするようになる。　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "He keeps living as a bounty hunter after the\r\nbattle with the Death Saurer, but in time he\r\ncomes to work alongside Van, Thomas and the\r\nrest of the Guardian Force.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man018.txt",
+  "bytes": 258,
+  "ja": "共和国軍大尉、のちに大佐。　　　　　　　　　　　　\r\nバンと出会い、その奇跡的な力に注目する。　　　　　\r\n常に前線に身を置き部下の信頼は厚い。　　　　　　　\r\n共和国大統領の息子でもある。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A captain in the Republic army, later a\r\ncolonel. He meets Van and takes note of his\r\nmiraculous power. Always on the front lines,\r\nhe is deeply trusted by his troops.\r\nHe is also the son of the Republic's president.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man019.txt",
+  "bytes": 258,
+  "ja": "バンとの戦いに負けた後、記憶を失い放浪していたが、\r\n記憶を取り戻してからはヒルツに誘われ、　　　　　　\r\n再び戦いに加わる。　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "After losing his battle with Van, he wanders\r\nwith no memory. Once his memory returns,\r\nHiltz recruits him and he joins the fight\r\nonce again.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man020.txt",
+  "bytes": 258,
+  "ja": "ガーディアンフォースに敵対して　　　　　　　　　　\r\n策略を練る古代ゾイド人。　　　　　　　　　　　　　\r\nデスザウラーを復活させ、世界を破滅させようと　　　\r\n行動する。　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "An Ancient Zoidian who schemes against the\r\nGuardian Force.\r\nHe works to revive the Death Saurer and bring\r\nthe world to ruin.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man021.txt",
+  "bytes": 258,
+  "ja": "青いオーガノイド、スペキュラーをともなう　　　　　\r\n古代ゾイド人。　　　　　　　　　　　　　　　　　　\r\n精神攻撃を得意とし、単独で行動する事も多い。　　　\r\nヒルツに裏切られた後、命を助けられたレイヴンと　　\r\n行動を共にする。　　　　　　　　　　　　　　　　　",
+  "en": "An Ancient Zoidian accompanied by Specula, a\r\nblue Organoid. She excels at mental attacks\r\nand often acts alone. After Hiltz betrays her,\r\nshe travels with Raven, who saved her life.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man022.txt",
+  "bytes": 258,
+  "ja": "帝国軍少佐、のちに大佐になる。　　　　　　　　　　\r\n帝国軍人として名門の家系で、歴戦の指揮官。　　　　\r\n良きにつけ、悪しきにつけ、貧乏くじを引きやすい　　\r\n人柄である。　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A major in the Imperial army, later a colonel.\r\nA veteran commander from a distinguished line\r\nof Imperial officers.\r\nFor better or worse, he is the type who tends\r\nto draw the short straw.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man023.txt",
+  "bytes": 258,
+  "ja": "帝国軍中尉。ガーディアンフォースの一員。　　　　　\r\nシュバルツ大佐の弟でもある。　　　　　　　　　　　\r\n自ら開発したＡＩ・ビークを活用している。　　　　　\r\nフィーネに一目ぼれ。　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A lieutenant in the Imperial army and a member\r\nof the Guardian Force. He is also Colonel\r\nSchubaltz's younger brother. He relies on\r\nBeek, an AI he developed himself.\r\nHe fell for Fiona at first sight.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man024.txt",
+  "bytes": 258,
+  "ja": "盗賊団デザルトアルコバレーノのリーダー。　　　　　\r\n後に、アーラバローネとして、バン達のピンチを救う。\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The leader of the Desert Alcavaleno Gang.\r\nLater, as one of the Wings of the Baron, he\r\nsaves Van and his friends from danger.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man025.txt",
+  "bytes": 258,
+  "ja": "盗賊団デザルトアルコバレーノの紅一点。　　　　　　\r\n後に、アーラバローネとして、バン達のピンチを救う。\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The only woman in the Desert Alcavaleno Gang.\r\nLater, as one of the Wings of the Baron, she\r\nsaves Van and his friends from danger.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man026.txt",
+  "bytes": 258,
+  "ja": "ガイロス帝国元帥のちに摂政。　　　　　　　　　　　\r\n自らが皇帝になることを画策しルドルフを　　　　　　\r\n謀殺しようとし、同時にデスザウラーを復活させ　　　\r\n世界を支配しようとする。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Marshal of the Guylos Empire, later regent.\r\nPlotting to become emperor himself, he tries\r\nto have Rudolph killed while reviving the\r\nDeath Saurer in order to rule the world.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man027.txt",
+  "bytes": 258,
+  "ja": "アーカディア王国の時空転送装置を狙って襲ってきた　\r\n皇帝軍と戦った。　　　　　　　　　　　　　　　　　\r\n王家のゾイド、トリニティライガーを操る。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "He fought the Emperor's army when it attacked\r\nto seize the Arcadia Kingdom's space-time\r\ntransporter.\r\nHe pilots the royal Zoid, the Trinity Liger.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man028.txt",
+  "bytes": 258,
+  "ja": "アーカディア王国三獣士。　　　　　　　　　　　　　\r\n古代ゾイド人の血を引くアトレーの教育係兼　　　　　\r\nお目付け役。　　　　　　　　　　　　　　　　　　　\r\n真面目で責任感が強く、ちょっとお節介な性格。　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "One of the Arcadia Kingdom's Beast Knights.\r\nShe is the tutor and chaperone of Athle, who\r\ncarries the blood of the Ancient Zoidians.\r\nEarnest and responsible, and a bit of a\r\nbusybody.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man029.txt",
+  "bytes": 258,
+  "ja": "ファントム騎士団四天王の一人。　　　　　　　　　　\r\nアトレーをライバル視しており、三つの首を持つ、　　\r\nジェノハイドラを操る。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "One of the Four Generals of the Phantom\r\nKnights.\r\nHe sees Athle as his rival and pilots the\r\nthree-headed Geno Hydra.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man030.txt",
+  "bytes": 258,
+  "ja": "ファントム騎士団四天王の一人。　　　　　　　　　　\r\n元は帝国の出身。　　　　　　　　　　　　　　　　　\r\n常に、冷静沈着でクールな性格。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "One of the Four Generals of the Phantom\r\nKnights.\r\nOriginally from the Empire.\r\nAlways cool, calm and collected.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man031.txt",
+  "bytes": 258,
+  "ja": "共和国軍ブルーユニコンの隊員。　　　　　　　　　　\r\n熱血漢で単純だが、直感とひらめきが鋭い。　　　　　\r\nゾイドの扱いがうまく「ゾイドの意思」を　　　　　　\r\n感じ取ることができる。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A member of the Republic army's Blue Unicorn.\r\nHot-blooded and simple, but with sharp\r\nintuition and flashes of insight. He handles\r\nZoids well and can sense the will of a Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man032.txt",
+  "bytes": 258,
+  "ja": "共和国軍ブルーユニコンの隊員。　　　　　　　　　　\r\n幼なじみのザンを追いかけて軍に入隊した。　　　　　\r\nザンに好意があるが告白できずにいる。　　　　　　　\r\n射撃が得意だが打たれ弱い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A member of the Republic army's Blue Unicorn.\r\nShe enlisted to follow Zan, her childhood\r\nfriend. She likes Zan but cannot bring herself\r\nto tell him. She is a good shot, but she\r\ncannot take much punishment.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man033.txt",
+  "bytes": 258,
+  "ja": "共和国軍ブルーユニコンの隊長。　　　　　　　　　　\r\n過去の戦争の体験から新兵の教育に心血を　　　　　　\r\n注ぐようになる。　　　　　　　　　　　　　　　　　\r\n本来は作戦指揮の方が得意である。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The captain of the Republic army's Blue\r\nUnicorn.\r\nHis experiences in a past war led him to pour\r\nhis heart into training new recruits.\r\nHis true strength is commanding operations.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man034.txt",
+  "bytes": 258,
+  "ja": "帝国軍ロットティガーの隊員。　　　　　　　　　　　\r\n優秀な軍人だが、上官に評価されずにいた。　　　　　\r\n元の部下であったクローディアの依頼で　　　　　　　\r\nロットティガー隊に配属となる。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A member of the Imperial army's Rottiger.\r\nA fine soldier whose superiors never gave him\r\nhis due. He is assigned to the Rottiger unit\r\nat the request of Claudia, who once served\r\nunder him.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man035.txt",
+  "bytes": 258,
+  "ja": "帝国軍ロットティガーの隊員。　　　　　　　　　　　\r\nゼネバス帝国の残党を追う、資産家の息子。　　　　　\r\nザンとはお互いライバル視している。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A member of the Imperial army's Rottiger.\r\nThe son of a wealthy family, he hunts the\r\nremnants of the Zenebas Empire.\r\nHe and Zan see each other as rivals.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man036.txt",
+  "bytes": 258,
+  "ja": "帝国軍ロットティガーの隊長。　　　　　　　　　　　\r\nエリート軍人の家系に育ちプライドが高い。　　　　　\r\n元はマックスが上官だったが、　　　　　　　　　　　\r\n今は立場が逆になっている。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The captain of the Imperial army's Rottiger.\r\nRaised in a family of elite officers, she is\r\nvery proud. Max used to be her superior, but\r\nnow their positions are reversed.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man037.txt",
+  "bytes": 258,
+  "ja": "ゼネバス帝国再興を目論む組織「テラガイスト」の　　\r\n黒幕。　　　　　　　　　　　　　　　　　　　　　　\r\nかつてザンたちと戦ったが、その後行方不明と　　　　\r\nなっていた。　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The mastermind behind Terra Geist, a group\r\nplotting to restore the Zenebas Empire.\r\nHe once fought Zan and his comrades, and has\r\nbeen missing ever since.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man038.txt",
+  "bytes": 258,
+  "ja": "ゼネバス帝国時代は勇猛な戦士として評価されるも、　\r\n謀略により軍を追放されテラガイストの一員となる。　\r\n共和国に潜入し重要機密の奪取を行った。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Praised as a fearless warrior in the days of\r\nthe Zenebas Empire, he was driven out of the\r\narmy by a plot and joined Terra Geist. He\r\ninfiltrated the Republic and stole vital\r\nsecrets.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man039.txt",
+  "bytes": 258,
+  "ja": "戦災孤児だった所をガルドに拾われ、　　　　　　　　\r\n徹底した英才教育によりゾイドパイロットとなる。　　\r\nガルドを絶対的に信頼している。　　　　　　　　　　\r\nザン達に敗北し、何度も戦うことになる。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A war orphan taken in by Gard and made into a\r\nZoid pilot through rigorous elite training.\r\nTrusts Gard completely.\r\nAfter losing to Zan and his comrades, ends up\r\nfighting them again and again.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man040.txt",
+  "bytes": 258,
+  "ja": "過去にデスザウラーで、ザン達に敗れ、　　　　　　　\r\nその後、生死不明に…。　　　　　　　　　　　　　　\r\nゼネバス帝国を復活させようとしていた。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "He lost to Zan and his comrades in the Death\r\nSaurer, and after that, no one knows if he is\r\nalive or dead...\r\nHe was trying to revive the Zenebas Empire.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man041.txt",
+  "bytes": 258,
+  "ja": "ガイロス帝国のオペレーター。　　　　　　　　　　　\r\nロットティガー隊のメンバーをサポートし、　　　　　\r\nいろいろな情報や指令を伝えている。　　　　　　　　\r\nたまに、ドジをして上司に怒られることも。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "An operator for the Guylos Empire.\r\nSupports the members of the Rottiger unit and\r\nrelays all kinds of information and orders.\r\nNow and then a slip-up earns a scolding from\r\nthe boss.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man042.txt",
+  "bytes": 258,
+  "ja": "ヘリック共和国のオペレーター。　　　　　　　　　　\r\nブルーユニコン隊のメンバーをサポートし、　　　　　\r\nいろいろな情報や指令を伝えている。　　　　　　　　\r\nマジメな性格で、周りからの信頼もあつい。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "An operator for the Helic Republic.\r\nSupports the members of the Blue Unicorn unit\r\nand relays all kinds of information and orders.\r\nSerious by nature and well trusted by everyone.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man047.txt",
+  "bytes": 258,
+  "ja": "ゾイド好きの少年と古代ゾイド人の少女。　　　　　　\r\nバンは、古代の遺跡でフィーネと　　　　　　　　　　\r\nオーガノイドのジークと出会い　　　　　　　　　　　\r\nフィーネと一緒に旅に出る。　　　　　　　　　　　　\r\n愛機はシールドライガー。　　　　　　　　　　　　　",
+  "en": "A boy who loves Zoids and an Ancient Zoidian\r\ngirl. Van meets Fiona and the Organoid Zeke in\r\nancient ruins and sets out on a journey with\r\nFiona.\r\nHis Zoid is the Shield Liger.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man059.txt",
+  "bytes": 258,
+  "ja": "セイバータイガー、ジェノザウラーを操り、　　　　　\r\nバン達と何度も戦いを重ねている。　　　　　　　　　\r\nゾイド乗りとしての腕は一流。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Piloting the Zaber Fang and the Geno Saurer,\r\nhe battles Van and his friends again and again.\r\nHis skill as a Zoid pilot is first-rate.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man060.txt",
+  "bytes": 258,
+  "ja": "デスザウラーの戦いの後も、　　　　　　　　　　　　\r\n腐れ縁かバン達ガーディアンフォースと共に行動する。\r\nハーマンに見込まれウルトラザウルスの　　　　　　　\r\n操縦担当となり、私物化する。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "Even after the battle with the Death Saurer,\r\nshe just can't seem to shake Van and the\r\nGuardian Force and keeps working with them.\r\nHerman picks her to pilot the Ultrasaurus,\r\nand she treats it as her own.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man061.txt",
+  "bytes": 258,
+  "ja": "チーム・ブリッツの戦術指揮及びメカニックを　　　　\r\nこなすしっかり者。　　　　　　　　　　　　　　　　\r\n普段は温和で優しい性格だが、飛行ゾイドで　　　　　\r\n音速を超えると「荒鷲」へと人格が変わる。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The level-headed member of the Blitz Team who\r\nhandles both tactics and mechanic work.\r\nNormally gentle and kind, but when he breaks\r\nthe sound barrier in a flying Zoid, his\r\npersonality changes into the Wild Eagle.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man062.txt",
+  "bytes": 258,
+  "ja": "チーム・タイガースのメンバー。　　　　　　　　　　\r\nリーダーのカークランドをアニキと慕い、　　　　　　\r\n連敗続きで、夕食はカップラーメンが多い。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A member of the Tigers Team.\r\nHe looks up to his leader Kirkland like a big\r\nbrother. With all their losses, dinner is\r\nusually instant noodles.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man063.txt",
+  "bytes": 258,
+  "ja": "ザンに憧れて軍に入隊した、共和国の新兵。　　　　　\r\n念願のブルーユニコン隊に配属されたが、　　　　　　\r\n配属最初の任務は、消息を絶った隊員を　　　　　　　\r\n探すことだった。　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A new Republic recruit who enlisted because he\r\nadmired Zan. He got his wish and was assigned\r\nto the Blue Unicorn unit, but his first\r\nmission there was to search for members who\r\nhad gone missing.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man064.txt",
+  "bytes": 258,
+  "ja": "帝国の兵士で、成り行きでロットティガーと　　　　　\r\n行動を共にする。　　　　　　　　　　　　　　　　　\r\n常に一匹狼で、団体行動をとるのが苦手。　　　　　　\r\nライナーとの、新コンビは、意外に合っているようだ。\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "An Imperial soldier who ends up working with\r\nRottiger by chance.\r\nAlways a lone wolf, he is bad at teamwork.\r\nEven so, his new partnership with Reiner seems\r\nto work surprisingly well.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man065.txt",
+  "bytes": 258,
+  "ja": "ゼネバス復活を企んでいる、テラガイストの幹部。　　\r\nバイパーに代わる、リーダーとして、　　　　　　　　\r\n共和国軍、帝国軍に攻撃を仕掛ける。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Terra Geist officer plotting the revival of\r\nZenebas.\r\nAs the leader replacing Viper, she launches\r\nattacks on the Republic and Imperial armies.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man066.txt",
+  "bytes": 258,
+  "ja": "ゾイド乗りの傭兵として旅していたが、　　　　　　　\r\n時空融合に巻き込まれ、ゾイドウォーリアーとなる。　\r\nその血筋には大きな秘密があるが　　　　　　　　　　\r\n本人はそれを知らない。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "He was traveling as a mercenary Zoid pilot\r\nwhen he was caught up in the space-time fusion\r\nand became a Zoid warrior.\r\nHis bloodline holds a great secret, but he\r\ndoes not know it himself.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man067.txt",
+  "bytes": 258,
+  "ja": "時空融合した世界で、ゼルと行動を共にする少女。　　\r\nゾイドの扱いは天才的なセンスを持ち、　　　　　　　\r\n何故かテラガイストに狙われている。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A girl who travels with Zeru in the world\r\nmerged by the space-time fusion.\r\nShe has a genius touch with Zoids, and for\r\nsome reason Terra Geist is after her.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man072.txt",
+  "bytes": 258,
+  "ja": "「スラッシュウイング」というゾイドバトルリーグの　\r\nチームで、伝説のＺｉファイター「紅の疾風」と　　　\r\n呼ばれていた男。　　　　　　　　　　　　　　　　　\r\nある事件をきっかけに、非合法な事件を解決する　　　\r\nエージェントとなる。　　　　　　　　　　　　　　　",
+  "en": "A man once known as the Crimson Gale, a\r\nlegendary Zi Fighter on the Zoid Battle League\r\nteam Slash Wing.\r\nAfter a certain incident, he became an agent\r\nwho resolves cases outside the law.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man074.txt",
+  "bytes": 258,
+  "ja": "ＺＯＩＤＳのメーカーである　　　　　　　　　　　　\r\nＺＯＩＴＥＣ社の社長の一人娘。　　　　　　　　　　\r\nＺＯＩＤＳテスト中の社長が誘拐される事件が起り　　\r\nアローに事件の解決の依頼をする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The only daughter of the president of Zoitec,\r\na maker of Zoids.\r\nWhen the president is kidnapped during a Zoid\r\ntest, she asks Arrow to solve the case.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man076.txt",
+  "bytes": 258,
+  "ja": "アローと同じ、元「スラッシュウイング」の　　　　　\r\nチームメンバー。　　　　　　　　　　　　　　　　　\r\nかつてはアローとは親友であったが、過去に起きた　　\r\n事件により、アローを復讐の対象にしている。　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A former member of Slash Wing, the same team\r\nas Arrow.\r\nHe was once Arrow's best friend, but because\r\nof an incident in the past, he now seeks\r\nrevenge on Arrow.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man077.txt",
+  "bytes": 258,
+  "ja": "元「スラッシュウイング」のチームメンバーで、　　　\r\nスクードの妹。　　　　　　　　　　　　　　　　　　\r\nかつてはアローの恋人であったが、　　　　　　　　　\r\nある事件により記憶を無くし、兄に従いアローに　　　\r\n復讐する機会をうかがう。　　　　　　　　　　　　　",
+  "en": "A former member of Slash Wing and Scudo's\r\nyounger sister.\r\nShe was once Arrow's girlfriend, but an\r\nincident took her memory. Now she follows her\r\nbrother and waits for a chance at revenge.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man081.txt",
+  "bytes": 258,
+  "ja": "ブルーシティーのＺｉファイター。　　　　　　　　　\r\n接近戦での、格闘戦を得意とする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Zi Fighter from Blue City.\r\nSpecializes in melee attacks at close range.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man082.txt",
+  "bytes": 258,
+  "ja": "ブルーシティーのＺｉファイター。　　　　　　　　　\r\n接近戦での、砲撃戦を得意とする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Zi Fighter from Blue City.\r\nSpecializes in gunfire at close range.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man085.txt",
+  "bytes": 258,
+  "ja": "ブルーシティーの平和を守る、治安局員。　　　　　　\r\n接近戦での、格闘戦を得意とする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Peacekeeping Officer who protects the peace\r\nof Blue City.\r\nSpecializes in melee attacks at close range.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man086.txt",
+  "bytes": 258,
+  "ja": "ブルーシティーの平和を守る、治安局員。　　　　　　\r\n接近戦での、砲撃戦を得意とする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Peacekeeping Officer who protects the peace\r\nof Blue City.\r\nSpecializes in gunfire at close range.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man089.txt",
+  "bytes": 258,
+  "ja": "ジャンクゾーンの盗賊。　　　　　　　　　　　　　　\r\n接近戦での、格闘戦を得意とする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A bandit from the Junk Zone.\r\nSpecializes in melee attacks at close range.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man090.txt",
+  "bytes": 258,
+  "ja": "ジャンクゾーンの盗賊。　　　　　　　　　　　　　　\r\n接近戦での、砲撃戦を得意とする。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A bandit from the Junk Zone.\r\nSpecializes in gunfire at close range.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man095.txt",
+  "bytes": 258,
+  "ja": "バトルチーム兼何でも屋「マッハストーム」に所属する\r\nパイロット。「伝説のゾイド」に憧れ、いつの日か会う\r\nことを夢見ている。　　　　　　　　　　　　　　　　\r\n搭乗ゾイドは「ライガーゼロ」。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A pilot for Mach Storm, a battle team that\r\nalso takes on odd jobs. He admires the\r\nlegendary Zoid and dreams of meeting it\r\nsomeday.\r\nHis Zoid is the Liger Zero.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man096.txt",
+  "bytes": 258,
+  "ja": "「マッハストーム」の雑務担当。　　　　　　　　　　\r\nＲＤとは幼なじみ。口喧嘩はするものの、姉役として　\r\nＲＤを見守っている。　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "She handles the odd jobs at Mach Storm.\r\nShe and RD are childhood friends. They bicker,\r\nbut she watches over him like a big sister.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man097.txt",
+  "bytes": 258,
+  "ja": "「マッハストーム」のパイロット兼リーダー。　　　　\r\nＲＤの父親がリーダーだった頃から　　　　　　　　　\r\n「マッハストーム」に所属。　　　　　　　　　　　　\r\n搭乗ゾイドは「コマンドウルフＡＣ」。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The leader of Mach Storm and one of its\r\npilots. He has been with Mach Storm since the\r\ndays when RD's father was its leader.\r\nHis Zoid is the Command Wolf AC.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man098.txt",
+  "bytes": 258,
+  "ja": "「マッハストーム」のパイロット。　　　　　　　　　\r\nことあるごとにＲＤを子供扱いし、　　　　　　　　　\r\n足手まといだとけなす。全てを自分にとって　　　　　\r\n都合良く解釈する才能の持ち主。　　　　　　　　　　\r\n搭乗ゾイドは「ボルドガルド」。　　　　　　　　　　",
+  "en": "A pilot for Mach Storm.\r\nHe treats RD like a kid at every turn and\r\ncalls him dead weight. He has a gift for\r\nreading everything in his own favor.\r\nHis Zoid is the Bold Guard.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man099.txt",
+  "bytes": 258,
+  "ja": "「マッハストーム」の美人パイロット。　　　　　　　\r\n「流れ星エミー」の通り名で呼ばれている。　　　　　\r\n脳天気でマイペース。お金儲けが好き。　　　　　　　\r\n搭乗ゾイドは「ケーニッヒウルフＭＫⅡ」。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A beautiful pilot for Mach Storm.\r\nShe goes by the nickname Shooting Star Amy.\r\nCarefree and laid-back, she loves making money.\r\nHer Zoid is the Konig Wolf MK II.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man100.txt",
+  "bytes": 258,
+  "ja": "「マッハストーム」の事務所に出入りする少年。　　　\r\nＲＤたちに助けられたことから、　　　　　　　　　　\r\nマッハストーム事務所に居候することとなる。　　　　\r\nＺｉファイターに憧れＲＤのようになることが目標。　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A boy who hangs around the Mach Storm office.\r\nAfter RD and the team rescue him, he ends up\r\nliving there as a freeloader.\r\nHe admires Zi Fighters and wants to be like RD.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man101.txt",
+  "bytes": 258,
+  "ja": "ＲＤのライバル。　　　　　　　　　　　　　　　　　\r\nバトルチーム「サベッチハンマー」のパイロット。　　\r\n常に冷静沈着。手段を選ばない「サベッチハンマー」に\r\nおいて、プライドを持って行動している。　　　　　　\r\n搭乗ゾイドは「バーサークフューラー」。　　　　　　",
+  "en": "RD's rival.\r\nA pilot for the battle team Savage Hammer.\r\nAlways calm and collected. On a team that will\r\ndo anything to win, he acts with pride.\r\nHis Zoid is the Berserk Fury.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man102.txt",
+  "bytes": 258,
+  "ja": "バトルチーム「サベッチハンマー」のパイロット。　　\r\n言葉づかいこそ丁寧だが、その言動は尊大。　　　　　\r\n搭乗ゾイドは「ロードゲイル」。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A pilot for the battle team Savage Hammer.\r\nHis speech is polite, but his words and\r\nactions are arrogant.\r\nHis Zoid is the Lord Gale.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man103.txt",
+  "bytes": 258,
+  "ja": "ブルーシティ治安局の鬼チーフ。　　　　　　　　　　\r\n彼と彼の搭乗するゴジュラスギガは、　　　　　　　　\r\n悪党達から怖れられる存在。　　　　　　　　　　　　\r\n常に街の治安に目を光らせている。　　　　　　　　　\r\n搭乗ゾイドは「ゴジュラスギガ」。　　　　　　　　　",
+  "en": "The fearsome chief of the Blue City\r\nPeacekeeping Bureau. Crooks dread him and the\r\nGojulas Giga he rides. He always keeps a sharp\r\neye on the safety of the city.\r\nHis Zoid is the Gojulas Giga.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man104.txt",
+  "bytes": 258,
+  "ja": "ガミーの部下で治安局の女性局員。　　　　　　　　　\r\n血気盛んでマジメな性格。　　　　　　　　　　　　　\r\n搭乗ゾイドは「アロザウラー」。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A Peacekeeping Officer who works under Gummie.\r\nShe is hot-blooded and serious.\r\nHer Zoid is the Arosaurer.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man105.txt",
+  "bytes": 258,
+  "ja": "トップクラスのバトルチーム「ブラックインパクト」の\r\nチームリーダー。　　　　　　　　　　　　　　　　　\r\nブルーシティを代表するスター選手。　　　　　　　　\r\n父親はチームのスポンサーであり、大企業の社長。　　\r\n搭乗ゾイドは「ブレードライガー」。　　　　　　　　",
+  "en": "The leader of Black Impact, a top-class battle\r\nteam. A star fighter who represents Blue City.\r\nHis father is the team's sponsor and the\r\npresident of a major corporation.\r\nHis Zoid is the Blade Liger.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man106.txt",
+  "bytes": 258,
+  "ja": "バトルチーム「ドラールス」のパイロット。　　　　　\r\nラトルとは双子の兄弟。　　　　　　　　　　　　　　\r\nサンドラと知り合いで「マッハストーム」　　　　　　\r\n打倒に手を貸す。　　　　　　　　　　　　　　　　　\r\n搭乗ゾイドは「ダークスパイナー」。　　　　　　　　",
+  "en": "A pilot for the battle team Dark Assassins.\r\nHe and Rattle are twin brothers.\r\nHe knows Sandra and lends her a hand in taking\r\ndown Mach Storm.\r\nHis Zoid is the Dark Spiner.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man107.txt",
+  "bytes": 258,
+  "ja": "バトルチーム「ドラールス」のパイロット。　　　　　\r\nマロイとは双子の兄弟。　　　　　　　　　　　　　　\r\nマロイと共に「マッハストーム」と戦う。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A pilot for the battle team Dark Assassins.\r\nHe and Malloy are twin brothers.\r\nHe fights Mach Storm alongside Malloy.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man108.txt",
+  "bytes": 258,
+  "ja": "ジャンクゾーンを根城にする　　　　　　　　　　　　\r\n野盗「ボーン一家」の頭目。　　　　　　　　　　　　\r\nサマンサとは夫婦。　　　　　　　　　　　　　　　　\r\n搭乗ゾイドは「ブラキオレックス」。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The boss of the Vaughn Gang, a band of outlaws\r\nbased in the Junk Zone.\r\nHe and Samantha are husband and wife.\r\nHis Zoid is the Brachio Rex.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man109.txt",
+  "bytes": 258,
+  "ja": "ジャンクゾーンを根城にする　　　　　　　　　　　　\r\n野盗「ボーン一家」の副頭目。　　　　　　　　　　　\r\n搭乗ゾイドである「ミサイルトータス」と　　　　　　\r\nボーンの「ブラキオレックス」とのコンビで　　　　　\r\nジャンクゾーンの魔物、と恐れられる。　　　　　　　",
+  "en": "The second-in-command of the Vaughn Gang, a\r\nband of outlaws based in the Junk Zone.\r\nHer Missile Tortoise and Vaughn's Brachio Rex\r\nmake a pair feared as the monsters of the\r\nJunk Zone.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man110.txt",
+  "bytes": 258,
+  "ja": "Ｚｉファイター。エミーと知り合いらしい。　　　　　\r\nＮＯ．１のゾイドパイロットであることに異常なまでの\r\n執着心を燃やす。　　　　　　　　　　　　　　　　　\r\n己の強さを証明するためゾイド狩りを行なう。　　　　\r\n搭乗ゾイドは「セイバータイガーホロテック」。　　　",
+  "en": "A Zi Fighter who seems to know Amy.\r\nHe burns with an abnormal obsession with being\r\nthe No. 1 Zoid pilot. To prove his strength,\r\nhe goes around hunting Zoids.\r\nHis Zoid is the Zaber Fang Holotech.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man111.txt",
+  "bytes": 258,
+  "ja": "ミラクルサーカスの団員。空中曲芸が得意。　　　　　\r\n様々なゾイドの特性に詳しく、　　　　　　　　　　　\r\nマットの操作ミスによって暴走したゾイドを　　　　　\r\n止めてくれた。　　　　　　　　　　　　　　　　　　\r\n搭乗ゾイドは「アロザウラー」。　　　　　　　　　　",
+  "en": "A member of the Miracle Circus who is skilled\r\nat aerial acrobatics. Knows the traits of many\r\nkinds of Zoids, and stopped a Zoid that went\r\nout of control after Matt's piloting mistake.\r\nPilots the Arosaurer.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man112.txt",
+  "bytes": 258,
+  "ja": "ローズシティのトップ・Ｚｉファイター。　　　　　　\r\n「地獄の破壊王」の異名を持つ、　　　　　　　　　　\r\n歴戦のベテランパイロット。　　　　　　　　　　　　\r\n搭乗ゾイドは「ジェノザウラー」。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "The top Zi Fighter of Rose City.\r\nA battle-hardened veteran pilot known as\r\nHell's Destroyer King.\r\nHis Zoid is the Geno Saurer.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man113.txt",
+  "bytes": 258,
+  "ja": "男女ともに戦士として育てられるという、　　　　　　\r\n東方の国「サクイ」の国から来た、三人組の一人。　　\r\n豪傑風の巨漢で、三人のリーダー格。　　　　　　　　\r\n搭乗ゾイドは「グラビティーウルフ」。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "One of a trio from Sakui, an eastern land\r\nwhere men and women alike are raised as\r\nwarriors. A giant of a man with a hero's air,\r\nhe is the leader of the three.\r\nHis Zoid is the Gravity Wolf.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man114.txt",
+  "bytes": 258,
+  "ja": "東方の国「サクイ」の国から来た、三人組の一人。　　\r\n三人の中では一番の常識人。　　　　　　　　　　　　\r\n搭乗ゾイドは「グラビティーザウラー」。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "One of a trio from the eastern land of Sakui.\r\nThe one with the most common sense of the\r\nthree.\r\nPilots the Gravity Saurer.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man115.txt",
+  "bytes": 258,
+  "ja": "東方の国「サクイ」の国から来た、三人組の一人。　　\r\n忍者のような装束。無口で、普段はあまり喋らない。　\r\n搭乗ゾイドは「グラビティーサイクス」。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "One of a trio from the eastern land of Sakui.\r\nDressed like a ninja. Quiet, and rarely speaks.\r\nPilots the Gravity Saix.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man116.txt",
+  "bytes": 258,
+  "ja": "ゾイドパイロット。元「マッハストーム」のメンバー。\r\nマスクマンとは友人でありライバル。　　　　　　　　\r\nシグマにとって憧れの存在。　　　　　　　　　　　　\r\nだがある時、事件を起こし投獄される。　　　　　　　\r\n搭乗ゾイドは「シャドーフォックス」。　　　　　　　",
+  "en": "A Zoid pilot and former member of Mach Storm.\r\nBoth a friend and a rival to Masked Man, and\r\nsomeone Sigma looks up to. One day, however,\r\nhe causes an incident and is sent to prison.\r\nHis Zoid is the Shadow Fox.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man117.txt",
+  "bytes": 258,
+  "ja": "バトルチーム「サベッチハンマー」のパイロット。　　\r\nメカに詳しく、理知的で冷静な少年。　　　　　　　　\r\n自由に生きるブレードに憧れている。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A pilot for the battle team Savage Hammer.\r\nA calm, intelligent boy who knows machines\r\nwell.\r\nHe admires Blake for living freely.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man118.txt",
+  "bytes": 258,
+  "ja": "謎の男。　　　　　　　　　　　　　　　　　　　　　\r\n巨大企業の会長らしいこと以外、　　　　　　　　　　\r\nその紳士的態度からは、うかがい知ることができない。\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A mysterious man.\r\nBeyond the fact that he seems to be the\r\nchairman of a giant corporation, his\r\ngentlemanly manner gives nothing away.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man119.txt",
+  "bytes": 258,
+  "ja": "バトルチーム「サベッチハンマー」のパイロット。　　\r\nメカに詳しく、理知的で冷静な少年。　　　　　　　　\r\n自由に生きるブレードに憧れている。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A pilot for the battle team Savage Hammer.\r\nA calm, intelligent boy who knows machines\r\nwell.\r\nHe admires Blake for living freely.",
+  "cap": 397
+ },
+ {
+  "id": "chara/man120.txt",
+  "bytes": 258,
+  "ja": "謎の男。　　　　　　　　　　　　　　　　　　　　　\r\n巨大企業の会長らしいこと以外、　　　　　　　　　　\r\nその紳士的態度からは、うかがい知ることができない。\r\n　　　　　　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": "A mysterious man.\r\nBeyond the fact that he seems to be the\r\nchairman of a giant corporation, his\r\ngentlemanly manner gives nothing away.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp000.txt",
+  "bytes": 15,
+  "ja": "武器000の\r\n説明",
+  "en": "Description of weapon 000.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp001.txt",
+  "bytes": 166,
+  "ja": "カノントータス専用の武装。　　　　　　　\r\n単発の長距離キャノン砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cannon Tortoise-exclusive weapon.\r\nSingle-shot long-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp002.txt",
+  "bytes": 166,
+  "ja": "連射力のある、ビームバルカン武器。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rapid-fire beam vulcan weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp003.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp004.txt",
+  "bytes": 166,
+  "ja": "ディバイソン専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dibison-exclusive weapon. Mid-range beam\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp005.txt",
+  "bytes": 166,
+  "ja": "ディバイソン専用の武装。　　　　　　　　\r\n長距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dibison-exclusive weapon. Long-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp006.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp007.txt",
+  "bytes": 166,
+  "ja": "カノントータスの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cannon Tortoise's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp008.txt",
+  "bytes": 166,
+  "ja": "モルガ専用の武装。　　　　　　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Molga-exclusive weapon. Vulcan weapon\r\nthat fires several rounds in a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp009.txt",
+  "bytes": 166,
+  "ja": "モルガ専用の武装。　　　　　　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Molga-exclusive weapon. Long-range\r\nmissile. Its homing performance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp010.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp011.txt",
+  "bytes": 166,
+  "ja": "シンカー専用の武装。　　　　　　　　　　\r\n連射力のある、ビームバルカン武器。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sinker-exclusive weapon. Rapid-fire beam\r\nvulcan weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp012.txt",
+  "bytes": 166,
+  "ja": "単発の長距離キャノン砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Single-shot long-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp013.txt",
+  "bytes": 166,
+  "ja": "シンカー専用の武装。　　　　　　　　　　\r\n４連装の長距離ミサイル。　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sinker-exclusive weapon. 4-barrel\r\nlong-range missiles. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp014.txt",
+  "bytes": 166,
+  "ja": "ヘルキャット専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Helcat-exclusive weapon. Mid-range beam\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp015.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp016.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp017.txt",
+  "bytes": 166,
+  "ja": "ヘルキャット専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Helcat-exclusive weapon. Mid-range beam\r\ncannon. It is light, so equipping it\r\ncarries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp018.txt",
+  "bytes": 166,
+  "ja": "シールドライガー専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Shield Liger-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp019.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp020.txt",
+  "bytes": 166,
+  "ja": "長距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp021.txt",
+  "bytes": 166,
+  "ja": "中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp022.txt",
+  "bytes": 166,
+  "ja": "エレファンダ―専用の武装。　　　　　　　\r\nアイアンクローでの格闘武器。　　　　　　\r\n射程距離は短いが、威力は絶大。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Elephander-exclusive weapon. Melee\r\nweapon that strikes with the Iron Claw.\r\nIts range is short, but its power is\r\nimmense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp023.txt",
+  "bytes": 166,
+  "ja": "エレファンダ―専用の武装。　　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n自機の後方に攻撃が可能で、敵機との距離を\r\nとりたい場合に力を発揮する。　　　　　　",
+  "en": "Elephander-exclusive weapon. Vulcan\r\nweapon that fires several rounds in a\r\nrow. It can attack behind your Zoid,\r\nwhich helps when you want distance from\r\nthe enemy.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp024.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n２種類のビーム砲を撃つ。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It fires two\r\nkinds of beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp025.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp026.txt",
+  "bytes": 166,
+  "ja": "ミサイルとガトリングを兼ね備えた武器。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines missiles and a\r\ngatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp027.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp028.txt",
+  "bytes": 166,
+  "ja": "ガンスナイパー専用の武装。　　　　　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gun Sniper-exclusive weapon. Multi-shot\r\nmissile weapon. Its homing performance\r\nis high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp029.txt",
+  "bytes": 166,
+  "ja": "ガンスナイパー専用の武装。　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gun Sniper-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp030.txt",
+  "bytes": 166,
+  "ja": "ガンスナイパー専用の武装。　　　　　　　\r\n使用時にはスナイパーモードへ移行。　　　\r\n隙は大きいが、後方からの援護では力を発揮\r\nする。　　　　　　　　　　　　　　　　　",
+  "en": "Gun Sniper-exclusive weapon. It shifts\r\nto Sniper Mode when used. It leaves you\r\nwide open, but it excels at support from\r\nthe rear.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp031.txt",
+  "bytes": 166,
+  "ja": "ジェノハイドラ専用の武装。　　　　　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Hydra-exclusive weapon. Multi-shot\r\nmissile weapon. Its homing performance\r\nis high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp032.txt",
+  "bytes": 166,
+  "ja": "ジェノハイドラ専用の武装。　　　　　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Hydra-exclusive weapon. Multi-shot\r\nmissile weapon. Its homing performance\r\nis high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp033.txt",
+  "bytes": 166,
+  "ja": "ジェノハイドラ専用の武装。　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Hydra-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp034.txt",
+  "bytes": 166,
+  "ja": "トリニティライガー専用の武装。　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Trinity Liger-exclusive weapon.\r\nMid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp035.txt",
+  "bytes": 166,
+  "ja": "トリニティライガー専用の武装。　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Trinity Liger-exclusive weapon.\r\nMid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp036.txt",
+  "bytes": 166,
+  "ja": "コマンドウルフの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Command Wolf's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp037.txt",
+  "bytes": 166,
+  "ja": "ディバイソンの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dibison's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp038.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp039.txt",
+  "bytes": 166,
+  "ja": "モルガの必殺技　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Molga's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp040.txt",
+  "bytes": 166,
+  "ja": "バーサークフューラーの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Berserk Fury's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp041.txt",
+  "bytes": 166,
+  "ja": "ケーニッヒウルフの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Konig Wolf's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp042.txt",
+  "bytes": 166,
+  "ja": "ブリッツタイガー専用の武装。　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blitz Tiger-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp043.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽いので、装備するリスクが少ない。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp044.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽いので、装備するリスクが少ない。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp045.txt",
+  "bytes": 166,
+  "ja": "ブリッツタイガー専用の武装。　　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blitz Tiger-exclusive weapon. It boasts\r\nabsolute strength at close range. It\r\nslashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp046.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽いので装備するリスクが少ない。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp047.txt",
+  "bytes": 166,
+  "ja": "弾が数発連続で発射される、バルカン武器。\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Vulcan weapon that fires several rounds\r\nin a row. It is light, so equipping it\r\ncarries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp048.txt",
+  "bytes": 166,
+  "ja": "ゴジュラス専用の武装。　　　　　　　　　\r\n長距離キャノン砲。　　　　　　　　　　　\r\n遠距離からの攻撃で、力を発揮する。　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas-exclusive weapon. Long-range\r\ncannon. It excels in attacks from long\r\nrange.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp049.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp050.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp051.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp052.txt",
+  "bytes": 166,
+  "ja": "ブレードライガーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blade Liger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp053.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp054.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp055.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp056.txt",
+  "bytes": 166,
+  "ja": "中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp057.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp058.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp059.txt",
+  "bytes": 166,
+  "ja": "狙撃用ライフル。　　　　　　　　　　　　\r\n使用時にはスナイパーモードへ移行。　　　\r\n隙は大きいが、後方からの援護では力を発揮\r\nする。　　　　　　　　　　　　　　　　　",
+  "en": "Sniper rifle. It shifts to Sniper Mode\r\nwhen used. It leaves you wide open, but\r\nit excels at support from the rear.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp060.txt",
+  "bytes": 166,
+  "ja": "中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp061.txt",
+  "bytes": 166,
+  "ja": "弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Vulcan weapon that fires several rounds\r\nin a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp062.txt",
+  "bytes": 166,
+  "ja": "シャドーフォックスの専用武装。　　　　　\r\n自機の後方に攻撃が可能で、敵機との距離を\r\nとりたい場合に力を発揮する。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Shadow Fox-exclusive weapon. It can\r\nattack behind your Zoid, which helps\r\nwhen you want distance from the enemy.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp063.txt",
+  "bytes": 166,
+  "ja": "エレファンダ―ストラ仕様専用の武装。　　\r\nＥＳＣＳユニットでの格闘武器。　　　　　\r\n射程距離は短いが、威力は絶大。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Elephander Stoller Type-exclusive\r\nweapon. Melee weapon that strikes with\r\nthe ESCS Unit. Its range is short, but\r\nits power is immense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp064.txt",
+  "bytes": 166,
+  "ja": "イエーガーの専用武装。　　　　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Jaeger-exclusive weapon. Vulcan weapon\r\nthat fires several rounds in a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp065.txt",
+  "bytes": 166,
+  "ja": "中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp066.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp067.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp068.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp069.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp070.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp071.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp072.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロパンツァー専用の武装。　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Panzer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp073.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロイクスの専用武装。　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero X-exclusive weapon. It boasts\r\nabsolute strength at close range. It\r\nslashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp074.txt",
+  "bytes": 166,
+  "ja": "スナイプマスター専用の長距離武装。　　　\r\n使用時にはスナイパーモードへ移行。　　　\r\n隙は大きいが、後方からの援護では力を発揮\r\nする。　　　　　　　　　　　　　　　　　",
+  "en": "Snipe Master-exclusive long-range\r\nweapon. It shifts to Sniper Mode when\r\nused. It leaves you wide open, but it\r\nexcels at support from the rear.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp075.txt",
+  "bytes": 166,
+  "ja": "単発のビーム砲。　　　　　　　　　　　　\r\n内蔵ブースターが搭載で、最高速ＵＰ。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Single-shot beam cannon. Its built-in\r\nbooster raises top speed.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp076.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp077.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\nシールドが装備され、装甲がＵＰ。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. Its attached\r\nshield raises armor.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp078.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp079.txt",
+  "bytes": 166,
+  "ja": "ケーニッヒウルフ専用の武装。　　　　　　\r\n使用時にはスナイパーモードへ移行。　　　\r\n隙は大きいが、後方からの援護では力を発揮\r\nする。　　　　　　　　　　　　　　　　　",
+  "en": "Konig Wolf-exclusive weapon. It shifts\r\nto Sniper Mode when used. It leaves you\r\nwide open, but it excels at support from\r\nthe rear.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp080.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp081.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp082.txt",
+  "bytes": 166,
+  "ja": "ウルトラザウルス専用の武装。　　　　　　\r\n長距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Ultrasaurus-exclusive weapon. Long-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp083.txt",
+  "bytes": 166,
+  "ja": "ウルトラザウルス専用の武装。　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Ultrasaurus-exclusive weapon. Long-range\r\nmissile. Its homing performance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp084.txt",
+  "bytes": 166,
+  "ja": "ウルトラザウルス専用の武装。　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Ultrasaurus-exclusive weapon. Long-range\r\nmissile. Its homing performance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp085.txt",
+  "bytes": 166,
+  "ja": "ウルトラザウルス専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Ultrasaurus-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp086.txt",
+  "bytes": 166,
+  "ja": "ウルトラザウルス専用の武装。　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Ultrasaurus-exclusive weapon. Long-range\r\nmissile.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp087.txt",
+  "bytes": 166,
+  "ja": "ウルトラザウルス専用の武装。　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n自機の後方に攻撃が可能。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Ultrasaurus-exclusive weapon. Long-range\r\nmissile. It can attack behind your Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp088.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロイエーガーの必殺技　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Jaeger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp089.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロシュナイダーの必殺技　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Schneider's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp090.txt",
+  "bytes": 166,
+  "ja": "マッドサンダー専用の武装。　　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mad Thunder-exclusive weapon. Long-range\r\nmissile. Its homing performance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp091.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp092.txt",
+  "bytes": 166,
+  "ja": "ＬＺパンツァーの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "LZ Panzer's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp093.txt",
+  "bytes": 166,
+  "ja": "マッドサンダー専用の武装。　　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mad Thunder-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp094.txt",
+  "bytes": 166,
+  "ja": "マッドサンダー専用の武装。　　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mad Thunder-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp095.txt",
+  "bytes": 166,
+  "ja": "マッドサンダー専用の武装。　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n自機の後方に攻撃が可能。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mad Thunder-exclusive weapon. Mid-range\r\nbeam cannon. It can attack behind your\r\nZoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp096.txt",
+  "bytes": 166,
+  "ja": "マッドサンダー専用の武装。　　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mad Thunder-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp097.txt",
+  "bytes": 166,
+  "ja": "近距離噴射砲。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Close-range spray cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp098.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp099.txt",
+  "bytes": 166,
+  "ja": "シンカー専用のＥシールド。　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sinker-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp100.txt",
+  "bytes": 166,
+  "ja": "ヘルキャット専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Helcat-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp101.txt",
+  "bytes": 166,
+  "ja": "ヘルキャット専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Helcat-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp102.txt",
+  "bytes": 166,
+  "ja": "シールドライガー系、ライガーエアロの　　\r\nブースター。　　　　　　　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Booster for the Shield Liger line and\r\nthe Liger Aero. It raises top speed for\r\na set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp103.txt",
+  "bytes": 166,
+  "ja": "シールドライガー系専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "E-Shield exclusive to the Shield Liger\r\nline. It blocks a set amount of damage\r\nfrom frontal attacks. It can also be\r\nused to attack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp104.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロイクスの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero X's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp105.txt",
+  "bytes": 166,
+  "ja": "レイズタイガーの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rayse Tiger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp106.txt",
+  "bytes": 166,
+  "ja": "ライトニングサイクスの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lightning Saix's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp107.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n重量が軽く、装備のリスクが少ない。　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It is light, so\r\nequipping it carries little risk.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp108.txt",
+  "bytes": 166,
+  "ja": "ライガーエアロ専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Aero-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp109.txt",
+  "bytes": 166,
+  "ja": "アイアンコング専用の武装。　　　　　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Iron Kong-exclusive weapon. Multi-shot\r\nmissile weapon. Its homing performance\r\nis high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp110.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp111.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp112.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp113.txt",
+  "bytes": 166,
+  "ja": "ライトニングサイクス専用の武装。　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lightning Saix-exclusive weapon.\r\nMid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp114.txt",
+  "bytes": 166,
+  "ja": "ライトニングサイクス専用の中距離武装。　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lightning Saix-exclusive mid-range\r\nweapon. Vulcan weapon that fires several\r\nrounds in a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp115.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp116.txt",
+  "bytes": 166,
+  "ja": "ジェノザウラー専用の中距離武装。　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Saurer-exclusive mid-range weapon.\r\nMid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp117.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp118.txt",
+  "bytes": 166,
+  "ja": "プロトセイバー専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Proto Saber-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp119.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp120.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp121.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp122.txt",
+  "bytes": 166,
+  "ja": "弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Vulcan weapon that fires several rounds\r\nin a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp123.txt",
+  "bytes": 166,
+  "ja": "ダークスパイナー専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dark Spiner-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp124.txt",
+  "bytes": 166,
+  "ja": "エレファンダー専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Elephander-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp125.txt",
+  "bytes": 166,
+  "ja": "エレファンダー専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Elephander-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp126.txt",
+  "bytes": 166,
+  "ja": "ディアブロタイガーα専用の武装。　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Diablo Tiger Alpha-exclusive weapon.\r\nMid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp127.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp128.txt",
+  "bytes": 166,
+  "ja": "ジェノハイドラ専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Hydra-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp129.txt",
+  "bytes": 166,
+  "ja": "トリニティライガー専用のブースター。　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Trinity Liger-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp130.txt",
+  "bytes": 166,
+  "ja": "レブラプター専用の武装。　　　　　　　　\r\nパイルバンカーでの格闘武器。　　　　　　\r\n射程距離は短く、威力は絶大。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rev Raptor-exclusive weapon. Melee\r\nweapon that strikes with the Pile\r\nBunker. Its range is short and its power\r\nis immense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp131.txt",
+  "bytes": 166,
+  "ja": "パイルバンカーでの格闘武器。　　　　　　\r\n射程距離は短く、威力は絶大。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Melee weapon that strikes with the Pile\r\nBunker. Its range is short and its power\r\nis immense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp132.txt",
+  "bytes": 166,
+  "ja": "ブリッツタイガー専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blitz Tiger-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp133.txt",
+  "bytes": 166,
+  "ja": "レブラプター専用の武装。　　　　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rev Raptor-exclusive weapon. It boasts\r\nabsolute strength at close range. It\r\nslashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp134.txt",
+  "bytes": 166,
+  "ja": "グリフォン専用のブースター。　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gryphon-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp135.txt",
+  "bytes": 166,
+  "ja": "シンカー専用のブースター。　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sinker-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp136.txt",
+  "bytes": 166,
+  "ja": "キメラドラゴン専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Chimera Dragon-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp137.txt",
+  "bytes": 166,
+  "ja": "ダブルアームリザード専用のブースター。　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Double-arm Lizard-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp138.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n自機の後方に攻撃が可能で、敵機との距離を\r\nとりたい場合に力を発揮する。　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high. It can attack\r\nbehind your Zoid, which helps when you\r\nwant distance from the enemy.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp139.txt",
+  "bytes": 166,
+  "ja": "ゴジュラスの必殺技　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp140.txt",
+  "bytes": 166,
+  "ja": "ジェノブレイカーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Breaker's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp141.txt",
+  "bytes": 166,
+  "ja": "デスザウラー専用の武装。　　　　　　　　\r\n強力な威力を持ち、大ダメージを与える。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Saurer-exclusive weapon. It has\r\ntremendous power and deals heavy damage.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp142.txt",
+  "bytes": 166,
+  "ja": "ロードゲイル専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lord Gale-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp143.txt",
+  "bytes": 166,
+  "ja": "マトリクスドラゴン専用のブースター。　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Matrix Dragon-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp144.txt",
+  "bytes": 166,
+  "ja": "ジェノハイドラ専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Hydra-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp145.txt",
+  "bytes": 166,
+  "ja": "シャドーフォックスの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Shadow Fox's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp146.txt",
+  "bytes": 166,
+  "ja": "ガンスナイパー専用の武装。　　　　　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gun Sniper-exclusive weapon. Multi-shot\r\nmissile weapon. Its homing performance\r\nis high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp147.txt",
+  "bytes": 166,
+  "ja": "トリニティライガー専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Trinity Liger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp148.txt",
+  "bytes": 166,
+  "ja": "ブリッツタイガー専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blitz Tiger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp149.txt",
+  "bytes": 166,
+  "ja": "グリフォン専用のＥシールド。　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gryphon-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp150.txt",
+  "bytes": 166,
+  "ja": "レブラプターの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rev Raptor's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp151.txt",
+  "bytes": 166,
+  "ja": "キメラドラゴン専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Chimera Dragon-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp152.txt",
+  "bytes": 166,
+  "ja": "ジェノザウラーの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Saurer's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp153.txt",
+  "bytes": 166,
+  "ja": "ダブルアームリザード専用のＥシールド。　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Double-arm Lizard-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp154.txt",
+  "bytes": 166,
+  "ja": "アイアンコングの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Iron Kong's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp155.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロファルコン専用のＥシールド。\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Falcon-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp156.txt",
+  "bytes": 166,
+  "ja": "ロードゲイル専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lord Gale-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp157.txt",
+  "bytes": 166,
+  "ja": "セイバータイガーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zaber Fang's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp158.txt",
+  "bytes": 166,
+  "ja": "ブレードライガー専用の武装。　　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blade Liger-exclusive weapon. It boasts\r\nabsolute strength at close range. It\r\nslashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp159.txt",
+  "bytes": 166,
+  "ja": "ボルドガルド専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Bold Guard-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp160.txt",
+  "bytes": 166,
+  "ja": "マトリクスドラゴン専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Matrix Dragon-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp161.txt",
+  "bytes": 166,
+  "ja": "長距離キャノン砲。　　　　　　　　　　　\r\n武器として、とても優れている。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range cannon. It is an excellent\r\nweapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp162.txt",
+  "bytes": 166,
+  "ja": "ゴジュラスギガの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas Giga's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp163.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp164.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp165.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp166.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n攻撃範囲が広く、複数の敵機を攻撃できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Mid-range\r\nbeam cannon. Its wide attack area can\r\nhit several enemy Zoids.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp167.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロシュナイダー専用の武装。　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Schneider-exclusive weapon.\r\nIt boasts absolute strength at close\r\nrange. It slashes enemy Zoids while\r\nmoving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp168.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\nすべてを消し去る荷電粒子砲。　　　　　　\r\n武器として、とても優れている。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Charged\r\nParticle Cannon that wipes out\r\neverything. It is an excellent weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp169.txt",
+  "bytes": 166,
+  "ja": "ＢＦシュトゥルムの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "BF Sturm's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp170.txt",
+  "bytes": 166,
+  "ja": "中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp171.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロイクス専用の武装。　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero X-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp172.txt",
+  "bytes": 166,
+  "ja": "スナイプマスター専用の武装。　　　　　　\r\n強力な爪での格闘武器。　　　　　　　　　\r\n射程距離は短いが、威力は絶大。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Snipe Master-exclusive weapon. Melee\r\nweapon that strikes with powerful claws.\r\nIts range is short, but its power is\r\nimmense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp173.txt",
+  "bytes": 166,
+  "ja": "プロトセイバー専用の武装。　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Proto Saber-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp174.txt",
+  "bytes": 166,
+  "ja": "スナイプマスターの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Snipe Master's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp175.txt",
+  "bytes": 166,
+  "ja": "デススティンガー専用の武装。　　　　　　\r\n強力な威力を持ち、大ダメージを与える。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Stinger-exclusive weapon. It has\r\ntremendous power and deals heavy damage.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp176.txt",
+  "bytes": 166,
+  "ja": "スナイプマスター専用の武装。　　　　　　\r\nストライクトンファーでの格闘武器。　　　\r\n射程距離は短いが、威力は絶大。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Snipe Master-exclusive weapon. Melee\r\nweapon that strikes with the Strike\r\nTonfa. Its range is short, but its power\r\nis immense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp177.txt",
+  "bytes": 166,
+  "ja": "エナジーライガー専用の武装。　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Energy Liger-exclusive weapon. Mid-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp178.txt",
+  "bytes": 166,
+  "ja": "エナジーライガー専用の武装。　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Energy Liger-exclusive weapon. Vulcan\r\nweapon that fires several rounds in a\r\nrow.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp179.txt",
+  "bytes": 166,
+  "ja": "ストームソーダー専用の武装。　　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Storm Sworder-exclusive weapon. It\r\nboasts absolute strength at close range.\r\nIt slashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp180.txt",
+  "bytes": 166,
+  "ja": "ゴジュラスギガ専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas Giga-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp181.txt",
+  "bytes": 166,
+  "ja": "ゴジュラスギガ専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas Giga-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp182.txt",
+  "bytes": 166,
+  "ja": "ゴジュラスギガ専用の武装。　　　　　　　\r\n強力なシッポでの格闘武器。　　　　　　　\r\n射程距離は短いが、威力は絶大。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas Giga-exclusive weapon. Melee\r\nweapon that strikes with a powerful\r\ntail. Its range is short, but its power\r\nis immense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp183.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロフェニックス専用の武装。　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Phoenix-exclusive weapon.\r\nVulcan weapon that fires several rounds\r\nin a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp184.txt",
+  "bytes": 166,
+  "ja": "サラマンダー専用の武装。　　　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Salamander-exclusive weapon. Vulcan\r\nweapon that fires several rounds in a\r\nrow.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp185.txt",
+  "bytes": 166,
+  "ja": "サラマンダー専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Salamander-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp186.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“レオストライカー”の　　　　　\r\nパーツから作った中距離ビーム砲。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon built from parts\r\nof the Blox \"Leo Striker\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp187.txt",
+  "bytes": 166,
+  "ja": "サイクロプス弐式専用の武装。　　　　　　\r\n中長距離キャノン砲。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type II-exclusive weapon.\r\nMid-to-long-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp188.txt",
+  "bytes": 166,
+  "ja": "サラマンダー専用の武装。　　　　　　　　\r\n火炎放射器で、広範囲に攻撃可能。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Salamander-exclusive weapon.\r\nFlamethrower that can attack a wide\r\narea.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp189.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロフェニックス専用の武装。　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Phoenix-exclusive weapon.\r\nMid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp190.txt",
+  "bytes": 166,
+  "ja": "ザバット専用の武装。　　　　　　　　　　\r\n地面を走り、ターゲットを狙う、　　　　　\r\n自走式誘導爆弾。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zabat-exclusive weapon. Self-propelled\r\nhoming bomb that runs along the ground\r\ntoward its target.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp191.txt",
+  "bytes": 166,
+  "ja": "ダークスパイナーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dark Spiner's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp192.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“シェルカーン”のパーツから　　\r\n作った中距離ビーム砲。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon built from parts\r\nof the Blox \"Shellkarn\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp193.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“フライシザース”のパーツから　\r\n作った中距離ビーム砲。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon built from parts\r\nof the Blox \"Flyscissors\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp194.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“ナイトワイズ”のパーツから　　\r\n作った長距離ミサイル。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile built from parts of\r\nthe Blox \"Nightwise\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp195.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“モサスレッジ”のパーツから　　\r\n作った長距離ミサイル。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile built from parts of\r\nthe Blox \"Mosasledge\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp196.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“ウネンラギア”のパーツから　　\r\n作った中距離ビーム砲。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon built from parts\r\nof the Blox \"Unenlagia\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp197.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“ディプロガンズ”のパーツから　\r\n作った中距離ビーム砲。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon built from parts\r\nof the Blox \"Diploguns\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp198.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“デモンズヘッド”のパーツから　\r\n作った中距離キャノン砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range cannon built from parts of the\r\nBlox \"Demonshead\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp199.txt",
+  "bytes": 166,
+  "ja": "ＢＬＯＸ“レオブレイズ”のパーツから　　\r\n作った中距離ビーム砲。　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon built from parts\r\nof the Blox \"Leoblaze\".",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp200.txt",
+  "bytes": 166,
+  "ja": "ディアブロタイガーαの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Diablo Tiger Alpha's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp201.txt",
+  "bytes": 166,
+  "ja": "ディアブロタイガーβの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Diablo Tiger Beta's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp202.txt",
+  "bytes": 166,
+  "ja": "サイクロプス弐式の必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type II's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp203.txt",
+  "bytes": 166,
+  "ja": "アロザウラーの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Arosaurer's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp204.txt",
+  "bytes": 166,
+  "ja": "グラビティーウルフの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Wolf's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp205.txt",
+  "bytes": 166,
+  "ja": "グラビティーサイクスの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saix's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp206.txt",
+  "bytes": 166,
+  "ja": "サイクロプス壱式の必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type I's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp207.txt",
+  "bytes": 166,
+  "ja": "シンカーの必殺技　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Sinker's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp208.txt",
+  "bytes": 166,
+  "ja": "ヘルキャットの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Helcat's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp209.txt",
+  "bytes": 166,
+  "ja": "シールドライガーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Shield Liger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp210.txt",
+  "bytes": 166,
+  "ja": "ライガーエアロの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Aero's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp211.txt",
+  "bytes": 166,
+  "ja": "プロトセイバーの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Proto Saber's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp212.txt",
+  "bytes": 166,
+  "ja": "エレファンダーの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Elephander's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp213.txt",
+  "bytes": 166,
+  "ja": "ジェノハイドラの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Hydra's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp214.txt",
+  "bytes": 166,
+  "ja": "トリニティライガーの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Trinity Liger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp215.txt",
+  "bytes": 166,
+  "ja": "ブリッツタイガーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blitz Tiger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp216.txt",
+  "bytes": 166,
+  "ja": "キメラドラゴンの必殺技　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Chimera Dragon's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp217.txt",
+  "bytes": 166,
+  "ja": "ダブルアームリザードの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Double-arm Lizard's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp218.txt",
+  "bytes": 166,
+  "ja": "ロードゲイルの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lord Gale's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp219.txt",
+  "bytes": 166,
+  "ja": "マトリクスドラゴンの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Matrix Dragon's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp220.txt",
+  "bytes": 166,
+  "ja": "グラビティーザウラーの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saurer's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp221.txt",
+  "bytes": 166,
+  "ja": "レドラーの必殺技　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Redler's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp222.txt",
+  "bytes": 166,
+  "ja": "グリフォンの必殺技　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gryphon's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp223.txt",
+  "bytes": 166,
+  "ja": "凱龍輝の必殺技　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gairyuki's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp224.txt",
+  "bytes": 166,
+  "ja": "エナジーライガーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Energy Liger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp225.txt",
+  "bytes": 166,
+  "ja": "ライガーフェニックスの必殺技　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Phoenix's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp226.txt",
+  "bytes": 166,
+  "ja": "グスタフの必殺技　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gustav's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp227.txt",
+  "bytes": 166,
+  "ja": "ブラキオファイヤーの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Fire's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp228.txt",
+  "bytes": 166,
+  "ja": "バスターフューラーの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buster Fury's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp229.txt",
+  "bytes": 166,
+  "ja": "ボルドガルドの必殺技　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Bold Guard's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp230.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロファルコンの必殺技　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Falcon's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp231.txt",
+  "bytes": 166,
+  "ja": "ザバットの必殺技　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zabat's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp232.txt",
+  "bytes": 166,
+  "ja": "プテラスの必殺技　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp233.txt",
+  "bytes": 166,
+  "ja": "ストームソーダーの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Storm Sworder's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp234.txt",
+  "bytes": 166,
+  "ja": "デカルトドラゴンの必殺技　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Decalto Dragon's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp235.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガーの必殺技　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger's special attack.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp236.txt",
+  "bytes": 166,
+  "ja": "レドラー専用のブースター。　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Redler-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp237.txt",
+  "bytes": 166,
+  "ja": "レドラー専用のＥシールド。　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Redler-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp238.txt",
+  "bytes": 166,
+  "ja": "レドラー専用の武装。　　　　　　　　　　\r\n下のターゲットに対して攻撃する、　　　　\r\n投下型爆弾。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Redler-exclusive weapon. Drop bomb that\r\nattacks targets below.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp239.txt",
+  "bytes": 166,
+  "ja": "レドラー専用の武装。　　　　　　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Redler-exclusive weapon. It boasts\r\nabsolute strength at close range. It\r\nslashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp240.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n２種類のビーム砲を撃つ。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon. It fires two\r\nkinds of beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp241.txt",
+  "bytes": 166,
+  "ja": "レイズタイガー専用の武装。　　　　　　　\r\n帯状の中距離レーザー砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rayse Tiger-exclusive weapon. Mid-range\r\nlaser cannon that fires a band-shaped\r\nbeam.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp242.txt",
+  "bytes": 166,
+  "ja": "レイズタイガー専用の武装。　　　　　　　\r\n弾が数発連続で発射される、レーザー砲。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rayse Tiger-exclusive weapon. Laser\r\ncannon that fires several shots in a\r\nrow.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp243.txt",
+  "bytes": 166,
+  "ja": "レイズタイガー専用の武装。　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rayse Tiger-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp244.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp245.txt",
+  "bytes": 166,
+  "ja": "デスザウラー専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Saurer-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp246.txt",
+  "bytes": 166,
+  "ja": "デスザウラー専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Saurer-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp247.txt",
+  "bytes": 166,
+  "ja": "デスザウラー専用の武装。　　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Saurer-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp248.txt",
+  "bytes": 166,
+  "ja": "デカルトドラゴン専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Decalto Dragon-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp249.txt",
+  "bytes": 166,
+  "ja": "デスザウラー専用の武装。　　　　　　　　\r\n多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Saurer-exclusive weapon.\r\nMulti-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp250.txt",
+  "bytes": 166,
+  "ja": "ＬＺフェニックス専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "LZ Phoenix-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp251.txt",
+  "bytes": 166,
+  "ja": "ＬＺフェニックス専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "LZ Phoenix-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp252.txt",
+  "bytes": 166,
+  "ja": "エナジーライガー専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Energy Liger-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp253.txt",
+  "bytes": 166,
+  "ja": "エナジーライガー専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Energy Liger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp254.txt",
+  "bytes": 166,
+  "ja": "デススティンガー専用の武装。　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Stinger-exclusive weapon.\r\nMid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp255.txt",
+  "bytes": 166,
+  "ja": "ディアブロタイガーβ専用の武装。　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Diablo Tiger Beta-exclusive weapon.\r\nMid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp256.txt",
+  "bytes": 166,
+  "ja": "デススティンガー専用の武装。　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Stinger-exclusive weapon. Vulcan\r\nweapon that fires several rounds in a\r\nrow.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp257.txt",
+  "bytes": 166,
+  "ja": "メガザウラー専用の武装。　　　　　　　　\r\n強力な威力を持ち、大ダメージを与える。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mega Saurer-exclusive weapon. It has\r\ntremendous power and deals heavy damage.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp258.txt",
+  "bytes": 166,
+  "ja": "デススティンガー専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Stinger-exclusive weapon.\r\nMid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp259.txt",
+  "bytes": 166,
+  "ja": "グラビティーサイクスの専用武装。　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saix-exclusive weapon. It boasts\r\nabsolute strength at close range. It\r\nslashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp260.txt",
+  "bytes": 166,
+  "ja": "中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp261.txt",
+  "bytes": 166,
+  "ja": "グラビティーサイクスの専用武装。　　　　\r\n背中の巨大ブレードを発射する。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saix-exclusive weapon. It\r\nlaunches the giant blades on its back.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp262.txt",
+  "bytes": 166,
+  "ja": "デカルトドラゴン専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Decalto Dragon-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp263.txt",
+  "bytes": 166,
+  "ja": "デススティンガー専用の武装。　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Death Stinger-exclusive weapon.\r\nMid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp264.txt",
+  "bytes": 166,
+  "ja": "アロザウラー専用の武装。　　　　　　　　\r\n火炎の弾を放射する、中距離武器。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Arosaurer-exclusive weapon. Mid-range\r\nweapon that shoots fireballs.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp265.txt",
+  "bytes": 166,
+  "ja": "４連装の中距離ビーム砲。　　　　　　　　\r\n対空武装としても、力を発揮する。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "4-barrel mid-range beam cannon. It is\r\nalso effective as an anti-air weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp266.txt",
+  "bytes": 166,
+  "ja": "中距離のグレネード弾。　　　　　　　　　\r\n着弾時に弾を爆発させ、ターゲットに　　　\r\nダメージを与える。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range grenade. It explodes on impact\r\nand damages the target.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp267.txt",
+  "bytes": 166,
+  "ja": "２連装の中距離グレネード弾。　　　　　　\r\n着弾時に弾を爆発させ、ターゲットに　　　\r\nダメージを与える。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin mid-range grenades. It explodes on\r\nimpact and damages the target.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp268.txt",
+  "bytes": 166,
+  "ja": "グラビティーザウラー専用の武装。　　　　\r\n２連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saurer-exclusive weapon. Twin\r\nlong-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp269.txt",
+  "bytes": 166,
+  "ja": "グラビティーザウラー専用の武装。　　　　\r\n４連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saurer-exclusive weapon.\r\n4-barrel mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp270.txt",
+  "bytes": 166,
+  "ja": "２連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp271.txt",
+  "bytes": 166,
+  "ja": "ガイリュウキ専用の武装。　　　　　　　　\r\n連射力のある、４連装ビームバルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gairyuki-exclusive weapon. Rapid-fire\r\n4-barrel beam vulcan weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp272.txt",
+  "bytes": 166,
+  "ja": "ガイリュウキ専用の武装。　　　　　　　　\r\n８連装の中距離ビームキャノン。　　　　　\r\n対空武装としても、力を発揮する。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gairyuki-exclusive weapon. 8-barrel\r\nmid-range beam cannon. It is also\r\neffective as an anti-air weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp273.txt",
+  "bytes": 166,
+  "ja": "ガイリュウキ専用の武装。　　　　　　　　\r\n２連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gairyuki-exclusive weapon. Twin\r\nmid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp274.txt",
+  "bytes": 166,
+  "ja": "サイクロプス壱式専用の武装。　　　　　　\r\n中距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type I-exclusive weapon.\r\nMid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp275.txt",
+  "bytes": 166,
+  "ja": "プロトセイバー専用の武装。　　　　　　　\r\n使用時にはスナイパーモードへ移行。　　　\r\n隙は大きいが、後方からの援護では力を発揮\r\nする。　　　　　　　　　　　　　　　　　",
+  "en": "Proto Saber-exclusive weapon. It shifts\r\nto Sniper Mode when used. It leaves you\r\nwide open, but it excels at support from\r\nthe rear.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp276.txt",
+  "bytes": 166,
+  "ja": "中距離ジャミング砲。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mid-range jamming cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp277.txt",
+  "bytes": 166,
+  "ja": "敵の視界を奪う、煙幕発生装置。　　　　　\r\n黒煙に触れた機体は、サーチ不能になる。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Smoke screen generator that blinds the\r\nenemy. Zoids that touch the black smoke\r\nbecome unable to search.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp278.txt",
+  "bytes": 166,
+  "ja": "グリフォン専用ユニット。　　　　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Gryphon-exclusive unit. It lets the Zoid\r\nfly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp279.txt",
+  "bytes": 166,
+  "ja": "キメラドラゴン専用ユニット。　　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Chimera Dragon-exclusive unit. It lets\r\nthe Zoid fly for a set time. Note that\r\nthe controls also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp280.txt",
+  "bytes": 166,
+  "ja": "ロードゲイル専用ユニット。　　　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Lord Gale-exclusive unit. It lets the\r\nZoid fly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp281.txt",
+  "bytes": 166,
+  "ja": "マトリクスドラゴン専用ユニット。　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Matrix Dragon-exclusive unit. It lets\r\nthe Zoid fly for a set time. Note that\r\nthe controls also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp282.txt",
+  "bytes": 166,
+  "ja": "ＬＺフェニックス専用ユニット。　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "LZ Phoenix-exclusive unit. It lets the\r\nZoid fly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp283.txt",
+  "bytes": 166,
+  "ja": "エナジーライガー専用ユニット。　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Energy Liger-exclusive unit. It lets the\r\nZoid fly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp284.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロファルコン専用ユニット。　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Liger Zero Falcon-exclusive unit. It\r\nlets the Zoid fly for a set time. Note\r\nthat the controls also change during\r\nflight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp285.txt",
+  "bytes": 166,
+  "ja": "バスターフューラー専用ユニット。　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Buster Fury-exclusive unit. It lets the\r\nZoid fly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp286.txt",
+  "bytes": 166,
+  "ja": "レイズタイガー専用ユニット。　　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Rayse Tiger-exclusive unit. It lets the\r\nZoid fly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp287.txt",
+  "bytes": 166,
+  "ja": "デカルトドラゴン専用ユニット。　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Decalto Dragon-exclusive unit. It lets\r\nthe Zoid fly for a set time. Note that\r\nthe controls also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp288.txt",
+  "bytes": 166,
+  "ja": "ストームソーダー専用の武装。　　　　　　\r\n下のターゲットに対して攻撃する、　　　　\r\n投下型爆弾。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Storm Sworder-exclusive weapon. Drop\r\nbomb that attacks targets below.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp289.txt",
+  "bytes": 166,
+  "ja": "プテラス専用の武装。　　　　　　　　　　\r\n下のターゲットに対して攻撃する、　　　　\r\n投下型爆弾。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras-exclusive weapon. Drop bomb that\r\nattacks targets below.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp290.txt",
+  "bytes": 166,
+  "ja": "ザバット専用の武装。　　　　　　　　　　\r\n下のターゲットに対して攻撃する、　　　　\r\n投下型爆弾。　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zabat-exclusive weapon. Drop bomb that\r\nattacks targets below.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp291.txt",
+  "bytes": 166,
+  "ja": "プテラス専用の武装。　　　　　　　　　　\r\n６連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras-exclusive weapon. 6-barrel\r\nlong-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp292.txt",
+  "bytes": 166,
+  "ja": "プテラス専用の武装。　　　　　　　　　　\r\n８連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras-exclusive weapon. 8-barrel\r\nlong-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp293.txt",
+  "bytes": 166,
+  "ja": "２連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin mid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp294.txt",
+  "bytes": 166,
+  "ja": "ブラキオレックス専用の武装。　　　　　　\r\n火炎の弾を発射する。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Rex-exclusive weapon. It fires\r\nfireballs.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp295.txt",
+  "bytes": 166,
+  "ja": "ブラキオレックス専用の武装。　　　　　　\r\n２連装の長距離キャノン砲。　　　　　　　\r\n対空武装としても、力を発揮する。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Rex-exclusive weapon. Twin\r\nlong-range cannon. It is also effective\r\nas an anti-air weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp296.txt",
+  "bytes": 166,
+  "ja": "ブラキオレックス専用の武装。　　　　　　\r\n長距離キャノン砲。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Rex-exclusive weapon. Long-range\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp297.txt",
+  "bytes": 166,
+  "ja": "ブラキオレックス専用の武装。　　　　　　\r\n２連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Rex-exclusive weapon. Twin\r\nmid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp298.txt",
+  "bytes": 166,
+  "ja": "ビームとミサイルの両方を兼ね備えた武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines both a beam and\r\nmissiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp299.txt",
+  "bytes": 166,
+  "ja": "アイアンコング専用の武装。　　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Iron Kong-exclusive weapon. Long-range\r\nmissile. Its homing performance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp300.txt",
+  "bytes": 166,
+  "ja": "アイアンコング専用の武装。　　　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Iron Kong-exclusive weapon. Mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp301.txt",
+  "bytes": 166,
+  "ja": "ビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines a beam and a\r\ngatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp302.txt",
+  "bytes": 166,
+  "ja": "メガザウラー専用の武装。　　　　　　　　\r\n強力な威力を持ち、大ダメージを与える。　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Mega Saurer-exclusive weapon. It has\r\ntremendous power and deals heavy damage.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp303.txt",
+  "bytes": 166,
+  "ja": "長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp304.txt",
+  "bytes": 166,
+  "ja": "弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Vulcan weapon that fires several rounds\r\nin a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp305.txt",
+  "bytes": 166,
+  "ja": "ビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines a beam and a\r\ngatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp306.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用のブースター。　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp307.txt",
+  "bytes": 166,
+  "ja": "多弾のミサイル系武器。　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Multi-shot missile weapon. Its homing\r\nperformance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp308.txt",
+  "bytes": 166,
+  "ja": "ビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines a beam and a\r\ngatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp309.txt",
+  "bytes": 166,
+  "ja": "ビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines a beam and a\r\ngatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp310.txt",
+  "bytes": 166,
+  "ja": "ビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines a beam and a\r\ngatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp311.txt",
+  "bytes": 166,
+  "ja": "ビームとガトリングを兼ね備えた武器。　　\r\n連射力が高い。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Weapon that combines a beam and a\r\ngatling gun. Its rapid-fire ability is\r\nhigh.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp312.txt",
+  "bytes": 166,
+  "ja": "ボルドガルド専用の武装。　　　　　　　　\r\n４連装の中距離キャノン砲。　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Bold Guard-exclusive weapon. 4-barrel\r\nmid-range cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp313.txt",
+  "bytes": 166,
+  "ja": "ボルドガルド専用の武装。　　　　　　　　\r\n４連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Bold Guard-exclusive weapon. 4-barrel\r\nlong-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp314.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp315.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロファルコン専用の武装。　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Falcon-exclusive weapon.\r\nVulcan weapon that fires several rounds\r\nin a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp316.txt",
+  "bytes": 166,
+  "ja": "ザバット専用の武装。　　　　　　　　　　\r\n２連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zabat-exclusive weapon. Twin mid-range\r\nbeam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp317.txt",
+  "bytes": 166,
+  "ja": "プテラス専用の武装。　　　　　　　　　　\r\n弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras-exclusive weapon. Vulcan weapon\r\nthat fires several rounds in a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp318.txt",
+  "bytes": 166,
+  "ja": "４連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "4-barrel long-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp319.txt",
+  "bytes": 166,
+  "ja": "２連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Twin long-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp320.txt",
+  "bytes": 166,
+  "ja": "弾が数発連続で発射される、バルカン武器。\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Vulcan weapon that fires several rounds\r\nin a row.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp321.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\n収縮されたエネルギーが撃ちだせる、　　　\r\n長距離ビームキャノン砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon.\r\nLong-range beam cannon that fires\r\ncompressed energy.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp322.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\nベルセルクハンマーでの格闘武器。　　　　\r\n射程距離は短いが、威力は絶大。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Melee\r\nweapon that strikes with the Berserk\r\nHammer. Its range is short, but its\r\npower is immense.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp323.txt",
+  "bytes": 166,
+  "ja": "カニの形状をした、ハンマーとビームの　　\r\n両方を兼ね備えた武装。　　　　　　　　　\r\n近距離では、ハンマー。　　　　　　　　　\r\n中距離では、ビーム砲を発射する。　　　　",
+  "en": "Crab-shaped weapon that combines both a\r\nhammer and a beam. At close range, it is\r\na hammer. At mid range, it fires a beam\r\ncannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp324.txt",
+  "bytes": 166,
+  "ja": "アロザウラー専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Arosaurer-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp325.txt",
+  "bytes": 166,
+  "ja": "カノントータス専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cannon Tortoise-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp326.txt",
+  "bytes": 166,
+  "ja": "ディバイソン専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dibison-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp327.txt",
+  "bytes": 166,
+  "ja": "モルガ専用のブースター。　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Molga-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp328.txt",
+  "bytes": 166,
+  "ja": "ケーニッヒウルフ専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Konig Wolf-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp329.txt",
+  "bytes": 166,
+  "ja": "プテラス専用のブースター。　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp330.txt",
+  "bytes": 166,
+  "ja": "パンツァー専用のブースター。　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Panzer-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp331.txt",
+  "bytes": 166,
+  "ja": "イクス専用のブースター。　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero X-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp332.txt",
+  "bytes": 166,
+  "ja": "グラビティーサイクス専用のブースター。　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saix-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp333.txt",
+  "bytes": 166,
+  "ja": "ゴジュラス専用のブースター。　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp334.txt",
+  "bytes": 166,
+  "ja": "シャドーフォックス専用のブースター。　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Shadow Fox-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp335.txt",
+  "bytes": 166,
+  "ja": "レブラプター専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rev Raptor-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp336.txt",
+  "bytes": 166,
+  "ja": "ジェノザウラー専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Saurer-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp337.txt",
+  "bytes": 166,
+  "ja": "グラビティーザウラー専用のブースター。　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saurer-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp338.txt",
+  "bytes": 166,
+  "ja": "ガンスナイパー専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gun Sniper-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp339.txt",
+  "bytes": 166,
+  "ja": "セイバータイガー系、プロトセイバーの　　\r\nブースター。　　　　　　　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Booster for the Zaber Fang line and the\r\nProto Saber. It raises top speed for a\r\nset time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp340.txt",
+  "bytes": 166,
+  "ja": "レッドホーン、ダークホーン専用の　　　　\r\nブースター。　　　　　　　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Booster exclusive to the Red Horn and\r\nDark Horn. It raises top speed for a set\r\ntime.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp341.txt",
+  "bytes": 166,
+  "ja": "ＢＦシュトゥルム専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "BF Sturm-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp342.txt",
+  "bytes": 166,
+  "ja": "スナイプマスター専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Snipe Master-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp343.txt",
+  "bytes": 166,
+  "ja": "ダークスパイナー専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dark Spiner-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp344.txt",
+  "bytes": 166,
+  "ja": "ガイリュウキ専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gairyuki-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp345.txt",
+  "bytes": 166,
+  "ja": "ディアブロタイガー専用のブースター。　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Diablo Tiger-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp346.txt",
+  "bytes": 166,
+  "ja": "サイクロプス壱式専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type I-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp347.txt",
+  "bytes": 166,
+  "ja": "サイクロプス弐式専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type II-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp348.txt",
+  "bytes": 166,
+  "ja": "ブラキオレックス専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Rex-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp349.txt",
+  "bytes": 166,
+  "ja": "ガイリュウキ専用ユニット。　　　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Gairyuki-exclusive unit. It lets the\r\nZoid fly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp350.txt",
+  "bytes": 166,
+  "ja": "ブレードライガー専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blade Liger-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp351.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロ専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp352.txt",
+  "bytes": 166,
+  "ja": "アイアンコング専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Iron Kong-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp353.txt",
+  "bytes": 166,
+  "ja": "ライトニングサイクス専用のブースター。　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lightning Saix-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp354.txt",
+  "bytes": 166,
+  "ja": "コマンドウルフ、ロードゲイルの　　　　　\r\n専用ブースター。　　　　　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Booster exclusive to the Command Wolf\r\nand Lord Gale. It raises top speed for a\r\nset time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp355.txt",
+  "bytes": 166,
+  "ja": "ボルドガルド専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Bold Guard-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp356.txt",
+  "bytes": 166,
+  "ja": "シュナイダー専用のブースター。　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Schneider-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp357.txt",
+  "bytes": 166,
+  "ja": "イエーガー専用のブースター。　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Jaeger-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp358.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロファルコン専用のブースター。\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero Falcon-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp359.txt",
+  "bytes": 166,
+  "ja": "バーサークフューラー、バスターフューラー\r\n専用のブースター。　　　　　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Booster exclusive to the Berserk Fury\r\nand Buster Fury. It raises top speed for\r\na set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp360.txt",
+  "bytes": 166,
+  "ja": "ストームソーダー専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Storm Sworder-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp361.txt",
+  "bytes": 166,
+  "ja": "ザバット専用のブースター。　　　　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zabat-exclusive booster. It raises top\r\nspeed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp362.txt",
+  "bytes": 166,
+  "ja": "ジェノブレイカー専用のブースター。　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Breaker-exclusive booster. It\r\nraises top speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp363.txt",
+  "bytes": 166,
+  "ja": "ブレードライガー専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Blade Liger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp364.txt",
+  "bytes": 166,
+  "ja": "シュナイダー専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Schneider-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp365.txt",
+  "bytes": 166,
+  "ja": "バーサークフューラー専用のＥシールド。　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Berserk Fury-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp366.txt",
+  "bytes": 166,
+  "ja": "ＢＦシュトゥルム専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "BF Sturm-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp367.txt",
+  "bytes": 166,
+  "ja": "アロザウラー専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Arosaurer-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp368.txt",
+  "bytes": 166,
+  "ja": "カノントータス専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cannon Tortoise-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp369.txt",
+  "bytes": 166,
+  "ja": "コマンドウルフ専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Command Wolf-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp370.txt",
+  "bytes": 166,
+  "ja": "ディバイソン専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dibison-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp371.txt",
+  "bytes": 166,
+  "ja": "ライガーゼロ専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp372.txt",
+  "bytes": 166,
+  "ja": "モルガ専用のＥシールド。　　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Molga-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp373.txt",
+  "bytes": 166,
+  "ja": "ケーニッヒウルフ専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Konig Wolf-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp374.txt",
+  "bytes": 166,
+  "ja": "イエーガー専用のＥシールド。　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Jaeger-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp375.txt",
+  "bytes": 166,
+  "ja": "パンツァー専用のＥシールド。　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Panzer-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp376.txt",
+  "bytes": 166,
+  "ja": "イクス専用のＥシールド。　　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Liger Zero X-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp377.txt",
+  "bytes": 166,
+  "ja": "ライトニングサイクス専用のＥシールド。　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Lightning Saix-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp378.txt",
+  "bytes": 166,
+  "ja": "ゴジュラス専用のＥシールド。　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gojulas-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp379.txt",
+  "bytes": 166,
+  "ja": "ジェノブレイカー専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Breaker-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp380.txt",
+  "bytes": 166,
+  "ja": "グラビティーウルフ専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Wolf-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp381.txt",
+  "bytes": 166,
+  "ja": "シャドーフォックス専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Shadow Fox-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp382.txt",
+  "bytes": 166,
+  "ja": "レブラプター専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rev Raptor-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp383.txt",
+  "bytes": 166,
+  "ja": "ジェノザウラー専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Geno Saurer-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp384.txt",
+  "bytes": 166,
+  "ja": "アイアンコング専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Iron Kong-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp385.txt",
+  "bytes": 166,
+  "ja": "ガンスナイパー専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gun Sniper-exclusive E-Shield. It blocks\r\na set amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp386.txt",
+  "bytes": 166,
+  "ja": "セイバータイガー系専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "E-Shield exclusive to the Zaber Fang\r\nline. It blocks a set amount of damage\r\nfrom frontal attacks. It can also be\r\nused to attack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp387.txt",
+  "bytes": 166,
+  "ja": "レッドホーン、ダークホーン系専用の　　　\r\nＥシールド。　　　　　　　　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。",
+  "en": "E-Shield exclusive to the Red Horn and\r\nDark Horn lines. It blocks a set amount\r\nof damage from frontal attacks. It can\r\nalso be used to attack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp388.txt",
+  "bytes": 166,
+  "ja": "スナイプマスター専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Snipe Master-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp389.txt",
+  "bytes": 166,
+  "ja": "ダークスパイナー専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Dark Spiner-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp390.txt",
+  "bytes": 166,
+  "ja": "ディアブロタイガー専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Diablo Tiger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp391.txt",
+  "bytes": 166,
+  "ja": "サイクロプス弐式専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type II-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp392.txt",
+  "bytes": 166,
+  "ja": "サイクロプス壱式専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Cyclops Type I-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp393.txt",
+  "bytes": 166,
+  "ja": "グラビティーサイクス専用のＥシールド。　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saix-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp394.txt",
+  "bytes": 166,
+  "ja": "グラビティーザウラー専用のＥシールド。　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gravity Saurer-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp395.txt",
+  "bytes": 166,
+  "ja": "ガイリュウキ専用のＥシールド。　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Gairyuki-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp396.txt",
+  "bytes": 166,
+  "ja": "ブラキオレックス専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brachio Rex-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp397.txt",
+  "bytes": 166,
+  "ja": "バスターフューラー専用のＥシールド。　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Buster Fury-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp398.txt",
+  "bytes": 166,
+  "ja": "機体を周囲の環境に応じて変化させ、　　　\r\n姿を消すことが出来る。　　　　　　　　　\r\nステルス中は、サーチされない。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "It changes the Zoid to match its\r\nsurroundings and makes it vanish. While\r\nin stealth, the Zoid cannot be searched.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp399.txt",
+  "bytes": 166,
+  "ja": "地雷を噴射すると、一定時間経過するか、　\r\nゾイドに触れる事により爆破する。　　　　\r\n広い範囲で爆発するため、噴射後は距離を　\r\n取らないと、爆発に巻き込まれる。　　　　",
+  "en": "Ejected mines explode after a set time\r\nor when a Zoid touches them. The blast\r\nis wide, so move away after ejecting\r\nthem or you will be caught in it.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp400.txt",
+  "bytes": 166,
+  "ja": "プテラス専用のＥシールド。　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Pteras-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp401.txt",
+  "bytes": 166,
+  "ja": "ストームソーダー専用のＥシールド。　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Storm Sworder-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp402.txt",
+  "bytes": 166,
+  "ja": "ザバット専用のＥシールド。　　　　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Zabat-exclusive E-Shield. It blocks a\r\nset amount of damage from frontal\r\nattacks. It can also be used to attack\r\nenemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp403.txt",
+  "bytes": 166,
+  "ja": "レイズタイガー専用のブースター。　　　　\r\n一定時間、最高速度がアップする。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rayse Tiger-exclusive booster. It raises\r\ntop speed for a set time.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp404.txt",
+  "bytes": 166,
+  "ja": "レイズタイガー専用のＥシールド。　　　　\r\n前方からの攻撃を一定ダメージ防ぐ。　　　\r\nまた、敵への攻撃手段としても活用できる。\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Rayse Tiger-exclusive E-Shield. It\r\nblocks a set amount of damage from\r\nfrontal attacks. It can also be used to\r\nattack enemies.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp405.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用の武装。　　　　　\r\n近距離では絶対的な強さを誇る。　　　　　\r\n移動しながら敵機を切り裂く。　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive weapon. It\r\nboasts absolute strength at close range.\r\nIt slashes enemy Zoids while moving.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp406.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用の武装。　　　　　\r\n中距離ビーム砲。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive weapon.\r\nMid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp407.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用の武装。　　　　　\r\n３連装の中距離ビーム砲。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive weapon. Triple\r\nmid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp408.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用の武装。　　　　　\r\n２連装の中距離ビームキャノン。　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive weapon. Twin\r\nmid-range beam cannon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp409.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用の武装。　　　　　\r\n対空武装としても、力を発揮する。　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive weapon. It is\r\nalso effective as an anti-air weapon.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp410.txt",
+  "bytes": 166,
+  "ja": "ブラストルタイガー専用の武装。　　　　　\r\n６連装の長距離ミサイル。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Brastle Tiger-exclusive weapon. 6-barrel\r\nlong-range missiles.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp411.txt",
+  "bytes": 166,
+  "ja": "ゾイドの装甲を強化させる、金属パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Metal part that strengthens a Zoid's\r\narmor. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp412.txt",
+  "bytes": 166,
+  "ja": "ゾイドの装甲を強化させる、金属パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Metal part that strengthens a Zoid's\r\narmor. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp413.txt",
+  "bytes": 166,
+  "ja": "ゾイドの装甲を強化させる、金属パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Metal part that strengthens a Zoid's\r\narmor. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp414.txt",
+  "bytes": 166,
+  "ja": "ゾイドの装甲を強化させる、金属パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Metal part that strengthens a Zoid's\r\narmor. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp415.txt",
+  "bytes": 166,
+  "ja": "ゾイドの装甲を強化させる、金属パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Metal part that strengthens a Zoid's\r\narmor. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp416.txt",
+  "bytes": 166,
+  "ja": "敵をサーチする距離を強化させる、　　　　\r\nサーチレーダー強化パーツ。　　　　　　　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Search radar upgrade part that extends\r\nthe distance for searching enemies. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp417.txt",
+  "bytes": 166,
+  "ja": "敵をサーチする距離を強化させる、　　　　\r\nサーチレーダー強化パーツ。　　　　　　　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Search radar upgrade part that extends\r\nthe distance for searching enemies. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp418.txt",
+  "bytes": 166,
+  "ja": "敵をサーチする距離を強化させる、　　　　\r\nサーチレーダー強化パーツ。　　　　　　　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Search radar upgrade part that extends\r\nthe distance for searching enemies. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp419.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\nビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Weapon\r\nthat combines a beam and a gatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp420.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\nビームとガトリングを兼ね備えた武器。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. Weapon\r\nthat combines a beam and a gatling gun.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp421.txt",
+  "bytes": 166,
+  "ja": "セイスモサウルス専用の武装。　　　　　　\r\nビームを周囲に砲撃する。　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Seismosaurus-exclusive weapon. It fires\r\nbeams all around.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp422.txt",
+  "bytes": 166,
+  "ja": "マップレーダーを強化させるパーツ。　　　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that strengthens the map radar. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp423.txt",
+  "bytes": 166,
+  "ja": "マップレーダーを強化させるパーツ。　　　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that strengthens the map radar. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp424.txt",
+  "bytes": 166,
+  "ja": "未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　",
+  "en": "Not entered.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp425.txt",
+  "bytes": 166,
+  "ja": "未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　",
+  "en": "Not entered.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp426.txt",
+  "bytes": 166,
+  "ja": "未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　",
+  "en": "Not entered.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp427.txt",
+  "bytes": 166,
+  "ja": "マップレーダーを強化させるパーツ。　　　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that strengthens the map radar. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp428.txt",
+  "bytes": 166,
+  "ja": "サーチレーダー、マップレーダーを共に、　\r\n強化させるパーツ。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that strengthens both the search\r\nradar and the map radar.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp429.txt",
+  "bytes": 166,
+  "ja": "サーチレーダー、マップレーダーを共に、　\r\n強化させるパーツ。　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that strengthens both the search\r\nradar and the map radar.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp430.txt",
+  "bytes": 166,
+  "ja": "ゾイドの最高速をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's top speed. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp431.txt",
+  "bytes": 166,
+  "ja": "ゾイドの最高速をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's top speed. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp432.txt",
+  "bytes": 166,
+  "ja": "ゾイドの最高速をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's top speed. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp433.txt",
+  "bytes": 166,
+  "ja": "ゾイドの最高速をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's top speed. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp434.txt",
+  "bytes": 166,
+  "ja": "ゾイドの最高速をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's top speed. It\r\ncan be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp435.txt",
+  "bytes": 166,
+  "ja": "ゾイドの旋回能力をアップさせる、パーツ。\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's turning\r\nability. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp436.txt",
+  "bytes": 166,
+  "ja": "ゾイドのスピードを最大限に引き出す事が、\r\n出来るパーツ。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that brings out a Zoid's speed to\r\nthe fullest.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp437.txt",
+  "bytes": 166,
+  "ja": "ゾイドの旋回能力を最大限に引き出す事が、\r\n出来るパーツ。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that brings out a Zoid's turning\r\nability to the fullest.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp438.txt",
+  "bytes": 166,
+  "ja": "ゾイドの攻撃力を最大限に引き出す事が、　\r\n出来るパーツ。　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that brings out a Zoid's attack\r\npower to the fullest.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp439.txt",
+  "bytes": 166,
+  "ja": "シンカー専用ユニット。　　　　　　　　　\r\n一定時間、飛行可能になります。　　　　　\r\nただし、飛行時には、操作も変わるので、　\r\n注意してください。　　　　　　　　　　　",
+  "en": "Sinker-exclusive unit. It lets the Zoid\r\nfly for a set time. Note that the\r\ncontrols also change during flight.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp440.txt",
+  "bytes": 166,
+  "ja": "ゾイドの旋回能力をアップさせる、パーツ。\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's turning\r\nability. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp441.txt",
+  "bytes": 166,
+  "ja": "ゾイドの旋回能力をアップさせる、パーツ。\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's turning\r\nability. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp442.txt",
+  "bytes": 166,
+  "ja": "ゾイドの旋回能力をアップさせる、パーツ。\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's turning\r\nability. It can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp443.txt",
+  "bytes": 166,
+  "ja": "ゾイドの攻撃力をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's attack power.\r\nIt can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp444.txt",
+  "bytes": 166,
+  "ja": "ゾイドの攻撃力をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's attack power.\r\nIt can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp445.txt",
+  "bytes": 166,
+  "ja": "ゾイドの攻撃力をアップさせる、パーツ。　\r\nすべてのゾイドに装備する事ができる。　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that raises a Zoid's attack power.\r\nIt can be equipped on any Zoid.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp446.txt",
+  "bytes": 166,
+  "ja": "強力な力を手に入れる事のできるパーツ。　\r\nただし機体の重量がなくなり、　　　　　　\r\n吹っ飛びやすくなる。　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Part that grants tremendous power.\r\nHowever, the Zoid loses its weight and\r\nis easily sent flying.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp447.txt",
+  "bytes": 166,
+  "ja": "未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　\r\n未記入　　　　　　　　　　　　　　　　　",
+  "en": "Not entered.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp448.txt",
+  "bytes": 166,
+  "ja": "サラマンダー専用の武装。　　　　　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n誘導性能が高い。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Salamander-exclusive weapon. Long-range\r\nmissile. Its homing performance is high.",
+  "cap": 397
+ },
+ {
+  "id": "weapon/ID/wp449.txt",
+  "bytes": 166,
+  "ja": "“レイコング”のパーツから作った　　　　\r\n長距離ミサイル。　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　\r\n　　　　　　　　　　　　　　　　　　　　",
+  "en": "Long-range missile built from parts of\r\nthe \"Ray Kong\".",
+  "cap": 397
+ }
+]

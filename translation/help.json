@@ -1,0 +1,182 @@
+[
+ {
+  "id": "help:ゾイドの動作チェックを行います。\r\nまずは、基本動作から始めます。\r\n\r\n\r\n",
+  "kind": "help",
+  "ja": "ゾイドの動作チェックを行います。\r\nまずは、基本動作から始めます。\r\n\r\n\r\n",
+  "en": "Running a Zoid operations check.\r\nWe'll start with basic movement.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x10"
+  ]
+ },
+ {
+  "id": "help:ゾイド機体の移動関係の基本的な操作です。\r\n\r\n\r\n\r\n",
+  "kind": "help",
+  "ja": "ゾイド機体の移動関係の基本的な操作です。\r\n\r\n\r\n\r\n",
+  "en": "These are the basic controls for\r\nmoving your Zoid.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x120"
+  ]
+ },
+ {
+  "id": "help:コントロールスティック：ゾイドの移動\r\nスティックを上に入れると前進、\r\n左右に傾けると左右に旋回します。\r\nスティックを倒す強さによって、ゾイドの速度が\r\n変化します。",
+  "kind": "help",
+  "ja": "コントロールスティック：ゾイドの移動\r\nスティックを上に入れると前進、\r\n左右に傾けると左右に旋回します。\r\nスティックを倒す強さによって、ゾイドの速度が\r\n変化します。",
+  "en": "Control Stick: Move Zoid\r\nPush up to advance, tilt left or right\r\nto turn. How far you tilt the stick\r\nchanges your Zoid's speed.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x230"
+  ]
+ },
+ {
+  "id": "help:コントロールスティック：ゾイドの移動\r\n機体が止まっている状態から\r\nコントロールスティックを後方に入力すると、\r\nバック歩行が出来ます。\r\n",
+  "kind": "help",
+  "ja": "コントロールスティック：ゾイドの移動\r\n機体が止まっている状態から\r\nコントロールスティックを後方に入力すると、\r\nバック歩行が出来ます。\r\n",
+  "en": "Control Stick: Move Zoid\r\nFrom a standstill, pull the Control\r\nStick back to walk backward.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x340"
+  ]
+ },
+ {
+  "id": "help:Bボタン：ジャンプ\r\nBボタンでジャンプします。ジャンプ中に\r\nコントロールスティックを再入力すると、\r\n入力方向にジャンプ軌道が変わります。\r\n",
+  "kind": "help",
+  "ja": "Bボタン：ジャンプ\r\nBボタンでジャンプします。ジャンプ中に\r\nコントロールスティックを再入力すると、\r\n入力方向にジャンプ軌道が変わります。\r\n",
+  "en": "B Button: Jump\r\nPress the B Button to jump. Tilt the\r\nControl Stick again in midair to shift\r\nyour jump in that direction.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x450"
+  ]
+ },
+ {
+  "id": "help:Cスティック：ステップ\r\nCスティックを倒した方向へサイドステップします。\r\nステップ中にコントロールスティックを\r\n再入力すると入力方向に旋回することができます。\r\n",
+  "kind": "help",
+  "ja": "Cスティック：ステップ\r\nCスティックを倒した方向へサイドステップします。\r\nステップ中にコントロールスティックを\r\n再入力すると入力方向に旋回することができます。\r\n",
+  "en": "C Stick: Step\r\nSidestep in the direction you tilt the\r\nC Stick. Tilt the Control Stick again\r\nmid-step to turn in that direction.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x560"
+  ]
+ },
+ {
+  "id": "help:基本操作を使用して「EXIT」ポイントまで到達し\r\nてください。\r\nAボタンで動作テスト開始します。\r\n\r\n",
+  "kind": "help",
+  "ja": "基本操作を使用して「EXIT」ポイントまで到達し\r\nてください。\r\nAボタンで動作テスト開始します。\r\n\r\n",
+  "en": "Use the basic controls to reach the\r\n\"EXIT\" point.\r\nPress the A Button to start the test.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M071.msg:0x670"
+  ]
+ },
+ {
+  "id": "help:砲撃武器のシステムチェックを行います。\r\n\r\n\r\n\r\n",
+  "kind": "help",
+  "ja": "砲撃武器のシステムチェックを行います。\r\n\r\n\r\n\r\n",
+  "en": "Running a system check of your\r\nranged weapons.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M072.msg:0x10"
+  ]
+ },
+ {
+  "id": "help:Aボタン：武器攻撃\r\nAボタンで選択中の武器による攻撃ができます。\r\nターゲットカーソルが青くなると\r\nロックオン状態になりホーミング系の武器は\r\n弾がターゲットに誘導されます。",
+  "kind": "help",
+  "ja": "Aボタン：武器攻撃\r\nAボタンで選択中の武器による攻撃ができます。\r\nターゲットカーソルが青くなると\r\nロックオン状態になりホーミング系の武器は\r\n弾がターゲットに誘導されます。",
+  "en": "A Button: Weapon Attack\r\nFire the selected weapon. When the\r\ntarget cursor turns blue, you're locked\r\non and homing shots track the target.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M072.msg:0x120"
+  ]
+ },
+ {
+  "id": "help:Yボタン：武器チェンジ\r\nAボタンで使用する武器を複数装備しているとき、\r\nYボタンで武器を順に切り替えられます。\r\n選択中の武器はアイコンが緑色で表示されます。",
+  "kind": "help",
+  "ja": "Yボタン：武器チェンジ\r\nAボタンで使用する武器を複数装備しているとき、\r\nYボタンで武器を順に切り替えられます。\r\n選択中の武器はアイコンが緑色で表示されます。",
+  "en": "Y Button: Change Weapon\r\nWith several A Button weapons equipped,\r\npress Y to cycle through them. The\r\nselected weapon's icon turns green.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M072.msg:0x230"
+  ]
+ },
+ {
+  "id": "help:Rトリガーボタン：エネミーサーチON\r\n指定ターゲットの近くでRトリガーボタンを押すと、\r\nターゲットを画面正面に捉え、\r\nゾイドはそのターゲットを中心に動きます。\r\nLトリガーボタンで解除できます。",
+  "kind": "help",
+  "ja": "Rトリガーボタン：エネミーサーチON\r\n指定ターゲットの近くでRトリガーボタンを押すと、\r\nターゲットを画面正面に捉え、\r\nゾイドはそのターゲットを中心に動きます。\r\nLトリガーボタンで解除できます。",
+  "en": "R Button: Enemy Search ON\r\nPress R near a target to keep it\r\ncentered; your Zoid moves around it.\r\nPress the L Button to cancel.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M072.msg:0x340"
+  ]
+ },
+ {
+  "id": "help:スライディングターン\r\nエネミーサーチ中に、ゾイドを走らせ進行方向の\r\n逆側にコントロールスティックを素早く入力すると、\r\nサーチしている敵にドリフトしながら正面を\r\n向く事が出来ます。",
+  "kind": "help",
+  "ja": "スライディングターン\r\nエネミーサーチ中に、ゾイドを走らせ進行方向の\r\n逆側にコントロールスティックを素早く入力すると、\r\nサーチしている敵にドリフトしながら正面を\r\n向く事が出来ます。",
+  "en": "Sliding Turn\r\nWhile running in Enemy Search, quickly\r\nflick the Control Stick the opposite way\r\nto drift around and face your target.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M072.msg:0x450"
+  ]
+ },
+ {
+  "id": "help:黄色いターゲットを全て破壊してください。\r\nAボタンで動作テスト開始します。\r\n\r\n\r\n",
+  "kind": "help",
+  "ja": "黄色いターゲットを全て破壊してください。\r\nAボタンで動作テスト開始します。\r\n\r\n\r\n",
+  "en": "Destroy all the yellow targets.\r\nPress the A Button to start the test.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M072.msg:0x560"
+  ]
+ },
+ {
+  "id": "help:格闘攻撃の機体制御チェックをおこないます。\r\n\r\n\r\n\r\n",
+  "kind": "help",
+  "ja": "格闘攻撃の機体制御チェックをおこないます。\r\n\r\n\r\n\r\n",
+  "en": "Running a control check of your\r\nmelee attacks.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M073.msg:0x10"
+  ]
+ },
+ {
+  "id": "help:Xボタン：格闘攻撃\r\nXボタンで武器を使わない格闘攻撃をおこないます。\r\n格闘攻撃の種類はゾイドによって変わります。\r\n\r\n",
+  "kind": "help",
+  "ja": "Xボタン：格闘攻撃\r\nXボタンで武器を使わない格闘攻撃をおこないます。\r\n格闘攻撃の種類はゾイドによって変わります。\r\n\r\n",
+  "en": "X Button: Melee Attack\r\nPress the X Button for a melee attack\r\nthat uses no weapons. The type of\r\nattack depends on the Zoid.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M073.msg:0x120"
+  ]
+ },
+ {
+  "id": "help:敵に接近すると、オレンジ色の丸いターゲットが\r\n表示されます。\r\nこの時に格闘攻撃を行うと、敵に向かいながら\r\n格闘攻撃を繰り出します。\r\n",
+  "kind": "help",
+  "ja": "敵に接近すると、オレンジ色の丸いターゲットが\r\n表示されます。\r\nこの時に格闘攻撃を行うと、敵に向かいながら\r\n格闘攻撃を繰り出します。\r\n",
+  "en": "Get close to an enemy and a round\r\norange target appears. Attack then\r\nand your Zoid lunges at the enemy\r\nwith a melee attack.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M073.msg:0x230"
+  ]
+ },
+ {
+  "id": "help:ジャンプ中にＸボタンを押すとジャンプ攻撃\r\nタイミングよくＸボタンを連打すると\r\n連続格闘攻撃も使うことができます。\r\n\r\n",
+  "kind": "help",
+  "ja": "ジャンプ中にＸボタンを押すとジャンプ攻撃\r\nタイミングよくＸボタンを連打すると\r\n連続格闘攻撃も使うことができます。\r\n\r\n",
+  "en": "Press the X Button in midair for a jump\r\nattack. Tap the X Button with good\r\ntiming to chain melee attacks.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M073.msg:0x340"
+  ]
+ },
+ {
+  "id": "help:出現するゾイドを全て破壊してください。\r\nAボタンで動作テスト開始します。\r\n\r\n\r\n",
+  "kind": "help",
+  "ja": "出現するゾイドを全て破壊してください。\r\nAボタンで動作テスト開始します。\r\n\r\n\r\n",
+  "en": "Destroy all the Zoids that appear.\r\nPress the A Button to start the test.",
+  "cap": 256,
+  "where": [
+   "menu/map_info_dat/M073.msg:0x450"
+  ]
+ }
+]
